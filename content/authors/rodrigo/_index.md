@@ -1,33 +1,32 @@
 ---
 # Display name
-title: 吳恩達
+title: Rodrigo Panosso Macedo
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- rodrigo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Distinguished Founder
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: England
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ruler of the Universe
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Universe
+- Rulers
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Theoretical Physics
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
@@ -44,16 +43,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:r.panossomacedo@qmul.ac.uk'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=8KzB01wAAAAJ
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://orcid.org/0000-0003-2942-5080
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,9 +64,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Rodrigo reaches for infinity and beyond.
