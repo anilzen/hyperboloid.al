@@ -23,8 +23,11 @@ organizations:
 bio: Ruler of the Universe
 
 interests:
-- Universe
-- Rulers
+- Black Holes
+- Gravitational Waves
+- Hyperboloidal Foliations
+- Spectral Methods
+- Mental Health
 
 education:
   courses:
