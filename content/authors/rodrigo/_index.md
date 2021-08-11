@@ -14,8 +14,8 @@ role: Postdoctoral Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Mathematical Sciences-The Gravity group 
-  url: https://www.southampton.ac.uk/maths/research/groups/relativity.page
+- name: Southampton Theory Astrophysics and Gravity Research Centre (STAG)
+  url: https://www.southampton.ac.uk/stag
 - name: University of Southampton
   url: https://www.southampton.ac.uk
 
@@ -68,7 +68,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "r.panossomacedo@gmail.com"
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -76,4 +79,6 @@ user_groups:
 - Researchers
 ---
 
-Rodrigo reaches for infinity and beyond.
+Postdoctoral Research Assistant at the [Southampton Theory Astrophysics and Gravity Research Centre](https://www.southampton.ac.uk/stag), at the [University of Southampton](https://www.southampton.ac.uk) with broad experience in research and teaching.
+
+I am a specialist in applying conformal methods (geometrical tool) with spectral methods (numerical tool) to obtain highly accurate solutions to Einstein’s equations in the context of black-hole dynamics and gravitational waves (astrophysics). 
