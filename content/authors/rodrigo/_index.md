@@ -27,19 +27,21 @@ interests:
 - Gravitational Waves
 - Hyperboloidal Foliations
 - Spectral Methods
-- Mental Health
 
 education:
   courses:
-  - course: PhD in Theoretical Physics
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physics
+    institution: Universidade de São Paulo, Brazil
+    year: 2011
+  - course: PhD Exchange Programm 
+    institution:  Max Planck Institute for Gravitational Physics, Germany 
+    year: 2010
+  - course: Licentiate in Physics
+    institution: Universidade Federal de São Carlos, Brazil
+    year: 2005
+  - course: BSc in Physics
+    institution: Universidade Federal de São Carlos, Brazil
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
