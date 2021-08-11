@@ -11,16 +11,13 @@ superuser: false
 
 # Role/position
 role: Postdoctoral Research Assistant
+
+# Organizations/Affiliations
 organizations:
 - name: Mathematical Sciences-The Gravity group 
   url: https://www.southampton.ac.uk/maths/research/groups/relativity.page
 - name: University of Southampton
   url: https://www.southampton.ac.uk
-
-# Organizations/Affiliations
-organizations:
-- name: England
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ruler of the Universe
