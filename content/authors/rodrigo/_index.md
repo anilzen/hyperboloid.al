@@ -11,6 +11,11 @@ superuser: false
 
 # Role/position
 role: Postdoctoral Research Assistant
+organizations:
+- name: Mathematical Sciences-The Gravity group 
+  url: https://www.southampton.ac.uk/maths/research/groups/relativity.page
+- name: University of Southampton
+  url: https://www.southampton.ac.uk
 
 # Organizations/Affiliations
 organizations:
