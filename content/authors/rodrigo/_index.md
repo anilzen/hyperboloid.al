@@ -57,6 +57,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-2942-5080
+  - icon: github
+  icon_pack: fab
+  link: https://github.com/ropmacedo
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
