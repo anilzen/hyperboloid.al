@@ -22,5 +22,3 @@ design:
 Spacelike surfaces that extend to null infinity are called **hyperboloidal**. 
 
 This site is currently under construction. In the future, you will find here explanations, history, and thoughts on the hyperboloidal method as well as applications of the technique to interesting problems.
-
-<!-- Contact us at infinity@hyperboloid.al  -->
