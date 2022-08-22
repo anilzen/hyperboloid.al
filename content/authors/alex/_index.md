@@ -74,4 +74,5 @@ user_groups:
 - Researchers
 ---
 
+My field of research lies at the interface between numerical and mathematical relativity. Related to the hyperboloidal problem, which I approach with comformal compactification methods, I am interested in hyperbolic gauge conditions for 3+1 formulations of General Relativity and the description of black hole geometries using trumpet slices. 
 
