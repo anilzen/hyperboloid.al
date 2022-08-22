@@ -27,16 +27,16 @@ interests:
 - Partial Differential Equations
 
 education:
-   courses:
-   - course: PhD in Physics
-     institution: University of the Balearic Islands, Palma de Mallorca, Spain
-     year: 2015
-   - course: Master in Physics
-     institution: University of the Balearic Islands, Palma de Mallorca, Spain
-     year: 2011
-   - course: Degree in Physics
-     institution: University of the Balearic Islands; 4th year at FSU Jena, Germany
-     year: 2010
+  courses:
+  - course: PhD in Physics
+    institution: University of the Balearic Islands, Palma de Mallorca, Spain
+    year: 2015
+  - course: Master in Physics
+    institution: University of the Balearic Islands, Palma de Mallorca, Spain
+    year: 2011
+  - course: Degree in Physics
+    institution: University of the Balearic Islands; 4th year at FSU Jena, Germany
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
