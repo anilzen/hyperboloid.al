@@ -26,7 +26,7 @@ interests:
 - Hyperboloidal Foliations
 - Partial Differential Equations
 
- education:
+education:
    courses:
    - course: PhD in Physics
      institution: University of the Balearic Islands, Palma de Mallorca, Spain
