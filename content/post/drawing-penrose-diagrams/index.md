@@ -18,7 +18,7 @@ image:
   preview_only: true
 
 authors:
-- anil
+- Anıl Zenginoğlu
 
 tags:
 - infinity
