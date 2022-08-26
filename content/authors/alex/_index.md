@@ -26,11 +26,17 @@ interests:
 - Hyperboloidal Foliations
 - Partial Differential Equations
 
-# education:
-#   courses:
-#   - course: PhD in Physics
-#     institution: University of Southampton
-#     year: 2007
+education:
+  courses:
+  - course: PhD in Physics
+    institution: University of the Balearic Islands, Palma de Mallorca, Spain
+    year: 2015
+  - course: Master in Physics
+    institution: University of the Balearic Islands, Palma de Mallorca, Spain
+    year: 2011
+  - course: Degree in Physics
+    institution: University of the Balearic Islands; 4th year at FSU Jena, Germany
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,3 +73,6 @@ highlight_name: true
 user_groups:
 - Researchers
 ---
+
+My field of research lies at the interface between numerical and mathematical relativity. Related to the hyperboloidal problem, which I approach with comformal compactification methods, I am interested in hyperbolic gauge conditions for 3+1 formulations of General Relativity and the description of black hole geometries using trumpet slices. 
+
