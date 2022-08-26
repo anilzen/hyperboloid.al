@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Blog Posts
 
 # Listing view
 view: compact
