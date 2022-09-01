@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Rodrigo Panosso Macedo
+weight: 20
 
 # Username (this should match the folder name)
 authors:

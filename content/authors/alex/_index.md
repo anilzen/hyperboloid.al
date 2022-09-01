@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Alex Vañó-Viñuales
+weight: 30
 
 # Username (this should match the folder name)
 authors:
