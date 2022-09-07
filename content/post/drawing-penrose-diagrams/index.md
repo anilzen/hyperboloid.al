@@ -18,7 +18,7 @@ image:
   preview_only: true
 
 authors:
-- Anıl Zenginoğlu
+- admin
 
 tags:
 - hyperboloidal
