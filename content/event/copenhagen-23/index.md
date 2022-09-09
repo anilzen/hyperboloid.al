@@ -20,7 +20,7 @@ This workshop aims to bring together leading experts to review and summarize the
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-07-10T09:00:00Z'
-date_end: '2030-07-13T15:00:00Z'
+date_end: '2023-07-13T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
