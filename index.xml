@@ -1,10 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hyperboloidal</title><link>https://hyperboloid.al/</link><atom:link href="https://hyperboloid.al/index.xml" rel="self" type="application/rss+xml"/><description>Hyperboloidal</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/media/logo_huee6cfb656ad77a41edf7471c8d890b5c_102772_300x300_fit_lanczos_3.png</url><title>Hyperboloidal</title><link>https://hyperboloid.al/</link></image><item><title>Example Event</title><link>https://hyperboloid.al/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>How to draw Penrose diagrams</title><link>https://hyperboloid.al/post/drawing-penrose-diagrams/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://hyperboloid.al/post/drawing-penrose-diagrams/</guid><description>&lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Penrose_diagram" target="_blank" rel="noopener">Penrose diagram&lt;/a> is a valuable tool in relativity to illustrate the global causal structure of spacetimes&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Often, qualitative diagrams are sufficient if you&amp;rsquo;re mainly interested in the essential causal relationships. But sometimes, for numerical work or for your own understanding, you need a quantitatively correct diagram.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hyperboloidal</title><link>https://hyperboloid.al/</link><atom:link href="https://hyperboloid.al/index.xml" rel="self" type="application/rss+xml"/><description>Hyperboloidal</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 09:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/media/logo_huee6cfb656ad77a41edf7471c8d890b5c_102772_300x300_fit_lanczos_3.png</url><title>Hyperboloidal</title><link>https://hyperboloid.al/</link></image><item><title>Infinity in a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;h3 id="confirmed-speakers">Confirmed Speakers&lt;/h3>
+&lt;table class="table table-hover">
+&lt;thead class="thead-dark">
+&lt;tr>
+&lt;th scope="col">Name&lt;/th>
+&lt;th scope="col">Affiliation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Some Body&lt;/td>
+&lt;td>Science Center&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Someone Else&lt;/td>
+&lt;td>Research Institute&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Yet Another Person&lt;/td>
+&lt;td>University of Universe&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>How to draw Penrose diagrams</title><link>https://hyperboloid.al/post/drawing-penrose-diagrams/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://hyperboloid.al/post/drawing-penrose-diagrams/</guid><description>&lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Penrose_diagram" target="_blank" rel="noopener">Penrose diagram&lt;/a> is a valuable tool in relativity to illustrate the global causal structure of spacetimes&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Often, qualitative diagrams are sufficient if you&amp;rsquo;re mainly interested in the essential causal relationships. But sometimes, for numerical work or for your own understanding, you need a quantitatively correct diagram.&lt;/p>
 &lt;p>Below, we draw Penrose diagrams using free and open-source software. We&amp;rsquo;ll draw the diagrams using the LaTeX package &lt;a href="https://en.wikipedia.org/wiki/PGF/TikZ" target="_blank" rel="noopener">TikZ&lt;/a> (not a drawing program but a program that draws&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>). We&amp;rsquo;ll use Python to perform transformations when we hit the computational limitations of TikZ.&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>

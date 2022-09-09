@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anıl Zenginoğlu | Hyperboloidal</title><link>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/</link><atom:link href="https://hyperboloid.al/author/an%C4%B1l-zenginoglu/index.xml" rel="self" type="application/rss+xml"/><description>Anıl Zenginoğlu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/avatar_hubdbe8f760004904350d82355aac46df7_167987_270x270_fill_q75_lanczos_center.jpg</url><title>Anıl Zenginoğlu</title><link>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/</link></image><item><title>How to draw Penrose diagrams</title><link>https://hyperboloid.al/post/drawing-penrose-diagrams/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://hyperboloid.al/post/drawing-penrose-diagrams/</guid><description>&lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Penrose_diagram" target="_blank" rel="noopener">Penrose diagram&lt;/a> is a valuable tool in relativity to illustrate the global causal structure of spacetimes&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Often, qualitative diagrams are sufficient if you&amp;rsquo;re mainly interested in the essential causal relationships. But sometimes, for numerical work or for your own understanding, you need a quantitatively correct diagram.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anıl Zenginoğlu | Hyperboloidal</title><link>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/</link><atom:link href="https://hyperboloid.al/author/an%C4%B1l-zenginoglu/index.xml" rel="self" type="application/rss+xml"/><description>Anıl Zenginoğlu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 09:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/avatar_hubdbe8f760004904350d82355aac46df7_167987_270x270_fill_q75_lanczos_center.jpg</url><title>Anıl Zenginoğlu</title><link>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/</link></image><item><title>Infinity in a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;h3 id="confirmed-speakers">Confirmed Speakers&lt;/h3>
+&lt;table class="table table-hover">
+&lt;thead class="thead-dark">
+&lt;tr>
+&lt;th scope="col">Name&lt;/th>
+&lt;th scope="col">Affiliation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Some Body&lt;/td>
+&lt;td>Science Center&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Someone Else&lt;/td>
+&lt;td>Research Institute&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Yet Another Person&lt;/td>
+&lt;td>University of Universe&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>How to draw Penrose diagrams</title><link>https://hyperboloid.al/post/drawing-penrose-diagrams/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://hyperboloid.al/post/drawing-penrose-diagrams/</guid><description>&lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Penrose_diagram" target="_blank" rel="noopener">Penrose diagram&lt;/a> is a valuable tool in relativity to illustrate the global causal structure of spacetimes&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Often, qualitative diagrams are sufficient if you&amp;rsquo;re mainly interested in the essential causal relationships. But sometimes, for numerical work or for your own understanding, you need a quantitatively correct diagram.&lt;/p>
 &lt;p>Below, we draw Penrose diagrams using free and open-source software. We&amp;rsquo;ll draw the diagrams using the LaTeX package &lt;a href="https://en.wikipedia.org/wiki/PGF/TikZ" target="_blank" rel="noopener">TikZ&lt;/a> (not a drawing program but a program that draws&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>). We&amp;rsquo;ll use Python to perform transformations when we hit the computational limitations of TikZ.&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
