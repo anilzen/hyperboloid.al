@@ -19,7 +19,7 @@ organizations:
   url: https://centra.tecnico.ulisboa.pt/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Numerical relativist at the interface with mathematical General Relativity. 
 
 interests:
 - Black Holes
