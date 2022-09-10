@@ -28,7 +28,7 @@ categories:
 - Basics
 ---
 
-There is a flavor of hyperboloidal compactification commonly used in perturbation theory that goes under the name "minimal gauge." The associated time slices extend smoothly between the event horizon and null infinity. Minimal gauge was first proposed by [Schinkel, Ansorg, and Macedo](https://arxiv.org/abs/1301.6984) in 2013. The main advantage of minimal gauge over other smooth hyperboloidal foliations of the exterior Schwarzschild domain is its algebraic simplicity. The purpose of the post is to provide a derivation of minimal gauge that emphasizes its simplicity.
+There is a flavor of hyperboloidal compactification commonly used in perturbation theory that goes under the name "minimal gauge." The associated time slices extend smoothly between the event horizon and null infinity. Minimal gauge was first proposed by [Schinkel, Ansorg, and Macedo](https://arxiv.org/abs/1301.6984) in 2013 and later formalised in the context of [Schwarzschild](https://arxiv.org/abs/1604.02261), [Reisnner-Nordstrom](https://arxiv.org/abs/1809.02837) and [Kerr](https://arxiv.org/abs/1910.13452]) spacetimes. The main advantage of minimal gauge over other smooth hyperboloidal foliations of the exterior Schwarzschild domain is its algebraic simplicity. The purpose of the post is to provide a derivation of minimal gauge that emphasizes its simplicity.
 
 To bring things in context, we'll start with regular coordinates across black-hole horizons, which are called horizon-penetrating.
 
@@ -87,4 +87,35 @@ $$ ds^2 = \frac{1}{\sigma^2} \left(-f \sigma^2 d\tau^2 + 2 (1-2\sigma^2) d\tau d
 
 
 ## Connection to Leaver's method
+When studing the propagation of waves in a given spacetime background, it is common to consider the problem in the frequency domain via a Fourier (or Laplace) transformantion.
+The field $\phi(t,r)$ is then decomposed as
+$$\phi(t,r)\sim \psi(r) e^{- i\omega t}  $$
+
+If we consider for simplicity that $\phi(t,r)$ is a scalar field, than the coordinate change into the hyperboloidal coordinates $(\tau, r)$ only acts in the argumets $\phi$, i.e.,
+the corresponding hyperboloidal scalar field $\overline\phi(\tau,\sigma)$ is simply
+$$ \overline\phi(\tau,r) = \phi(t(\tau,r),r)$$
+and its representation in the frequency domain will follow from
+$$\overline\phi(\tau,r)\sim \overline\psi(r) e^{- i\omega \tau}.$$
+
+The most important property here, is that $\overline \psi(r)$ is regular at in infinity and horizon, as opposed to $\psi(r)$, which blows up as $r\rightarrow 1$ or $r\rightarrow \infty$ for purely outgoing waves.
+
+But it is easy to see the connection between $\overline \psi(r)$ and $\psi(r)$. Because $\overline\phi(\tau,r) = \phi(t(\tau,r), r)$, the Fourier transformation goes as
+\begin{eqnarray}
+\overline\phi(\tau,\sigma) &=& \phi(t(\tau,\sigma), r) \newline
+                           &\sim& \psi(r(\sigma)) e^{-i\omega t(\tau,r)} \newline
+                           &=& \psi(r) e^{-i\omega (\tau+h(r))} = \overline \psi(r)e^{-i\omega \tau}.
+\end{eqnarray}
+Thus, it follows naturally
+$$
+\overline \psi(r) = \psi(r) e^{-i\omega h(r)} \longleftrightarrow \psi(r) = \overline\psi(r)e^{i\omega h(r)}.
+$$
+The factor $e^{-i\omega h(r)}$ is responsible for canceling out the blowing-up behaviour of $\psi(r)$ and it arises naturally in terms the height function. This transformation is clearly not unique as ***any*** height function constructing a hyperboloidal slice will do the job. The resulting regular function $\overline \psi(r)$, though, can be "better" or "worse" in the sense of how simple or complicated the coeffiecients in the differential equation that arises for $\overline \psi(r)$ are.
+
+At this point, we make a detour to the seminal work of [Leaver](http://www.jstor.org/stable/2397876) in [1985]. There, he studies the field $\psi(r)$ and using traditional tools from the theory of ordinary differential equations, he suggests the following transformation
+$$
+\psi(r)
+$$
+
+
+
 Fascinating connections to Leaver's continued fraction method for the calculation of quasinormal modes.
