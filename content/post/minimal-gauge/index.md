@@ -74,7 +74,7 @@ To construct our desired time coordinate, we need to combine these two desired b
 $$ h_{\textrm{horizon}}(r) \sim \ln|r-1| - \textcolor{blue}{\ln r}. $$
 The blue term cancels the $r\to \infty$ behavior of the horizon height function (series expansion for large $r$: $\ln(r-1) = \ln r - 1/r + O(1/r^2)$). 
 
-The minimal gauge is simply the combination of these two behaviors:
+The minimal gauge for the Schwarzschild spacetime is simply the combination of these two behaviors:
 $$ h_{\textrm{MG}}(r) = \ln|r-1| - 2 \ln r - r. $$
 In a sense, this is the simplest choice you can make respecting the leading order behaviors of the horizon and infinity height functions with respect to ingoing and outgoing null rays.
 
@@ -89,33 +89,43 @@ $$ ds^2 = \frac{1}{\sigma^2} \left(-f \sigma^2 d\tau^2 + 2 (1-2\sigma^2) d\tau d
 ## Connection to Leaver's method
 When studing the propagation of waves in a given spacetime background, it is common to consider the problem in the frequency domain via a Fourier (or Laplace) transformantion.
 The field $\phi(t,r)$ is then decomposed as
-$$\phi(t,r)\sim \psi(r) e^{- i\omega t}  $$
+$$\phi(t,r)\sim \psi(r) e^{- i\omega t}.$$
 
-If we consider for simplicity that $\phi(t,r)$ is a scalar field, than the coordinate change into the hyperboloidal coordinates $(\tau, r)$ only acts in the argumets $\phi$, i.e.,
+If we consider for simplicity that $\phi(t,r)$ is a scalar field, then the coordinate change into the hyperboloidal coordinates $(\tau, r)$ only acts in the arguments of $\phi$, i.e.,
 the corresponding hyperboloidal scalar field $\overline\phi(\tau,\sigma)$ is simply
 $$ \overline\phi(\tau,r) = \phi(t(\tau,r),r)$$
 and its representation in the frequency domain will follow from
 $$\overline\phi(\tau,r)\sim \overline\psi(r) e^{- i\omega \tau}.$$
 
-The most important property here, is that $\overline \psi(r)$ is regular at in infinity and horizon, as opposed to $\psi(r)$, which blows up as $r\rightarrow 1$ or $r\rightarrow \infty$ for purely outgoing waves.
+The most important property here, is that $\overline \psi(r)$ is regular at infinity and the horizon, as opposed to $\psi(r)$, which blows up as $r\rightarrow 1$ or $r\rightarrow \infty$ for purely outgoing waves in both ends.
 
-But it is easy to see the connection between $\overline \psi(r)$ and $\psi(r)$. Because $\overline\phi(\tau,r) = \phi(t(\tau,r), r)$, the Fourier transformation goes as
+But it is easy to see the connection between $\overline \psi(r)$ and $\psi(r)$. Indeed, the Fourier transformation goes as
 \begin{eqnarray}
 \overline\phi(\tau,\sigma) &=& \phi(t(\tau,\sigma), r) \newline
-                           &\sim& \psi(r(\sigma)) e^{-i\omega t(\tau,r)} \newline
+                           &\sim& \psi(r) e^{-i\omega t(\tau,r)} \newline
                            &=& \psi(r) e^{-i\omega (\tau+h(r))} = \overline \psi(r)e^{-i\omega \tau}.
 \end{eqnarray}
 Thus, it follows naturally
 $$
 \overline \psi(r) = \psi(r) e^{-i\omega h(r)} \longleftrightarrow \psi(r) = \overline\psi(r)e^{i\omega h(r)}.
 $$
-The factor $e^{-i\omega h(r)}$ is responsible for canceling out the blowing-up behaviour of $\psi(r)$ and it arises naturally in terms the height function. This transformation is clearly not unique as ***any*** height function constructing a hyperboloidal slice will do the job. The resulting regular function $\overline \psi(r)$, though, can be "better" or "worse" in the sense of how simple or complicated the coeffiecients in the differential equation that arises for $\overline \psi(r)$ are.
+The factor $e^{-i\omega h(r)}$ is responsible for canceling out the blowing-up behaviour of $\psi(r)$ and it arises naturally in terms of the height function. This transformation is clearly not unique as ***any*** height function constructing a hyperboloidal slice will do the job. The resulting regular function $\overline \psi(r)$, though, can be "better" or "worse" in the sense of how simple or complicated the coeffiecients in the differential equation for $\overline \psi(r)$ are.
 
-At this point, we make a detour to the seminal work of [Leaver](http://www.jstor.org/stable/2397876) in [1985]. There, he studies the field $\psi(r)$ and using traditional tools from the theory of ordinary differential equations, he suggests the following transformation
+At this point, we make a detour to the seminal work of [Leaver](http://www.jstor.org/stable/2397876) in 1985. There, he consider the field $\psi(r)$ and, using traditional tools from the theory of ordinary differential equations, he suggests the following transformation to pick up the fields's asymptotic behaviour
 $$
-\psi(r)
+\psi(r) \sim r^{2i\omega} \left(r - 1\right)^{-i\omega}  e^{i\omega r} \overline \psi_{\rm L}(r).
 $$
+If we assume a Taylor expansion around the horizon for the regular field 
+$$
+\overline \psi_{\rm L}(r) = \sum_{k=0}^{\infty} a_k \left( 1-1/r \right)^k,
+$$
+one sees that the coefficients $a_k$ are determined by a rather simple $3$-term recurence relation.
 
+Now, let us take a look at the factor $e^{i\omega h(r)}$ responsible for mapping the irregular filed $\psi(r)$ into the regular, hyperboloidal $\overline \psi(r)$. In the minimal gauge it reads (***Check Sign in definitions***)
+\begin{eqnarray}
+e^{i\omega h_{\rm MG}(r)} &=& e^{i \omega \left( -\ln|r-1| + 2 \ln r + r\right)} \newline
+&=& \left(r-1\right)^{-i \omega} r^{2 i \omega} e^{i \omega r},
+\end{eqnarray}
+which is exactly what Leaver found in his analysis. Thus, Leaver's regular field $\psi_{\rm L}(r)$ is nothing more than the frequency domain representation of the hyperboloidal pertubation field $\overline \phi(\tau,r)$ in the mininal gauge.
 
-
-Fascinating connections to Leaver's continued fraction method for the calculation of quasinormal modes.
+## Event and Cauchy Horizons: the role of the compactification
