@@ -128,4 +128,48 @@ Remarkably, this is **exactly** the same function as the minimal gauge height fu
 
 ## Event and Cauchy Horizons: the role of the compactification
 
-[^1]: In today's literature, [Eddington-Finkelstein](https://en.wikipedia.org/wiki/Eddington%E2%80%93Finkelstein_coordinates) coordinates are adapted to radial null geodesics. However, the original coordinates by Eddington from 1924 and Finkelstein from 1958 both use a time coordinate as described in this post.
+The geometrical approach unveils an even richer structure for spacetimes containing a Cauchy horizon $r_{c}$ apart from the event horizon $r_h$. The most straightfoward exemples are charged and rotating black holes, described the well-known Reisnner-Nordstrom and Kerr spacetimes, respectvely.
+
+Usually, these solutions are parametrised by another paramerter apart from the black hole mass M: the electric charged $Q$ in the Reisnner-Nordstrom case, or the angular momentum $a$ for the Kerr solution. These parameters are restricted to values $|Q|/M\leq 1$ and $|a|/M\leq 1$. The equality holds in the the so-called extremal black holes. In such cases, it follows that the event and Cauchy horizons coincide.
+
+Because we are opting to normalise the event horizon to unit, a more conveninet parameter in terms of the ratio between the event and Cauchy horizon via
+$$
+\kappa^2 = \dfrac{r_c}{r_h} = r_{c}^{-1}.
+$$ 
+Indeed, one can verify that $\kappa = Q/r_{h}$ (Reisnner-Nordstrom) or $\kappa=a/r_{h}$ (Kerr), which reduces to the usual charge and angular momentum parameters when $r_h=1$. Besides, this parameter takes values in the range $|\kappa|\in[0,1]$, with $\kappa=0$ describing the Schwarzschild space time, and $\kappa\rightarrow 1$ the extremal limit.
+
+Constructing the minimal gauge for these spacetimes follows a similar strategy as described previously, i.e., a deformation of the time coordinate $t$ via the height function $h$, and a compactification of radial coordinate $r$. Here, we consider both transformations and we focus on the role played by the choice of compactification function within the minimal gauge. Specifically, we transform the coordinates $(t,r)$ into $(\tau,\sigma)$ via
+\begin{eqnarray}
+t = \tau - h(\sigma), \quad r = \dfrac{\rho(\sigma)}{\sigma}.
+\end{eqnarray}
+In the miminal gauge, the height function has the form
+$$
+h(\sigma) = h_{null}^-(r(\sigma)) + \delta h(\sigma), \quad \delta h(\sigma) = 2\left(\ln \sigma -\sigma^{-1} \right)
+$$
+with $h_{null}^-$ the solution with negative sign in \ref{null}.
+
+The influce of the radial compactification in the coordinate transformation is capture by the function $\beta(\sigma) \equiv \rho'(\sigma) - \sigma \rho(\sigma)$. The minimal gauge imposes the simple value $\beta(\sigma) = 1$, which translates into 
+$$
+\rho(\sigma) = \rho_0 + (1-\rho_0) \sigma.
+$$
+This choice already considers the event horizon fixed at $r_h=1 \leftrightarrow$ $\sigma_h=1$. 
+
+Of course, the most simple option is just just set $\rho_0=1$, from which we recover the compactification $r=1/\sigma$. Besides, with this choice, the Cauchy horizon assumes the coordinate value $\sigma_c= \kappa^{-2}$. Thus, we observe that the coordinate location of the Cauchy horizon moves continously along the grid from $\sigma_c\rightarrow \infty$, i.e., the singularity in the Schwarzschild spacetime when $\kappa=0$, up to $\sigma_c = \sigma_h = 1$ in the extremal case $\kappa^2=1$. With this choice of hyperboloidal compactification, the line element in the limit $\kappa^2=1$ corresponds to the usual representation of extreme black holes.
+
+Interstingly, we can exploit the parameter $\rho_0$ to actually fix the Cauchy horizon at a given coordinate grid. In particular, the choice $\rho_0 = 1 - \kappa^2$ leads to the radial compactification
+$$
+r = \dfrac{ 1 - \kappa^2(1-\sigma)}{\sigma}.
+$$
+This choice ernsures that the Cauchy horizon is always at $\sigma_c\rightarrow \infty$, regardless of $|\kappa| \in [0, 1)$. We will refer to this choice as Cauchy Horizon fixing minimal gauge.
+
+However, the transformation (and therefore the underlying line element) is ill-defined for $\kappa^2 = 1$ as it reduces to $r=1$. However, a well-defined limit for the metric components is achieved if we re-scale the time coordinate accordingly to $\tau \rightarrow \tau/(1-\kappa^2)$. Even though, the radial and time re-scaling are singular in the extremal limit $\kappa^2 \rightarrow 1$, the line element is well-defined and describes the so-called near-horizon geometry of extremal black holes. The discontinous limiting process is not a feature of the coordinate transformation. The geometry of extremal black-holes in the near-horizon regime is also discontious in the sense that future null infinity changes its character from being a lightlike surface (asymptotically flat spacetime) to being timelike (asymptotically $AdS_2$ spacetime).
+
+Going back to Leaver's approach to regularise the equations in the frequency domain, it is well-known that his approaches fails in the extremal limit. In other words, an algorithm for computing the QNM of extremal black-hols following his initial ideas cannot be achieve in a continous way, but rahter one must be considered the line element in its extremal regime from scratch. While this limiation has been understood just as caveat of the algorithm, the hyperboloidal approach shows that the limitation is actually a consequence of discontinous transition to the near-horizon geometry (and its change in topology) in the extremal case.
+
+Indeed, in this post, we saw that Leaver's regularisation choice follows naturally from the hyperboloidal transformation via a pre-factor $e^{i\omega h}$. It turns out that, for spacetimes containing a Cauchy horizon, Leaver's regularization factor corresponds exactly to the hyperboloidal formulation in the {\it Cauchy Horizon fixing minimal gauge}. Thus, the algorithm's breakdown is a consequence of the discontinous limit into the near-horizon geometry.
+
+ 
+
+
+
+[^1]: In today's literature, [Eddington-Finkelstein](https://en.wikipedia.org/wiki/Eddington%E2%80%93Finkelstein_coordinates) coordinates are adapted to radial null geodesics. However, the original coordinates by Eddington from 1924 and Finkelstein from 1958 both use a time coordinate as described in this post. 
