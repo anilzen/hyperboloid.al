@@ -109,7 +109,7 @@ $$
 $$
 The coefficients of the expansion, $a_k$, satisfy a $3$-term recurence relation which we can now iteratively solve for. This method is the most common method to compute black-hole frequencies to this day.
 
-### A geometric approach
+### A geometric framework
 
 It is not immediately clear where Leaver's regularization in \eqref{L} comes from. We can, however, solve the problem of perturbation blow-up that motivated Leaver's regularization in a [geometric way](https://arxiv.org/abs/1102.2451) by switching to regular coordinates. The time transformation with a height function as in \eqref{TT} translates to a rescaling of the perturbation in frequency domain. To see this, note that the scalar perturbation in the new time $\tau$ is the same as the perturbation in Schwarzschild time
 $$ \phi(\tau,r) = \phi(t+h(r),r) = \phi(t,r).$$
