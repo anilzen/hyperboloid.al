@@ -57,7 +57,7 @@ $$ h_{\textrm{horizon}}(r) \sim \ln|r-1|.  \tag{horizon} \label{horizon}$$
 
 To understand where this comes from, we need to follow the light. The causal structure of a spacetime is determined by its null structure. The null surfaces in Schwarzschild coordinates are given by
 $$ h_{\textrm{null}}(r) = \pm \int \frac{dr}{f(r)} = \pm (r + \ln |r-1|).  \tag{null} \label{null} $$ 
-The positive sign is for ingoing, the negative sign is for outgoing null rays. The leading order behavior of ingoing null rays near the horizon is $\sim\ln(r-1)$, as it appears in both Gullstrand-Painlevé and Eddington-Finkelstein coordinates, which explains why regular coordinates across the black-hole horizon in Schwarzschild spacetime must have this singularity structure in the height function.
+The null rays are ingoing (regular at future horizon) for the positive sign, outgoing (regular at future null infinity) for the negative sign. The leading order behavior of ingoing null rays near the horizon is $\sim\ln(r-1)$, as it appears in both Gullstrand-Painlevé and Eddington-Finkelstein coordinates, which explains why regular coordinates across the black-hole horizon in Schwarzschild spacetime must have this singularity structure in the height function.
 
 |    |    |
 | :----: | :----: |
