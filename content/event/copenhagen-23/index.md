@@ -1,5 +1,5 @@
 ---
-title: Infinity in a Gridshell
+title: Infinity on a Gridshell
 
 #event: Workshop
 event_url: https://hyperboloid.al/event/copenhagen-23
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:  
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/UgNjyPkphtU)'
+  caption: 'Image by Alex Vañó-Viñuales'
   focal_point: center
 
 url_code: ''

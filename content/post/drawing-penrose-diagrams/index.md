@@ -12,8 +12,8 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
-  focal_point: ""
+  caption: 'Penrose diagram of Minkowski spacetime with hyperboloidal time slices'
+  focal_point: "center"
   placement: 0
   preview_only: true
 
@@ -46,8 +46,8 @@ The Penrose diagram is an extension, or better, a *completion* of the [Minkowski
 
 Below are two beautiful [TikZ diagrams](https://tikz.net/relativity_penrose_diagram/) by [Izaak Neutelings](https://www.physik.uzh.ch/en/researcharea/cms/people/Izaak-Neutelings.html). On the left is the Minkowski diagram. Spacetime extends infinitely in all directions. On the right is the  Penrose diagram representing the entire spacetime in a finite square. 
 
-|    |    |
-| :----: | :----: |
+|                                                                                                           |                                                                                                       |
+| :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
 | ![](figures/neutelings_minkowski.jpg "[Minkowski diagram](https://tikz.net/relativity_penrose_diagram/)") | ![](figures/neutelings_penrose.jpg "[Penrose Diagram](https://tikz.net/relativity_penrose_diagram/)") |
 
 Compactification maps the Minkowski diagram to the Penrose diagram by mapping the null directions to a finite interval. Let's see how that works. 
@@ -85,8 +85,8 @@ Then, plot the lines parametrically.
 ```
 We're sampling points fairly evenly by incorporating the compactification into the plot function. As you can see in the diagrams below, the time surfaces are equally separated from each other at the origin. The function `samp` controls the separation of points in the plot.
 
-|    |    |
-| :----: | :----: |
+|                                                                                                 |                                                                                           |
+| :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 | ![](figures/mink_arctan.png "Compactification with arctan [(file)](tikz/mink/mink_arctan.tex)") | ![](figures/mink_tanh.png "Compactification with tanh [(file)](tikz/mink/mink_tanh.tex)") |
 
 The two versions of the diagram illustrate a coordinate-dependent feature that confuses even the experts. The $t$ surfaces intersect at spatial infinity, $i^0$, on both diagrams. On the left, they are tangent to each other, while on the right, they are not. So this seems to be a coordinate-dependent feature. Penrose used the inverse tangent function in his original papers. Many other choices exist. For example, using the hyperbolic tangent, the mapping reads
@@ -98,8 +98,8 @@ I draw Penrose diagrams typically to present the causal structure of [hyperboloi
 $$ t^2 - r^2 = \tau^2 \implies \tau = \pm \sqrt{t^2 - r^2}. $$
 This construction appears in many models, such as the [Milne model](https://en.wikipedia.org/wiki/Milne_model) of cosmology, [Dirac's point-form](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.21.392) of relativistic dynamics, the [de Boer-Solodukhin](https://arxiv.org/abs/hep-th/0303006) holography of Minkowski spacetime, and the [Buchholz-Roberts framework](https://arxiv.org/abs/1304.2794) of relativistic QED. However, these surfaces are not generally useful for studying evolution in time because they intersect at future null infinity. This may not be immediately obvious from their definition, but you can see it right away on the Penrose diagram (left panel below). 
 
-|    |    |
-| :----: | :----: |
+|                                                                                                                        |                                                                                                                     |
+| :--------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | ![](figures/mink_hypal_intersect.png "Intersecting hyperbolic slicing [(file)](./tikz/mink/mink_hypal_intersect.tex)") | ![](figures/mink_hypal_foliation.png "Smooth hyperboloidal foliation [(file)](tikz/mink/mink_hypal_foliation.tex)") |
 
 A better option for a foliation of Minkowski spacetime, illustrated on the right panel above, is to use time-shifted hyperboloids. We pick one spacetime hyperboloid, say, with unit radius, and shift it in time by $\tau$, like this
@@ -201,8 +201,8 @@ For example, the height function for [Gullstrand–Painlevé](https://en.wikiped
 $$ h_{\rm GP} (r) = -2 \sqrt{r} + \ln\frac{\sqrt{r}+1}{\sqrt{r}-1}. $$
 Note that the height function is singular at the horizon. This singularity is needed to counteract the singularity of Schwarzschild time slices near the bifurcation sphere. Gullstrand–Painlevé gives a nice foliation of the future event horizon, $\mathcal{H}^+$, but the time slices still intersect at spatial infinity. 
 
-|    |    |
-| :----: | :----: |
+|                                                                 |                                                          |
+| :-------------------------------------------------------------: | :------------------------------------------------------: |
 | ![](figures/ss_standard.png "Schwarzschild-Droste time slices") | ![](figures/ss_gp.png "Gullstrand–Painlevé time slices") |
 
 We need a height function that's singular both near and far from the black hole. This idea underlies the construction of hyperboloidal coordinates. For example, 
@@ -210,8 +210,8 @@ $$ h_{\rm Hyp} (r) = \sqrt{1+ r_\ast^2}, $$
 gives the hyperboloidal foliation on the left panel below. The slices do not intersect. Instead, you get a nice, smooth foliation of the full exterior domain. Another example with this nice behavior is the minimal gauge of [Ansorg, Jaramillo, and Macedo](https://arxiv.org/abs/1809.02837)
 $$ h_{\rm MG} (r) = r + 2 \ln r - \ln(r - 1). $$
 
-|    |    |
-| :----: | :----: |
+|                                                         |                                             |
+| :-----------------------------------------------------: | :-----------------------------------------: |
 | ![](figures/ss_hyperbolic.png "Hyperbolic time slices") | ![](figures/ss_minimal.png "Minimal gauge") |
 
 Similar constructions can also be made for Kerr, Reissner–Nordström, or Schwarzschild-de Sitter metrics. 
