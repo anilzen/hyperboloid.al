@@ -4,9 +4,9 @@ subtitle: Hyperboloidal compactification done right
 summary: The minimal gauge is a hyperboloidal compactification promoted by Ansorg and Macedo. We demonstrate its various properties and explain its connection to Leaver's continued fraction method for the computation of quasinormal modes of black holes.
 
 projects: []
-date: "2022-10-01T00:01:00Z"
-lastmod: "2022-10-01T00:01:00Z"
-draft: true
+date: "2022-09-29T00:01:00Z"
+lastmod: "2022-09-29T00:01:00Z"
+draft: false
 featured: true
 
 # Featured image
@@ -28,7 +28,7 @@ categories:
 - Basics
 ---
 
-There is a flavor of hyperboloidal compactification commonly used in perturbation theory that goes under the name "minimal gauge." The associated time slices extend smoothly between the event horizon and null infinity. Minimal gauge was first proposed by [Schinkel, Ansorg, and Macedo](https://arxiv.org/abs/1301.6984) in 2013 and later formalised in the context of [Schwarzschild](https://arxiv.org/abs/1604.02261), [Reisnner-Nordstrom](https://arxiv.org/abs/1809.02837) and [Kerr](https://arxiv.org/abs/1910.13452) spacetimes. The main advantage of minimal gauge over other smooth hyperboloidal foliations of the exterior Schwarzschild domain is its algebraic simplicity. The purpose of the post is to provide a derivation of minimal gauge that emphasizes its simplicity.
+There is a flavor of hyperboloidal compactification commonly used in perturbation theory that goes under the name "minimal gauge." The associated time slices extend smoothly between the event horizon and null infinity. Minimal gauge was first proposed by [Schinkel, Ansorg, and Macedo](https://arxiv.org/abs/1301.6984) in 2013 and further formalised in the context of [Schwarzschild](https://arxiv.org/abs/1604.02261), [Reisnner-Nordstrom](https://arxiv.org/abs/1809.02837) and [Kerr](https://arxiv.org/abs/1910.13452) spacetimes. The main advantage of minimal gauge over other smooth hyperboloidal foliations of the exterior Schwarzschild domain is its algebraic simplicity. The purpose of the post is to provide a derivation of minimal gauge that emphasizes this simplicity.
 
 To bring things in context, we'll start with regular coordinates across black-hole horizons, which are called horizon-penetrating.
 
@@ -124,8 +124,9 @@ To make the connection between Leaver's regularization and the time transformati
 r^{2i\omega} \left(r - 1\right)^{-i\omega} &=& e^{-2i\omega\ln r} e^{i\omega \ln(r-1)} e^{-i\omega r} \newline
 &=& e^{i\omega (-2 \ln r + \ln (r-1) - r)}.
 \end{eqnarray}
-Remarkably, this is **exactly** the same function as the minimal gauge height function given in \eqref{MG}! Leaver's regular field $\overline\psi_{\rm L}(r)$ is the frequency-domain representation of the hyperboloidal pertubation field $\phi(\tau,r)$ in the mininal gauge.
+Remarkably, this is **exactly** the same function as the minimal gauge height function given in \eqref{MG}! Leaver's regular field $\overline\psi_{\rm L}(r)$ is the frequency-domain representation of the hyperboloidal pertubation field $\phi(\tau,r)$ in the minimal gauge.
 
+<!-- 
 ## Event and Cauchy Horizons: the role of the compactification
 
 The geometrical approach unveils an even richer structure for spacetimes containing a Cauchy horizon $r_{c}$ apart from the event horizon $r_h$. The most straightfoward exemples are charged and rotating black holes, described the well-known Reisnner-Nordstrom and Kerr spacetimes, respectvely.
@@ -168,7 +169,7 @@ Going back to Leaver's approach to regularise the equations in the frequency dom
 
 Indeed, in this post, we saw that Leaver's regularisation choice follows naturally from the hyperboloidal transformation via a pre-factor $e^{i\omega h}$. It turns out that, for spacetimes containing a Cauchy horizon, Leaver's regularization factor corresponds exactly to the hyperboloidal formulation in the {\it Cauchy Horizon fixing minimal gauge}. Thus, the algorithm's breakdown is a consequence of the discontinous limit into the near-horizon geometry.
 
- 
+  -->
 
 
 
