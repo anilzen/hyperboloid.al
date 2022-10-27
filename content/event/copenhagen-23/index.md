@@ -57,7 +57,7 @@ projects:
 ---
 
 
-### Confirmed Speakers
+<!-- ### Confirmed Speakers
 
 <table class="table table-hover">
   <thead class="thead-dark">
@@ -80,4 +80,4 @@ projects:
       <td>University of Universe</td>
     </tr>
   </tbody>
-</table>
+</table> -->
