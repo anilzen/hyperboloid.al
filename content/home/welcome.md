@@ -19,6 +19,6 @@ design:
 
 <br>
 
-Spacelike surfaces that extend to null infinity are called **hyperboloidal**. 
+Spacelike surfaces with asymptotically hyperbolic geometry are called **hyperboloidal**.
 
-This site is currently under construction. In the future, you will find here explanations, history, and thoughts on the hyperboloidal method as well as applications of the technique to interesting problems.
+This site serves as a virtual center, bringing together the community of researchers who use hyperboloidal surfaces.
