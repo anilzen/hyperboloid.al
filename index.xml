@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hyperboloidal</title><link>https://hyperboloid.al/</link><atom:link href="https://hyperboloid.al/index.xml" rel="self" type="application/rss+xml"/><description>Hyperboloidal</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 09:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/media/logo_huee6cfb656ad77a41edf7471c8d890b5c_102772_300x300_fit_lanczos_3.png</url><title>Hyperboloidal</title><link>https://hyperboloid.al/</link></image><item><title>Hyperboloidal Foliations</title><link>https://hyperboloid.al/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hyperboloid.al/about/</guid><description>&lt;p>Hyperboloidal foliations have recently started playing a fundamental role in the numerical computation and analysis of wave propagation problems across various research areas. The hyperboloidal approach provides incredible efficiencies in the computation of wave equations across large domains. It also offers insights into the role of coordinates and observers in relativity, energy propagation, and the arrow of time.&lt;/p>
 &lt;p>The recognition of the hyperbolic nature of time slices in relativity has been dormant since first emphasized by Minkowski in 1909, except for a few dedicated researchers exploring the topic. However, the hyperboloidal approach has recently gained wide recognition as a valuable tool for studying wave propagation problems. They have been successfully employed in a wide range of problems covering mathematical analysis of nonlinear wave equations and different flavors of black-hole perturbation theory, including the effective-one-body and self-force approaches. We combine mathematical and numerical tools from differential geometry, conformal structure, partial differential equations, and numerical analysis to improve the study and computation of waves.&lt;/p>
-&lt;p>This website promotes the hyperboloidal approach to researchers and the public. Through conferences, virtual seminars, expository blog posts, and review papers, our &lt;a href="https://hyperboloid.al/people">team&lt;/a> aims to make this topic more widely known. It is hoped that this coordinated effort will help resolve the remaining open problems in this area.&lt;/p></description></item><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;!-- ### Confirmed Speakers
+&lt;p>This website promotes the hyperboloidal approach to researchers and the public. Through conferences, virtual seminars, expository blog posts, and review papers, our &lt;a href="https://hyperboloid.al/people">team&lt;/a> aims to make this topic more widely known. It is hoped that this coordinated effort will help resolve the remaining open problems in this area.&lt;/p></description></item><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;section class="logo-list">
+&lt;div class="container">
+&lt;div class="row">
+&lt;div class="col-lg-3 col-md-6">
+&lt;img src="https://hyperboloid.al/uploads/Copenhagen-23-Logos/ERC_logo.png" style="width:auto;height:80px;" alt="UMD Logo">
+&lt;/div>
+&lt;div class="col-lg-3 col-md-6">
+&lt;img src="https://hyperboloid.al/uploads/Copenhagen-23-Logos/strong-logo_red_black_on_white.png" style="width:auto;height:80px;" alt="Templeton Foundation Logo">
+&lt;/div>
+&lt;div class="col-lg-3 col-md-6">
+&lt;img src="https://hyperboloid.al/uploads/Copenhagen-23-Logos/DNRF_logo.png" style="width:auto;height:80px;" alt="UMD Logo">
+&lt;/div>
+&lt;div class="col-lg-3 col-md-6">
+&lt;img src="https://hyperboloid.al/uploads/Copenhagen-23-Logos/Copenhagen_University_NBI_logo.png" style="width:auto;height:80px;" alt="UMD Logo">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/section>
+&lt;!-- ### Confirmed Speakers
 &lt;table class="table table-hover">
 &lt;thead class="thead-dark">
 &lt;tr>
