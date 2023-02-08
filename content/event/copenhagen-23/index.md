@@ -60,6 +60,9 @@ projects:
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6">
+                <img src="/uploads/Copenhagen-23-Logos/Villum_fonden_logo.png" style="width:auto;height:80px;" alt="UMD Logo">
+            </div>
+            <div class="col-lg-3 col-md-6">
                 <img src="/uploads/Copenhagen-23-Logos/ERC_logo.png" style="width:auto;height:80px;" alt="UMD Logo">
             </div>
             <div class="col-lg-3 col-md-6">
