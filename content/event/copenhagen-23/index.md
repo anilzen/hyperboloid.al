@@ -59,20 +59,22 @@ projects:
 <section class="logo-list">
     <div class="container">
         <div class="row">
-          <div class="col-lg-2 col-md-6">
-                <img src="/uploads/Copenhagen-23-Logos/Villum_fonden_logo.png" style="width:auto;height:80px;" alt="UMD Logo">
+          <div class="col-lg-4 col-sm-12">
+                <img src="/uploads/Copenhagen-23-Logos/Villum_fonden_logo.png" style="width:auto;height:100px;" alt="UMD Logo">
             </div>
-            <div class="col-lg-2 col-md-6">
-                <img src="/uploads/Copenhagen-23-Logos/ERC_logo.png" style="width:auto;height:80px;" alt="UMD Logo">
+            <div class="col-lg-4 col-sm-12">
+                <img src="/uploads/Copenhagen-23-Logos/ERC_logo.png" style="width:auto;height:100px;" alt="UMD Logo">
             </div>
-            <div class="col-lg-3 col-md-6">
-                <img src="/uploads/Copenhagen-23-Logos/strong-logo_red_black_on_white.png" style="width:auto;height:80px;" alt="Templeton Foundation Logo">
+            <div class="col-lg-4 col-sm-12">
+                <img src="/uploads/Copenhagen-23-Logos/strong-logo_red_black_on_white.png" style="width:auto;height:100px;" alt="Templeton Foundation Logo">
             </div>
-            <div class="col-lg-2 col-md-6">
-                <img src="/uploads/Copenhagen-23-Logos/DNRF_logo.png" style="width:auto;height:80px;" alt="UMD Logo">
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-sm-12">
+                <img src="/uploads/Copenhagen-23-Logos/DNRF_logo.png" style="width:auto;height:100px;" alt="UMD Logo">
             </div>
-            <div class="col-lg-2 col-md-6">
-                <img src="/uploads/Copenhagen-23-Logos/Copenhagen_University_NBI_logo.png" style="width:auto;height:80px;" alt="UMD Logo">
+            <div class="col-lg-4 col-sm-12">
+                <img src="/uploads/Copenhagen-23-Logos/Copenhagen_University_NBI_logo.png" style="width:auto;height:100px;" alt="UMD Logo">
             </div>
         </div>
     </div>
