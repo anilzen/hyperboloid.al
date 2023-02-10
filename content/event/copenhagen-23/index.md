@@ -66,12 +66,12 @@ projects:
                 <img src="/uploads/Copenhagen-23-Logos/ERC_logo.png" style="width:auto;height:100px;" alt="UMD Logo">
             </div>
             <div class="col-lg-4 col-sm-12">
-                <img src="/uploads/Copenhagen-23-Logos/strong-logo_red_black_on_white.png" style="width:auto;height:100px;" alt="Templeton Foundation Logo">
+                <img src="/uploads/Copenhagen-23-Logos/DNRF_logo.png" style="width:auto;height:100px;" alt="Templeton Foundation Logo">
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-4 col-sm-12">
-                <img src="/uploads/Copenhagen-23-Logos/DNRF_logo.png" style="width:auto;height:100px;" alt="UMD Logo">
+                <img src="/uploads/Copenhagen-23-Logos/strong-logo_red_black_on_white.png" style="width:auto;height:100px;" alt="UMD Logo">
             </div>
             <div class="col-lg-4 col-sm-12">
                 <img src="/uploads/Copenhagen-23-Logos/Copenhagen_University_NBI_logo.png" style="width:auto;height:100px;" alt="UMD Logo">
