@@ -21,7 +21,7 @@ organizations:
   url: https://www.southampton.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work in the interesction between mathematical relativity, numerical relativity and astrophysics. In the good days, I provide a link between the three fields. In the bad days, I don't belong anywhere.
+bio: I work in the intersection between mathematical relativity, numerical relativity and astrophysics. In the good days, I provide a link between the three fields. In the bad days, I don't belong anywhere.
 
 interests:
 - Black Holes
