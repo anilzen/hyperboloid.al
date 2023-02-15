@@ -4,12 +4,12 @@ title: Infinity on a Gridshell
 #event: Workshop
 event_url: https://hyperboloid.al/event/copenhagen-23
 
-location: University of Copenhagen
+location: Niels Bohr Institute, University of Copenhagen
 address:
-  street: Nørregade 10
-  city: 1165 Copenhagen, Denmark
-  # region: 
-  # postcode: '1165 Denmark'
+  street: Blegdamsvej 17, Building C, Auditorium A
+  city: 'DK-2100 Copenhagen, Denmark'
+  region: 
+  # postcode: DK-2100
   # country: 'Denmark'
 
 summary: Hyperboloidal compactification and its applications with a focus on Einstein equations.
