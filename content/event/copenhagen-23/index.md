@@ -105,7 +105,7 @@ _Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
 </tr>
 <tr>
   <td>Shalabh Gautam</td>
-  <td>Tata Institute of Fundamental Research</td>
+  <td>International Centre for Theoretical Sciences</td>
 </tr>
 <tr>
   <td>Lidia Gomes da Silva</td>
@@ -121,7 +121,7 @@ _Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
 </tr>
 <tr>
   <td>Benjamin Leather</td>
-  <td>Max Planck Institute for Gravitational Physics</td>
+  <td>MPI for Gravitational Physics (AEI)</td>
 </tr>
 <tr>
   <td>Philippe LeFloch</td>
@@ -129,7 +129,7 @@ _Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
 </tr>
 <tr>
   <td>Oliver Long</td>
-  <td>Max Planck Institute for Gravitational Physics</td>
+  <td>MPI for Gravitational Physics (AEI)</td>
 </tr>
 <tr>
   <td>Charalampos Markakis</td>
