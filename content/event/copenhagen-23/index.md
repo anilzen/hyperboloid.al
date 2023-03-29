@@ -65,6 +65,103 @@ For application and abstract submission, please visit the [strong GR website](ht
 
 _Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
 
+### Confirmed Speakers
+
+<table class="table table-hover">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">Affiliation</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+  <td>Abhay Ashtekar</td>
+  <td>Pennsylvania State University</td>
+</tr>
+<tr>
+  <td>Sebastiano Bernuzzi</td>
+  <td>Friedrich Schiller University Jena</td>
+</tr>
+<tr>
+  <td>Piotr Bizon</td>
+  <td>Jagiellonian University</td>
+</tr>
+<tr>
+  <td>Miguel Duarte</td>
+  <td>Technical University of Lisbon</td>
+</tr>
+<tr>
+  <td>Jörg Frauendiener</td>
+  <td>University of Otago</td>
+</tr>
+<tr>
+  <td>Dejan Gajic</td>
+  <td>Leipzig University</td>
+</tr>
+<tr>
+  <td>Edgar Gasperin</td>
+  <td>University of Lisbon</td>
+</tr>
+<tr>
+  <td>Shalabh Gautam</td>
+  <td>Tata Institute of Fundamental Research</td>
+</tr>
+<tr>
+  <td>Lidia Gomes da Silva</td>
+  <td>Queen Mary University of London</td>
+</tr>
+<tr>
+  <td>Sascha Husa</td>
+  <td>University of the Balearic Islands</td>
+</tr>
+<tr>
+  <td>Jose-Luis Jaramillo</td>
+  <td>University of Burgundy</td>
+</tr>
+<tr>
+  <td>Benjamin Leather</td>
+  <td>Max Planck Institute for Gravitational Physics</td>
+</tr>
+<tr>
+  <td>Philippe LeFloch</td>
+  <td>Sorbonne University</td>
+</tr>
+<tr>
+  <td>Oliver Long</td>
+  <td>Max Planck Institute for Gravitational Physics</td>
+</tr>
+<tr>
+  <td>Charalampos Markakis</td>
+  <td>Queen Mary University of London</td>
+</tr>
+<tr>
+  <td>Marica Minucci</td>
+  <td>Queen Mary University of London</td>
+</tr>
+<tr>
+  <td>Todd Oliynyk</td>
+  <td>Monash University</td>
+</tr>
+<tr>
+  <td>Christian Peterson</td>
+  <td>University of Lisbon</td>
+</tr>
+<tr>
+  <td>Adam Pound</td>
+  <td>University of Southampton</td>
+</tr>
+<tr>
+  <td>Istvan Racz</td>
+  <td>Wigner Research Centre for Physics</td>
+</tr>
+
+  </tbody>
+</table>
+
+### Conference Poster
+
+![Conference Poster](./poster.webp)
 
 
 <section class="logo-list">
@@ -90,28 +187,3 @@ _Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
         </div>
     </div>
 </section>
-
-<!-- ### Confirmed Speakers
-
-<table class="table table-hover">
-  <thead class="thead-dark">
-    <tr>
-      <th scope="col">Name</th>
-      <th scope="col">Affiliation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Some Body</td>
-      <td>Science Center</td>
-    </tr>
-    <tr>
-      <td>Someone Else</td>
-      <td>Research Institute</td>
-    </tr>
-    <tr>
-      <td>Yet Another Person</td>
-      <td>University of Universe</td>
-    </tr>
-  </tbody>
-</table> -->
