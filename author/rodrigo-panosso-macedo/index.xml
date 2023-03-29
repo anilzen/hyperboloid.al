@@ -2,6 +2,104 @@
 &lt;p>For application and abstract submission, please visit the &lt;a href="https://strong-gr.com/infinity-on-a-grid-shell/registration/" target="_blank" rel="noopener">strong GR website&lt;/a>. We look forward to welcoming you to Copenhagen in July 2023.&lt;/p>
 &lt;p>&lt;em>Scientific Organizing Committee:&lt;/em> David Hilditch, Rodrigo Panosso Macedo, Alex Vañó-Viñuales, and Anıl Zenginoğlu&lt;/p>
 &lt;p>&lt;em>Local Organizing Committee:&lt;/em> Vitor Cardoso, Julie de Molade, Rita Sousa&lt;/p>
+&lt;h3 id="confirmed-speakers">Confirmed Speakers&lt;/h3>
+&lt;table class="table table-hover">
+&lt;thead class="thead-dark">
+&lt;tr>
+&lt;th scope="col">Name&lt;/th>
+&lt;th scope="col">Affiliation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Abhay Ashtekar&lt;/td>
+&lt;td>Pennsylvania State University&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sebastiano Bernuzzi&lt;/td>
+&lt;td>Friedrich Schiller University Jena&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Piotr Bizon&lt;/td>
+&lt;td>Jagiellonian University&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Miguel Duarte&lt;/td>
+&lt;td>Technical University of Lisbon&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jörg Frauendiener&lt;/td>
+&lt;td>University of Otago&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dejan Gajic&lt;/td>
+&lt;td>Leipzig University&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Edgar Gasperin&lt;/td>
+&lt;td>University of Lisbon&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Shalabh Gautam&lt;/td>
+&lt;td>Tata Institute of Fundamental Research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lidia Gomes da Silva&lt;/td>
+&lt;td>Queen Mary University of London&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sascha Husa&lt;/td>
+&lt;td>University of the Balearic Islands&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jose-Luis Jaramillo&lt;/td>
+&lt;td>University of Burgundy&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Benjamin Leather&lt;/td>
+&lt;td>Max Planck Institute for Gravitational Physics&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Philippe LeFloch&lt;/td>
+&lt;td>Sorbonne University&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Oliver Long&lt;/td>
+&lt;td>Max Planck Institute for Gravitational Physics&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Charalampos Markakis&lt;/td>
+&lt;td>Queen Mary University of London&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Marica Minucci&lt;/td>
+&lt;td>Queen Mary University of London&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Todd Oliynyk&lt;/td>
+&lt;td>Monash University&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Christian Peterson&lt;/td>
+&lt;td>University of Lisbon&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Adam Pound&lt;/td>
+&lt;td>University of Southampton&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Istvan Racz&lt;/td>
+&lt;td>Wigner Research Centre for Physics&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="conference-poster">Conference Poster&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./poster.webp" alt="Conference Poster" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;section class="logo-list">
 &lt;div class="container">
 &lt;div class="row">
@@ -24,30 +122,7 @@
 &lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;/section>
-&lt;!-- ### Confirmed Speakers
-&lt;table class="table table-hover">
-&lt;thead class="thead-dark">
-&lt;tr>
-&lt;th scope="col">Name&lt;/th>
-&lt;th scope="col">Affiliation&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Some Body&lt;/td>
-&lt;td>Science Center&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Someone Else&lt;/td>
-&lt;td>Research Institute&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Yet Another Person&lt;/td>
-&lt;td>University of Universe&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table> --></description></item><item><title>Minimal Gauge</title><link>https://hyperboloid.al/post/minimal-gauge/</link><pubDate>Thu, 29 Sep 2022 00:01:00 +0000</pubDate><guid>https://hyperboloid.al/post/minimal-gauge/</guid><description>&lt;p>There is a flavor of hyperboloidal compactification commonly used in perturbation theory that goes under the name &amp;ldquo;minimal gauge.&amp;rdquo; The associated time slices extend smoothly between the event horizon and null infinity. Minimal gauge was first proposed by &lt;a href="https://arxiv.org/abs/1301.6984" target="_blank" rel="noopener">Schinkel, Ansorg, and Macedo&lt;/a> in 2013 and further formalised in the context of &lt;a href="https://arxiv.org/abs/1604.02261" target="_blank" rel="noopener">Schwarzschild&lt;/a>, &lt;a href="https://arxiv.org/abs/1809.02837" target="_blank" rel="noopener">Reisnner-Nordstrom&lt;/a> and &lt;a href="https://arxiv.org/abs/1910.13452" target="_blank" rel="noopener">Kerr&lt;/a> spacetimes. The main advantage of minimal gauge over other smooth hyperboloidal foliations of the exterior Schwarzschild domain is its algebraic simplicity. The purpose of the post is to provide a derivation of minimal gauge that emphasizes this simplicity.&lt;/p>
+&lt;/section></description></item><item><title>Minimal Gauge</title><link>https://hyperboloid.al/post/minimal-gauge/</link><pubDate>Thu, 29 Sep 2022 00:01:00 +0000</pubDate><guid>https://hyperboloid.al/post/minimal-gauge/</guid><description>&lt;p>There is a flavor of hyperboloidal compactification commonly used in perturbation theory that goes under the name &amp;ldquo;minimal gauge.&amp;rdquo; The associated time slices extend smoothly between the event horizon and null infinity. Minimal gauge was first proposed by &lt;a href="https://arxiv.org/abs/1301.6984" target="_blank" rel="noopener">Schinkel, Ansorg, and Macedo&lt;/a> in 2013 and further formalised in the context of &lt;a href="https://arxiv.org/abs/1604.02261" target="_blank" rel="noopener">Schwarzschild&lt;/a>, &lt;a href="https://arxiv.org/abs/1809.02837" target="_blank" rel="noopener">Reisnner-Nordstrom&lt;/a> and &lt;a href="https://arxiv.org/abs/1910.13452" target="_blank" rel="noopener">Kerr&lt;/a> spacetimes. The main advantage of minimal gauge over other smooth hyperboloidal foliations of the exterior Schwarzschild domain is its algebraic simplicity. The purpose of the post is to provide a derivation of minimal gauge that emphasizes this simplicity.&lt;/p>
 &lt;p>To bring things in context, we&amp;rsquo;ll start with regular coordinates across black-hole horizons, which are called horizon-penetrating.&lt;/p>
 &lt;h2 id="horizon-penetrating-coordinates">Horizon-penetrating coordinates&lt;/h2>
 &lt;p>Consider the 1+1 Schwarzschild spacetime with coordinates $(t,r)\in (-\infty,\infty)\times (1,\infty)$ and metric
