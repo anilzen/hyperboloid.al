@@ -155,6 +155,10 @@ _Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
   <td>Istvan Racz</td>
   <td>Wigner Research Centre for Physics</td>
 </tr>
+<tr>
+  <td>Barry Wardell</td>
+  <td>University College Dublin</td>
+</tr>
 
   </tbody>
 </table>
