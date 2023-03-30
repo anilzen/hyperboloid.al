@@ -67,7 +67,7 @@ _Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
 
 ### Confirmed Speakers
 
-<table class="table table-hover">
+<table class="table table-hover table-sm">
   <thead class="thead-dark">
     <tr>
       <th scope="col">Name</th>
