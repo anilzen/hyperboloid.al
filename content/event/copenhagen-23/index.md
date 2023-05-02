@@ -84,6 +84,10 @@ _Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
   <td>Friedrich Schiller University Jena</td>
 </tr>
 <tr>
+  <td>Florian Beyer</td>
+  <td>University of Otago</td>
+</tr>
+<tr>
   <td>Piotr Bizon</td>
   <td>Jagiellonian University</td>
 </tr>
