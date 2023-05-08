@@ -39,7 +39,7 @@ For convenience, I scaled the mass parameter out of the Schwarzschild metric by 
 
 This singularity caused a lot of confusion in the early years of general relativity. Today, we know that the singularity at the horizon is just a coordinate artefact. In fact, the coordinate location $r=1$ is not the three-dimensional horizon surface, but the two-dimensional bifurcation sphere (in 4D), which doesn't exist in a reasonable, physical collapse scenario. The curvature is regular at the bifurcation sphere, so we can just transform the coordinate singularity away using a suitably regular time coordinate. Below is a Penrose diagram that demonstrates the intersection of the time slices at the bifurcation sphere, $\mathcal{B}$.
 
-![](../drawing-penrose-diagrams/figures/ss_standard.png "Schwarzschild time slices")
+![](ss_standard.png "Schwarzschild time slices")
 
 The simplest way to construct a regular time coordinate across the event horizon is via a height function
 $$ \tau = t +  h(r). \tag{TT} \label{TT} $$
@@ -60,9 +60,9 @@ To understand where this comes from, we need to follow the light. The null surfa
 $$ h_{\textrm{null}}(r) = \pm \int \frac{dr}{f(r)} = \pm (r + \ln |r-1|).  \tag{null} \label{null} $$ 
 The null rays are ingoing (regular at future horizon) for the positive sign, outgoing (regular at future null infinity) for the negative sign. The leading order behavior of ingoing null rays near the horizon is $\sim\ln(r-1)$, as it appears in both Gullstrand-Painlevé and Eddington-Finkelstein coordinates, which explains why regular coordinates across the black-hole horizon in Schwarzschild spacetime must have this singularity structure in the height function.
 
-|                                                                                      |                                                                                        |
-| :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
-| ![](../drawing-penrose-diagrams/figures/ss_gp.png "Gullstrand-Painlevé time slices") | ![](../drawing-penrose-diagrams/figures/ss_gp.png "Eddington-Finkelstein time slices") |
+|                                                  |                                                    |
+| :----------------------------------------------: | :------------------------------------------------: |
+| ![](ss_gp.png "Gullstrand-Painlevé time slices") | ![](ss_ef.png "Eddington-Finkelstein time slices") |
 
 Above are the Penrose diagrams depicting the time slices for Gullstrand-Painlevé and Eddington-Finkelstein coordinates. 
 
@@ -87,7 +87,7 @@ $$ ds^2 = -f d\tau^2 - 2 \left(1-\frac{2}{r^2}\right) d\tau dr + \frac{4(1+r)}{r
 You can now apply your favorite spatial compactification to the radial coordinate so that the entire exterior Schwarzschild domain is mapped regularly to a finite domain that fits well into a computer. For example, compactification with $\sigma:=1/r$ maps the exterior domain $r\in[1,\infty)$ to $\sigma\in[0,1]$, where $\sigma=0$ is null infinity and $\sigma=1$ is the horizon with metric
 $$ ds^2 = \frac{1}{\sigma^2} \left(-f \sigma^2 d\tau^2 + 2 (1-2\sigma^2) d\tau d\sigma + 4 (1+\sigma) d\sigma^2\right). $$ 
 Below is the obligatory Penrose diagram. The slices are smoothly extending between the future event horizon and future null infinity, beautifully covering the exterior domain of Schwarzschild spacetime.
-![](../drawing-penrose-diagrams/figures/ss_minimal.png "Penrose diagram of time slices in minimal gauge") 
+![](ss_minimal.png "Penrose diagram of time slices in minimal gauge") 
 
 
 ## Connection to the Music of Black-Holes
