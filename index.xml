@@ -175,12 +175,12 @@ background-color: #e6f7ff;
 &lt;th>Thu, 13 Jul&lt;/th>
 &lt;/tr>
 &lt;tr>
-&lt;td>8:30-8:45&lt;/td>
+&lt;td>8:30—8:45&lt;/td>
 &lt;td class="break">Coffee and Tea&lt;/td>
 &lt;td class="break" colspan="3" rowspan="2">Coffee and Tea&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>8:45-9:00&lt;/td>
+&lt;td>8:45—9:00&lt;/td>
 &lt;td>Welcome&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -220,25 +220,25 @@ background-color: #e6f7ff;
 &lt;td class="break" colspan="4">Lunch&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>14:00-14:45&lt;/td>
+&lt;td>14:00—14:45&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#oliver-long>Oliver Long&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#edgar-gasperin>Edgar Gasperin&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#dejan-gajic>Dejan Gajic&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#todd-oliynyk>Todd Oliynyk&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>14:45-15:30&lt;/td>
+&lt;td>14:45—15:30&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#abhay-ashtekar>Abhay Ashtekar&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#jörg-frauendiener>Jörg Frauendiener&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#josé-luis-jaramillo>José Luis Jaramillo&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#piotr-bizon>Piotr Bizon&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>15:30-16:00&lt;/td>
-&lt;td class="break" colspan="4">Coffee and Tea&lt;/td>
+&lt;td>15:30—16:00&lt;/td>
+&lt;td class="break" colspan="4">Coffee&lt;/td>
 &lt;/tr>
 &lt;tr style="height: 100px;">
-&lt;td>16:00-17:00&lt;/td>
+&lt;td>16:00—17:00&lt;/td>
 &lt;td>Roundtable&lt;br>Self-force&lt;/td>
 &lt;td>Roundtable&lt;br>Einstein equations&lt;/td>
 &lt;td>Roundtable&lt;br>BH perturbations&lt;/td>
