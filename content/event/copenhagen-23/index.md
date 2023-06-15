@@ -90,12 +90,12 @@ design:
       <th>Thu, 13 Jul</th>
     </tr>
     <tr>
-      <td>8:30-8:45</td>
+      <td>8:30—8:45</td>
       <td class="break">Coffee and Tea</td>
       <td class="break" colspan="3" rowspan="2">Coffee and Tea</td>
     </tr>
     <tr>
-      <td>8:45-9:00</td>
+      <td>8:45—9:00</td>
       <td>Welcome</td>
     </tr>
     <tr>
@@ -135,25 +135,25 @@ design:
       <td class="break" colspan="4">Lunch</td>
     </tr>
     <tr>
-      <td>14:00-14:45</td>
+      <td>14:00—14:45</td>
       <td><a href=/copenhagen-23-talks#oliver-long>Oliver Long</a></td>
       <td><a href=/copenhagen-23-talks#edgar-gasperin>Edgar Gasperin</a></td>
       <td><a href=/copenhagen-23-talks#dejan-gajic>Dejan Gajic</a></td>
       <td><a href=/copenhagen-23-talks#todd-oliynyk>Todd Oliynyk</a></td>
     </tr>
     <tr>
-      <td>14:45-15:30</td>
+      <td>14:45—15:30</td>
       <td><a href=/copenhagen-23-talks#abhay-ashtekar>Abhay Ashtekar</a></td>
       <td><a href=/copenhagen-23-talks#jörg-frauendiener>Jörg Frauendiener</a></td>
       <td><a href=/copenhagen-23-talks#josé-luis-jaramillo>José Luis Jaramillo</a></td>
       <td><a href=/copenhagen-23-talks#piotr-bizon>Piotr Bizon</a></td>
     </tr>
     <tr>
-      <td>15:30-16:00</td>
-      <td class="break" colspan="4">Coffee and Tea</td>
+      <td>15:30—16:00</td>
+      <td class="break" colspan="4">Coffee</td>
     </tr>
     <tr style="height: 100px;">
-      <td>16:00-17:00</td>
+      <td>16:00—17:00</td>
       <td>Roundtable<br>Self-force</td>
       <td>Roundtable<br>Einstein equations</td>
       <td>Roundtable<br>BH perturbations</td>
