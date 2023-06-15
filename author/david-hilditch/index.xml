@@ -1,4 +1,101 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>David Hilditch | Hyperboloidal</title><link>https://hyperboloid.al/author/david-hilditch/</link><atom:link href="https://hyperboloid.al/author/david-hilditch/index.xml" rel="self" type="application/rss+xml"/><description>David Hilditch</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 09:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/author/david-hilditch/avatar_hu3008c189a4ac81f13676b6d2cec887d5_420075_270x270_fill_q75_lanczos_center.jpg</url><title>David Hilditch</title><link>https://hyperboloid.al/author/david-hilditch/</link></image><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;h3 id="registration">Registration&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>David Hilditch | Hyperboloidal</title><link>https://hyperboloid.al/author/david-hilditch/</link><atom:link href="https://hyperboloid.al/author/david-hilditch/index.xml" rel="self" type="application/rss+xml"/><description>David Hilditch</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 09:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/author/david-hilditch/avatar_hu3008c189a4ac81f13676b6d2cec887d5_420075_270x270_fill_q75_lanczos_center.jpg</url><title>David Hilditch</title><link>https://hyperboloid.al/author/david-hilditch/</link></image><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;h3 id="schedule">Schedule&lt;/h3>
+&lt;style>
+table {
+width: 100%;
+border-collapse: collapse;
+}
+th, td {
+border: 1px solid black;
+padding: 8px;
+text-align: left;
+}
+th {
+background-color: #f2f2f2;
+}
+.break {
+background-color: #e6f7ff;
+}
+&lt;/style>
+&lt;table>
+&lt;tr>
+&lt;th>Time&lt;/th>
+&lt;th>Mon, 10 Jul&lt;/th>
+&lt;th>Tue, 11 Jul&lt;/th>
+&lt;th>Wed, 12 Jul&lt;/th>
+&lt;th>Thu, 13 Jul&lt;/th>
+&lt;/tr>
+&lt;tr>
+&lt;td>8:30-8:45&lt;/td>
+&lt;td class="break">Coffee and Tea&lt;/td>
+&lt;td class="break" colspan="3" rowspan="2">Coffee and Tea&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8:45-9:00&lt;/td>
+&lt;td>Welcome&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9:00—9:45&lt;/td>
+&lt;td>&lt;a href="https://hyperboloid.al/copenhagen-23-talks#adam-pound">Adam Pound&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#sascha-husa>Sascha Husa&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#sebastiano-bernuzzi>Sebastiano Bernuzzi&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#florian-beyer>Florian Beyer&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9:45—10:30&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#barry-wardell>Barry Wardell&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#shalabh-gautam>Shalabh Gautam&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#manas-vishal>Manas Vishal&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#istvan-racz>Istvan Racz&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:30—11:00&lt;/td>
+&lt;td class="break" colspan="4">Coffee and Tea&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:00—11:45&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#benjamin-leather>Benhamin Leather&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#miguel-duarte>Miguel Duarte&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#charalampos-markakis>Charalampos Markakis&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#philippe-lefloch>Philippe LeFloch&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:45—12:30&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#lidia-gomes-da-silva>Lidia Gomes da Silva&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#christian-peterson>Christian Peterson&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#jason-joykutty>Jason Joykutty&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#marica-minucci>Marica Minucci&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12:30—14:00&lt;/td>
+&lt;td class="break" colspan="4">Lunch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14:00-14:45&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#oliver-long>Oliver Long&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#edgar-gasperin>Edgar Gasperin&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#dejan-gajic>Dejan Gajic&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#todd-oliynyk>Todd Oliynyk&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14:45-15:30&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#abhay-ashtekar>Abhay Ashtekar&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#jörg-frauendiener>Jörg Frauendiener&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#josé-luis-jaramillo>José Luis Jaramillo&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#piotr-bizon>Piotr Bizon&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15:30-16:00&lt;/td>
+&lt;td class="break" colspan="4">Coffee and Tea&lt;/td>
+&lt;/tr>
+&lt;tr style="height: 100px;">
+&lt;td>16:00-17:00&lt;/td>
+&lt;td>Roundtable&lt;br>Self-force&lt;/td>
+&lt;td>Roundtable&lt;br>Einstein equations&lt;/td>
+&lt;td>Roundtable&lt;br>BH perturbations&lt;/td>
+&lt;td>Roundtable&lt;br>Future projects&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;h3 id="registration">Registration&lt;/h3>
 &lt;p>To apply before the deadline &lt;strong>April 30, 2023&lt;/strong>, please visit the &lt;a href="https://strong-gr.com/infinity-on-a-grid-shell/registration/" target="_blank" rel="noopener">strong GR website&lt;/a>. We look forward to welcoming you to Copenhagen in July 2023.&lt;/p>
 &lt;p>&lt;em>Scientific Organizing Committee:&lt;/em> David Hilditch, Rodrigo Panosso Macedo, Alex Vañó-Viñuales, and Anıl Zenginoğlu&lt;/p>
 &lt;p>&lt;em>Local Organizing Committee:&lt;/em> Vitor Cardoso, Julie de Molade, Rita Sousa&lt;/p>
