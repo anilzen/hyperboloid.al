@@ -54,7 +54,112 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
+design: 
+
 ---
+
+### Schedule
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    .break {
+      background-color: #e6f7ff;
+    }
+  </style>
+
+  <table>
+    <tr>
+      <th>Time</th>
+      <th>Mon, 10 Jul</th>
+      <th>Tue, 11 Jul</th>
+      <th>Wed, 12 Jul</th>
+      <th>Thu, 13 Jul</th>
+    </tr>
+    <tr>
+      <td>8:30-8:45</td>
+      <td class="break">Coffee and Tea</td>
+      <td class="break" colspan="3" rowspan="2">Coffee and Tea</td>
+    </tr>
+    <tr>
+      <td>8:45-9:00</td>
+      <td>Welcome</td>
+    </tr>
+    <tr>
+      <td>9:00—9:45</td>
+      <td><a href="/copenhagen-23-talks#adam-pound">Adam Pound</a></td>
+      <td><a href=/copenhagen-23-talks#sascha-husa>Sascha Husa</a></td>
+      <td><a href=/copenhagen-23-talks#sebastiano-bernuzzi>Sebastiano Bernuzzi</a></td>
+      <td><a href=/copenhagen-23-talks#florian-beyer>Florian Beyer</a></td>
+    </tr>
+    <tr>
+      <td>9:45—10:30</td>
+      <td><a href=/copenhagen-23-talks#barry-wardell>Barry Wardell</a></td>
+      <td><a href=/copenhagen-23-talks#shalabh-gautam>Shalabh Gautam</a></td>
+      <td><a href=/copenhagen-23-talks#manas-vishal>Manas Vishal</a></td>
+      <td><a href=/copenhagen-23-talks#istvan-racz>Istvan Racz</a></td>
+    </tr>
+    <tr>
+      <td>10:30—11:00</td>
+      <td class="break" colspan="4">Coffee and Tea</td>
+    </tr>
+    <tr>
+      <td>11:00—11:45</td>
+      <td><a href=/copenhagen-23-talks#benjamin-leather>Benhamin Leather</a></td>
+      <td><a href=/copenhagen-23-talks#miguel-duarte>Miguel Duarte</a></td>
+      <td><a href=/copenhagen-23-talks#charalampos-markakis>Charalampos Markakis</a></td>
+      <td><a href=/copenhagen-23-talks#philippe-lefloch>Philippe LeFloch</a></td>
+    </tr>
+    <tr>
+      <td>11:45—12:30</td>
+      <td><a href=/copenhagen-23-talks#lidia-gomes-da-silva>Lidia Gomes da Silva</a></td>
+      <td><a href=/copenhagen-23-talks#christian-peterson>Christian Peterson</a></td>
+      <td><a href=/copenhagen-23-talks#jason-joykutty>Jason Joykutty</a></td>
+      <td><a href=/copenhagen-23-talks#marica-minucci>Marica Minucci</a></td>
+    </tr>
+    <tr>
+      <td>12:30—14:00</td>
+      <td class="break" colspan="4">Lunch</td>
+    </tr>
+    <tr>
+      <td>14:00-14:45</td>
+      <td><a href=/copenhagen-23-talks#oliver-long>Oliver Long</a></td>
+      <td><a href=/copenhagen-23-talks#edgar-gasperin>Edgar Gasperin</a></td>
+      <td><a href=/copenhagen-23-talks#dejan-gajic>Dejan Gajic</a></td>
+      <td><a href=/copenhagen-23-talks#todd-oliynyk>Todd Oliynyk</a></td>
+    </tr>
+    <tr>
+      <td>14:45-15:30</td>
+      <td><a href=/copenhagen-23-talks#abhay-ashtekar>Abhay Ashtekar</a></td>
+      <td><a href=/copenhagen-23-talks#jörg-frauendiener>Jörg Frauendiener</a></td>
+      <td><a href=/copenhagen-23-talks#josé-luis-jaramillo>José Luis Jaramillo</a></td>
+      <td><a href=/copenhagen-23-talks#piotr-bizon>Piotr Bizon</a></td>
+    </tr>
+    <tr>
+      <td>15:30-16:00</td>
+      <td class="break" colspan="4">Coffee and Tea</td>
+    </tr>
+    <tr style="height: 100px;">
+      <td>16:00-17:00</td>
+      <td>Roundtable<br>Self-force</td>
+      <td>Roundtable<br>Einstein equations</td>
+      <td>Roundtable<br>BH perturbations</td>
+      <td>Roundtable<br>Future projects</td>
+    </tr>
+  </table>
 
 ### Registration
 
