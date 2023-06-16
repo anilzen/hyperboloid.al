@@ -161,15 +161,6 @@ design:
     </tr>
   </table>
 
-### Registration
-
-To apply before the deadline **April 30, 2023**, please visit the [strong GR website](https://strong-gr.com/infinity-on-a-grid-shell/registration/). We look forward to welcoming you to Copenhagen in July 2023.
-
-
-*Scientific Organizing Committee:* David Hilditch, Rodrigo Panosso Macedo, Alex Vañó-Viñuales, and Anıl Zenginoğlu
-
-_Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
-
 ### Confirmed Speakers
 
 <table class="table table-hover table-sm">
@@ -300,3 +291,10 @@ _Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
         </div>
     </div>
 </section>
+
+### Organizers
+
+*Scientific Organizing Committee:* David Hilditch, Rodrigo Panosso Macedo, Alex Vañó-Viñuales, and Anıl Zenginoğlu
+
+_Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
+
