@@ -19,8 +19,9 @@ Titles and abstracts complementing the [schedule](/event/copenhagen-23#schedule)
 ### Abhay Ashtekar
 *Pennsylvania State University*
 
-#### 
+#### Bridging ${\cal I}^+$ and horizon through hyperboloid slices: Gravitational Wave Tomography
 
+When black holes merge (or form by gravitational collapse), we have a common dynamical horizon whose geometry changes dramatically as it settles down to the final Kerr horizon. This evolution can be invariantly characterized by the dynamics of a set of multipoles. Unfortunately, the causal structure of space-time prevents the outside observers from directly witnessing it. However, _thanks to Einstein's equations_, it is encoded in the profiles of gravitational waves observed at ${\cal I}^+$: Using hyperboloid slices to connect the two, one can introduce a transform that reconstructs the _late time_ dynamics of the horizon geometry using gravitational waveforms. Just as one monitors changes in the internal structure of objects from outside using electromagnetic tomography, one can image the horizon dynamics using gravitational waves at infinity.
 
 ---
 

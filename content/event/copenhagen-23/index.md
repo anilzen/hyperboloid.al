@@ -100,14 +100,14 @@ design:
     </tr>
     <tr>
       <td>9:00—9:45</td>
-      <td><a href="/copenhagen-23-talks#adam-pound">Adam Pound</a></td>
+      <td><a href=/copenhagen-23-talks#abhay-ashtekar>Abhay Ashtekar</a></td>
       <td><a href=/copenhagen-23-talks#sascha-husa>Sascha Husa</a></td>
       <td><a href=/copenhagen-23-talks#sebastiano-bernuzzi>Sebastiano Bernuzzi</a></td>
       <td><a href=/copenhagen-23-talks#florian-beyer>Florian Beyer</a></td>
     </tr>
     <tr>
       <td>9:45—10:30</td>
-      <td><a href=/copenhagen-23-talks#barry-wardell>Barry Wardell</a></td>
+      <td><a href="/copenhagen-23-talks#adam-pound">Adam Pound</a></td>
       <td><a href=/copenhagen-23-talks#shalabh-gautam>Shalabh Gautam</a></td>
       <td><a href=/copenhagen-23-talks#manas-vishal>Manas Vishal</a></td>
       <td><a href=/copenhagen-23-talks#istvan-racz>Istvan Racz</a></td>
@@ -118,14 +118,14 @@ design:
     </tr>
     <tr>
       <td>11:00—11:45</td>
-      <td><a href=/copenhagen-23-talks#benjamin-leather>Benhamin Leather</a></td>
+      <td><a href=/copenhagen-23-talks#barry-wardell>Barry Wardell</a></td>
       <td><a href=/copenhagen-23-talks#miguel-duarte>Miguel Duarte</a></td>
       <td><a href=/copenhagen-23-talks#charalampos-markakis>Charalampos Markakis</a></td>
       <td><a href=/copenhagen-23-talks#philippe-lefloch>Philippe LeFloch</a></td>
     </tr>
     <tr>
       <td>11:45—12:30</td>
-      <td><a href=/copenhagen-23-talks#lidia-gomes-da-silva>Lidia Gomes da Silva</a></td>
+      <td><a href=/copenhagen-23-talks#benjamin-leather>Benhamin Leather</a></td>
       <td><a href=/copenhagen-23-talks#christian-peterson>Christian Peterson</a></td>
       <td><a href=/copenhagen-23-talks#jason-joykutty>Jason Joykutty</a></td>
       <td><a href=/copenhagen-23-talks#marica-minucci>Marica Minucci</a></td>
@@ -136,14 +136,14 @@ design:
     </tr>
     <tr>
       <td>14:00—14:45</td>
-      <td><a href=/copenhagen-23-talks#oliver-long>Oliver Long</a></td>
+      <td><a href=/copenhagen-23-talks#lidia-gomes-da-silva>Lidia Gomes da Silva</a></td>
       <td><a href=/copenhagen-23-talks#edgar-gasperin>Edgar Gasperin</a></td>
       <td><a href=/copenhagen-23-talks#dejan-gajic>Dejan Gajic</a></td>
       <td><a href=/copenhagen-23-talks#todd-oliynyk>Todd Oliynyk</a></td>
     </tr>
     <tr>
       <td>14:45—15:30</td>
-      <td><a href=/copenhagen-23-talks#abhay-ashtekar>Abhay Ashtekar</a></td>
+      <td><a href=/copenhagen-23-talks#oliver-long>Oliver Long</a></td>
       <td><a href=/copenhagen-23-talks#jörg-frauendiener>Jörg Frauendiener</a></td>
       <td><a href=/copenhagen-23-talks#josé-luis-jaramillo>José Luis Jaramillo</a></td>
       <td><a href=/copenhagen-23-talks#piotr-bizon>Piotr Bizon</a></td>
