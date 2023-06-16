@@ -296,6 +296,9 @@ design:
             <div class="col-lg-4 col-sm-12">
                 <img src="/uploads/Copenhagen-23-Logos/Copenhagen_University_NBI_logo.png" style="width:auto;height:100px;" alt="UMD Logo">
             </div>
+            <div class="col-lg-4 col-sm-12">
+                <img src="/uploads/Copenhagen-23-Logos/nsf_logo.jpg" style="width:auto;height:100px;" alt="UMD Logo">
+            </div>
         </div>
     </div>
 </section>
