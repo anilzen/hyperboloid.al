@@ -12,7 +12,7 @@ design:
 #   image: '20_06_12_090843_retouched.jpg'
 
 ---
-Titles and abstracts complenting the [schedule](/event/copenhagen-23#schedule) of the [Infinity on a Gridshell](/event/copenhagen-23/) workshop in Copenhagen, July 10—13, 2023.
+Titles and abstracts complementing the [schedule](/event/copenhagen-23#schedule) of the [Infinity on a Gridshell](/event/copenhagen-23/) workshop in Copenhagen, July 10—13, 2023.
 
 ---
 
