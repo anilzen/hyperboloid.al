@@ -175,14 +175,17 @@ background-color: #e6f7ff;
 &lt;th>Wed, 12 Jul&lt;/th>
 &lt;th>Thu, 13 Jul&lt;/th>
 &lt;/tr>
-&lt;tr>
+&lt;!-- &lt;tr>
 &lt;td>8:30—8:45&lt;/td>
 &lt;td class="break">Coffee and Tea&lt;/td>
 &lt;td class="break" colspan="3" rowspan="2">Coffee and Tea&lt;/td>
-&lt;/tr>
+&lt;/tr> -->
 &lt;tr>
 &lt;td>8:45—9:00&lt;/td>
 &lt;td>Welcome&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>9:00—9:45&lt;/td>
