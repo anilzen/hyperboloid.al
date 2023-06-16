@@ -300,8 +300,12 @@ background-color: #e6f7ff;
 &lt;td>University of the Balearic Islands&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Jose-Luis Jaramillo&lt;/td>
+&lt;td>José Luis Jaramillo&lt;/td>
 &lt;td>University of Burgundy&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jason Joykutty&lt;/td>
+&lt;td>University of Cambridge&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Benjamin Leather&lt;/td>
@@ -338,6 +342,10 @@ background-color: #e6f7ff;
 &lt;tr>
 &lt;td>Istvan Racz&lt;/td>
 &lt;td>Wigner Research Centre for Physics&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Manas Vishal&lt;/td>
+&lt;td>University of Massachusetts Dartmouth&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Barry Wardell&lt;/td>
