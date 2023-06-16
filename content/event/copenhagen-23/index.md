@@ -216,8 +216,12 @@ design:
   <td>University of the Balearic Islands</td>
 </tr>
 <tr>
-  <td>Jose-Luis Jaramillo</td>
+  <td>José Luis Jaramillo</td>
   <td>University of Burgundy</td>
+</tr>
+<tr>
+  <td>Jason Joykutty</td>
+  <td>University of Cambridge</td>
 </tr>
 <tr>
   <td>Benjamin Leather</td>
@@ -254,6 +258,10 @@ design:
 <tr>
   <td>Istvan Racz</td>
   <td>Wigner Research Centre for Physics</td>
+</tr>
+<tr>
+  <td>Manas Vishal</td>
+  <td>University of Massachusetts Dartmouth</td>
 </tr>
 <tr>
   <td>Barry Wardell</td>
