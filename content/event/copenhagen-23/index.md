@@ -89,14 +89,17 @@ design:
       <th>Wed, 12 Jul</th>
       <th>Thu, 13 Jul</th>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>8:30—8:45</td>
       <td class="break">Coffee and Tea</td>
       <td class="break" colspan="3" rowspan="2">Coffee and Tea</td>
-    </tr>
+    </tr> -->
     <tr>
       <td>8:45—9:00</td>
       <td>Welcome</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>9:00—9:45</td>
