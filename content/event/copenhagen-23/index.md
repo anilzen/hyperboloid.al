@@ -153,7 +153,7 @@ design:
     </tr>
     <tr>
       <td>15:30—16:00</td>
-      <td class="break" colspan="4">Coffee</td>
+      <td class="break" colspan="4">Coffee and Tea</td>
     </tr>
     <tr style="height: 100px;">
       <td>16:00—17:00</td>
