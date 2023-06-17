@@ -124,7 +124,7 @@ design:
       <td><a href=/copenhagen-23-talks#barry-wardell>Barry Wardell</a></td>
       <td><a href=/copenhagen-23-talks#miguel-duarte>Miguel Duarte</a></td>
       <td><a href=/copenhagen-23-talks#charalampos-markakis>Charalampos Markakis</a></td>
-      <td><a href=/copenhagen-23-talks#jason-joykutty>Jason Joykutty</a></td>
+      <td><a href=/copenhagen-23-talks#philippe-lefloch>Philippe LeFloch</a></td>
     </tr>
     <tr>
       <td>11:45—12:30</td>
@@ -142,7 +142,7 @@ design:
       <td><a href=/copenhagen-23-talks#lidia-gomes-da-silva>Lidia Gomes da Silva</a></td>
       <td><a href=/copenhagen-23-talks#edgar-gasperin>Edgar Gasperin</a></td>
       <td><a href=/copenhagen-23-talks#dejan-gajic>Dejan Gajic</a></td>
-      <td><a href=/copenhagen-23-talks#philippe-lefloch>Philippe LeFloch</a></td>
+      <td><a href=/copenhagen-23-talks#jason-joykutty>Jason Joykutty</a></td>
     </tr>
     <tr>
       <td>14:45—15:30</td>
