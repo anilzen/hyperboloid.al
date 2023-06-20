@@ -201,7 +201,7 @@ The main usefulness of hyperboloidal numerical methods is the clean capture of t
 In second-order self-force theory, two types of infrared divergences arise due to the large-r behavior of the source terms in the second-order field equations. Both types are associated with the slow evolution of the binary system, but they have different underlying causes and very different manifestations. One type can be straightforwardly eliminated by adopting asymptotically null slicing. The second type, associated with hereditary dynamics and gravitational-wave memory, persists regardless of the choice of slicing. This more pernicious type can be eliminated by combining asymptotically null slicing with a Bondi-type gauge condition on the metric perturbation, enforcing that the background slices remain asymptotically null in the perturbed spacetime.
 
 ---
-### Istvan Racz
+### István Rácz
 *Wigner Research Centre for Physics*
 
 #### The Many Faces of the Hyperboloidal Slices of Kerr Spacetime

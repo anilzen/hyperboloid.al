@@ -259,7 +259,7 @@ design:
   <td>University of Southampton</td>
 </tr>
 <tr>
-  <td>Istvan Racz</td>
+  <td>István Rácz</td>
   <td>Wigner Research Centre for Physics</td>
 </tr>
 <tr>
