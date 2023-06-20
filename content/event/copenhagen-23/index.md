@@ -113,7 +113,7 @@ design:
       <td><a href="/copenhagen-23-talks#adam-pound">Adam Pound</a></td>
       <td><a href=/copenhagen-23-talks#shalabh-gautam>Shalabh Gautam</a></td>
       <td><a href=/copenhagen-23-talks#manas-vishal>Manas Vishal</a></td>
-      <td><a href=/copenhagen-23-talks#istvan-racz>Istvan Racz</a></td>
+      <td><a href=/copenhagen-23-talks#istván-rácz>István Rácz</a></td>
     </tr>
     <tr>
       <td>10:30—11:00</td>
