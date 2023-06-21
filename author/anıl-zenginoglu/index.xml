@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anıl Zenginoğlu | Hyperboloidal</title><link>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/</link><atom:link href="https://hyperboloid.al/author/an%C4%B1l-zenginoglu/index.xml" rel="self" type="application/rss+xml"/><description>Anıl Zenginoğlu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 09:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/avatar_hubdbe8f760004904350d82355aac46df7_167987_270x270_fill_q75_lanczos_center.jpg</url><title>Anıl Zenginoğlu</title><link>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/</link></image><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;h3 id="schedule">Schedule&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anıl Zenginoğlu | Hyperboloidal</title><link>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/</link><atom:link href="https://hyperboloid.al/author/an%C4%B1l-zenginoglu/index.xml" rel="self" type="application/rss+xml"/><description>Anıl Zenginoğlu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 09:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/avatar_hubdbe8f760004904350d82355aac46df7_167987_270x270_fill_q75_lanczos_center.jpg</url><title>Anıl Zenginoğlu</title><link>https://hyperboloid.al/author/an%C4%B1l-zenginoglu/</link></image><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;h2 id="schedule">Schedule&lt;/h2>
 &lt;style>
 table {
 width: 100%;
@@ -98,7 +98,13 @@ background-color: #e6f7ff;
 &lt;td>Roundtable&lt;br>Future projects&lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;h3 id="confirmed-speakers">Confirmed Speakers&lt;/h3>
+&lt;h3 id="activities">Activities&lt;/h3>
+&lt;p>&lt;strong>Tour of NBI Archives&lt;/strong>, Monday, 10 July, and Tuesday, 11 July, at 17:30.&lt;/p>
+&lt;p>The Niels Bohr Institute (NBI) where the workshop will take place was founded by Niels Bohr in 1921. NBI has played a crucial role in shaping the development of quantum mechanics and quantum information theory. A tour of the institute&amp;rsquo;s archives will be offered on Monday and Tuesday at 17:30. The tour is free of charge and will last approximately 1 hour.&lt;/p>
+&lt;p>&lt;strong>Conference Dinner&lt;/strong>, Wednesday, 12 July, 18:30.&lt;/p>
+&lt;p>The conference dinner will take place on Wednesday, 12 July, at 19:00 at &lt;a href="https://en.restaurant-orangeriet.dk/hjem" target="_blank" rel="noopener">Restaurant Orangeriet&lt;/a> located at &lt;a href="https://www.google.com/maps?q=Kronprinsessegade&amp;#43;13,&amp;#43;1306,&amp;#43;Copenhagen&amp;#43;K,&amp;#43;DK" target="_blank" rel="noopener">Kronprinsessegade 13&lt;/a> by the &lt;a href="https://en.wikipedia.org/wiki/Rosenborg_Castle_Gardens" target="_blank" rel="noopener">Rosenborg Castle Gardens&lt;/a>.&lt;/p>
+&lt;p>Please use this &lt;a href="https://science.nemtilmeld.dk/1699/at-INFINITY/" target="_blank" rel="noopener">link&lt;/a> to register for the conference dinner. The cost is 200 DKK for postdocs/faculty and 150 DKK for PhD students.&lt;/p>
+&lt;!-- ### Confirmed Speakers
 &lt;table class="table table-hover table-sm">
 &lt;thead class="thead-dark">
 &lt;tr>
@@ -204,14 +210,20 @@ background-color: #e6f7ff;
 &lt;td>University College Dublin&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table>
-&lt;h3 id="conference-poster">Conference Poster&lt;/h3>
+&lt;/table> -->
+&lt;h2 id="conference-poster">Conference Poster&lt;/h2>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="./poster.webp" alt="Conference Poster" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
+&lt;hr>
+&lt;h2 id="organizers">Organizers&lt;/h2>
+&lt;p>&lt;strong>Scientific Organizing Committee:&lt;/strong> David Hilditch, Rodrigo Panosso Macedo, Alex Vañó-Viñuales, and Anıl Zenginoğlu&lt;/p>
+&lt;p>&lt;strong>Local Organizing Committee:&lt;/strong> Vitor Cardoso, Julie de Molade, Rita Sousa&lt;/p>
+&lt;hr>
+&lt;h2 id="funding">Funding&lt;/h2>
 &lt;section class="logo-list">
 &lt;div class="container">
 &lt;div class="row">
@@ -238,9 +250,7 @@ background-color: #e6f7ff;
 &lt;/div>
 &lt;/div>
 &lt;/section>
-&lt;h3 id="organizers">Organizers&lt;/h3>
-&lt;p>&lt;em>Scientific Organizing Committee:&lt;/em> David Hilditch, Rodrigo Panosso Macedo, Alex Vañó-Viñuales, and Anıl Zenginoğlu&lt;/p>
-&lt;p>&lt;em>Local Organizing Committee:&lt;/em> Vitor Cardoso, Julie de Molade, Rita Sousa&lt;/p></description></item><item><title>Minimal Gauge</title><link>https://hyperboloid.al/post/minimal-gauge/</link><pubDate>Thu, 29 Sep 2022 00:01:00 +0000</pubDate><guid>https://hyperboloid.al/post/minimal-gauge/</guid><description>&lt;p>There is a flavor of hyperboloidal compactification commonly used in perturbation theory that goes under the name &amp;ldquo;minimal gauge.&amp;rdquo; The associated time slices extend smoothly between the event horizon and null infinity. Minimal gauge was first proposed by &lt;a href="https://arxiv.org/abs/1301.6984" target="_blank" rel="noopener">Schinkel, Ansorg, and Macedo&lt;/a> in 2013 and further formalised in the context of &lt;a href="https://arxiv.org/abs/1604.02261" target="_blank" rel="noopener">Schwarzschild&lt;/a>, &lt;a href="https://arxiv.org/abs/1809.02837" target="_blank" rel="noopener">Reisnner-Nordstrom&lt;/a> and &lt;a href="https://arxiv.org/abs/1910.13452" target="_blank" rel="noopener">Kerr&lt;/a> spacetimes. The main advantage of minimal gauge over other smooth hyperboloidal foliations of the exterior Schwarzschild domain is its algebraic simplicity. The purpose of the post is to provide a derivation of minimal gauge that emphasizes this simplicity.&lt;/p>
+&lt;hr></description></item><item><title>Minimal Gauge</title><link>https://hyperboloid.al/post/minimal-gauge/</link><pubDate>Thu, 29 Sep 2022 00:01:00 +0000</pubDate><guid>https://hyperboloid.al/post/minimal-gauge/</guid><description>&lt;p>There is a flavor of hyperboloidal compactification commonly used in perturbation theory that goes under the name &amp;ldquo;minimal gauge.&amp;rdquo; The associated time slices extend smoothly between the event horizon and null infinity. Minimal gauge was first proposed by &lt;a href="https://arxiv.org/abs/1301.6984" target="_blank" rel="noopener">Schinkel, Ansorg, and Macedo&lt;/a> in 2013 and further formalised in the context of &lt;a href="https://arxiv.org/abs/1604.02261" target="_blank" rel="noopener">Schwarzschild&lt;/a>, &lt;a href="https://arxiv.org/abs/1809.02837" target="_blank" rel="noopener">Reisnner-Nordstrom&lt;/a> and &lt;a href="https://arxiv.org/abs/1910.13452" target="_blank" rel="noopener">Kerr&lt;/a> spacetimes. The main advantage of minimal gauge over other smooth hyperboloidal foliations of the exterior Schwarzschild domain is its algebraic simplicity. The purpose of the post is to provide a derivation of minimal gauge that emphasizes this simplicity.&lt;/p>
 &lt;p>To bring things in context, we&amp;rsquo;ll start with regular coordinates across black-hole horizons, which are called horizon-penetrating.&lt;/p>
 &lt;h2 id="horizon-penetrating-coordinates">Horizon-penetrating coordinates&lt;/h2>
 &lt;p>Consider the 1+1 Schwarzschild spacetime with coordinates $(t,r)\in (-\infty,\infty)\times (1,\infty)$ and metric
