@@ -59,7 +59,7 @@ design:
 
 ---
 
-### Schedule
+## Schedule
   <style>
     table {
       width: 100%;
@@ -164,7 +164,20 @@ design:
     </tr>
   </table>
 
-### Confirmed Speakers
+### Activities
+
+**Tour of NBI Archives**, Monday, 10 July, and Tuesday, 11 July, at 17:30.
+
+The Niels Bohr Institute (NBI) where the workshop will take place was founded by Niels Bohr in 1921. NBI has played a crucial role in shaping the development of quantum mechanics and quantum information theory. A tour of the institute's archives will be offered on Monday and Tuesday at 17:30. The tour is free of charge and will last approximately 1 hour.
+
+**Conference Dinner**, Wednesday, 12 July, 18:30.
+
+The conference dinner will take place on Wednesday, 12 July, at 19:00 at [Restaurant Orangeriet](https://en.restaurant-orangeriet.dk/hjem) located at [Kronprinsessegade 13](https://www.google.com/maps?q=Kronprinsessegade+13,+1306,+Copenhagen+K,+DK) by the [Rosenborg Castle Gardens](https://en.wikipedia.org/wiki/Rosenborg_Castle_Gardens). 
+
+Please use this [link](https://science.nemtilmeld.dk/1699/at-INFINITY/) to register for the conference dinner. The cost is 200 DKK for postdocs/faculty and 150 DKK for PhD students.
+
+
+<!-- ### Confirmed Speakers
 
 <table class="table table-hover table-sm">
   <thead class="thead-dark">
@@ -272,12 +285,24 @@ design:
 </tr>
 
   </tbody>
-</table>
+</table> -->
 
-### Conference Poster
+
+## Conference Poster
 
 ![Conference Poster](./poster.webp)
 
+---
+
+## Organizers
+
+**Scientific Organizing Committee:** David Hilditch, Rodrigo Panosso Macedo, Alex Vañó-Viñuales, and Anıl Zenginoğlu
+
+**Local Organizing Committee:** Vitor Cardoso, Julie de Molade, Rita Sousa
+
+---
+
+## Funding
 
 <section class="logo-list">
     <div class="container">
@@ -306,9 +331,4 @@ design:
     </div>
 </section>
 
-### Organizers
-
-*Scientific Organizing Committee:* David Hilditch, Rodrigo Panosso Macedo, Alex Vañó-Viñuales, and Anıl Zenginoğlu
-
-_Local Organizing Committee:_ Vitor Cardoso, Julie de Molade, Rita Sousa
-
+---
