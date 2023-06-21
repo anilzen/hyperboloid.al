@@ -128,7 +128,7 @@ design:
     </tr>
     <tr>
       <td>11:45—12:30</td>
-      <td><a href=/copenhagen-23-talks#benjamin-leather>Benhamin Leather</a></td>
+      <td><a href=/copenhagen-23-talks#benjamin-leather>Benjamin Leather</a></td>
       <td><a href=/copenhagen-23-talks#christian-peterson>Christian Peterson</a></td>
       <td><a href=/copenhagen-23-talks#todd-oliynyk>Todd Oliynyk</a></td>
       <td><a href=/copenhagen-23-talks#marica-minucci>Marica Minucci</a></td>
