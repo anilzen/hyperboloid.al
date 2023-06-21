@@ -168,11 +168,11 @@ design:
 
 **Tour of NBI Archives**, Monday, 10 July, and Tuesday, 11 July, at 17:30.
 
-The Niels Bohr Institute (NBI) where the workshop will take place was founded by Niels Bohr in 1921. NBI has played a crucial role in shaping the development of quantum mechanics and quantum information theory. A tour of the institute's archives will be offered on Monday and Tuesday at 17:30. The tour is free of charge and will last approximately 1 hour.
+The [Niels Bohr Institute](https://en.wikipedia.org/wiki/Niels_Bohr_Institute) (NBI) where the workshop will take place was founded by [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) in 1921. NBI has played a crucial role in shaping the development of quantum mechanics and quantum information theory. A tour of the institute's [archives](https://www.nbarchive.dk/) will be offered on Monday and Tuesday at 17:30. The tour is free of charge and will last approximately 1 hour.
 
 **Conference Dinner**, Wednesday, 12 July, 18:30.
 
-The conference dinner will take place on Wednesday, 12 July, at 19:00 at [Restaurant Orangeriet](https://en.restaurant-orangeriet.dk/hjem) located at [Kronprinsessegade 13](https://www.google.com/maps?q=Kronprinsessegade+13,+1306,+Copenhagen+K,+DK) by the [Rosenborg Castle Gardens](https://en.wikipedia.org/wiki/Rosenborg_Castle_Gardens). 
+The conference dinner will take place on Wednesday, 12 July, at 18:30 at [Restaurant Orangeriet](https://en.restaurant-orangeriet.dk/hjem) located at [Kronprinsessegade 13](https://www.google.com/maps?q=Kronprinsessegade+13,+1306,+Copenhagen+K,+DK) by the [Rosenborg Castle Gardens](https://en.wikipedia.org/wiki/Rosenborg_Castle_Gardens). 
 
 Please use this [link](https://science.nemtilmeld.dk/1699/at-INFINITY/) to register for the conference dinner. The cost is 200 DKK for postdocs/faculty and 150 DKK for PhD students.
 
