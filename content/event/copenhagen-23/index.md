@@ -13,12 +13,10 @@ address:
   # country: 'Denmark'
 
 summary: Hyperboloidal compactification and its applications with a focus on Einstein equations.
-abstract: 'In recent years, hyperboloidal methods have started to play a critical role in black-hole perturbation theory as they have expanded into diverse applications such as the computation of long-time wave equations, quasi-normal modes, alternative theories of gravity, effective-one-body formalism, and self-force. Extensive progress has been achieved during the past decade, with many developments targeting the generic solution of nonlinear Einstein equations. 
+abstract: 'In recent years, hyperboloidal methods have emerged as effective tools in the field of black-hole perturbation theory, finding wide-ranging applications in various areas, including the computation of long-time wave equations, quasi-normal modes, effective-one-body formalism, and self-force. Significant advancements have been made over the past decade, with a particular focus on addressing the intricate challenges posed by the generic solution of nonlinear Einstein equations. These developments have propelled the field forward, enabling researchers to gain deeper insights into the behavior of black holes and paving the way for further breakthroughs in our understanding of gravitational phenomena.
 <h3>Goals</h3>
-This workshop aims to bring together leading experts to review and summarize the progress in hyperboloidal methods. Our goal is to assess the current state-of-the-art of these methods in a wide range of applications and to foster new collaborations. We will particularly focus on solving the full Einstein equations for astrophysically relevant scenarios.'
+This workshop aims to bring together leading experts to review and summarize the progress in hyperboloidal methods. Our primary objectives are to evaluate the current state-of-the-art of these methods across diverse applications and to foster the development of new collaborative efforts. Particular emphasis will be placed on open problems, such as solving the nonlinear Einstein equations in scenarios relevant to astrophysics.'
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-07-10T09:00:00Z'
 date_end: '2023-07-13T15:00:00Z'
 all_day: true
@@ -60,6 +58,7 @@ design:
 ---
 
 ## Schedule
+
   <style>
     table {
       width: 100%;
@@ -164,6 +163,10 @@ design:
     </tr>
   </table>
 
+### Streaming
+Talks will be streamed online and recorded. If you are interested in attending online, please register [here](https://umd.zoom.us/meeting/register/tJ0lc-2trzosE9NChGpai9-h_EXjW1xxRvd_).
+
+
 ### Activities
 
 **Tour of NBI Archives**, Monday, 10 July, and Tuesday, 11 July, at 17:30.
@@ -174,8 +177,9 @@ The [Niels Bohr Institute](https://en.wikipedia.org/wiki/Niels_Bohr_Institute) (
 
 The conference dinner will take place on Wednesday, 12 July, at 18:30 at [Restaurant Orangeriet](https://en.restaurant-orangeriet.dk/hjem) located at [Kronprinsessegade 13](https://www.google.com/maps?q=Kronprinsessegade+13,+1306,+Copenhagen+K,+DK) by the [Rosenborg Castle Gardens](https://en.wikipedia.org/wiki/Rosenborg_Castle_Gardens). 
 
-Please use this [link](https://science.nemtilmeld.dk/1699/at-INFINITY/) to register for the conference dinner. The cost is 200 DKK for postdocs/faculty and 150 DKK for PhD students.
+The cost is 200 DKK for postdocs/faculty and 150 DKK for PhD students.
 
+<!-- Please use this [link](https://science.nemtilmeld.dk/1699/at-INFINITY/) to register for the conference dinner. 
 
 <!-- ### Confirmed Speakers
 
