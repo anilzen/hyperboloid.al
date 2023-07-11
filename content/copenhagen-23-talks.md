@@ -204,7 +204,9 @@ In second-order self-force theory, two types of infrared divergences arise due t
 ### István Rácz
 *Wigner Research Centre for Physics*
 
-#### The Many Faces of the Hyperboloidal Slices of Kerr Spacetime
+#### On the Constructions of Hyperboloidal Initial Data
+
+The regularity of the solutions of the constraint equations on hyperboloidal initial data surfaces is discussed. Some numerical results are also presented which support a recent argument of Beyer and Ritchie concerning the use of the parabolic-hyperbolic form of the constraints.
 
 
 ---
