@@ -39,13 +39,13 @@ The understanding of black hole mergers in general relativity heavily relies on 
 #### Asymptotically hyperboloidal initial data sets from a parabolic-hyperbolic formulation of the Einstein vacuum constraints
 We discuss recent results regarding the asymptotics of solutions of certain evolutionary formulations of the Einstein-vacuum constraint equations based on previous work by Bartnik and Racz.
 
----
+<!-- ---
 
 ### Piotr Bizon
 *Jagiellonian University*
 
 #### Hyperboloidal approach to the soliton resolution
-I will discuss the advantages of hyperboloidal foliations in the studies of soliton resolution conjecture, using simple semilinear dispersive wave equations for illustration.
+I will discuss the advantages of hyperboloidal foliations in the studies of soliton resolution conjecture, using simple semilinear dispersive wave equations for illustration. -->
 
 ---
 
@@ -208,6 +208,13 @@ In second-order self-force theory, two types of infrared divergences arise due t
 
 The regularity of the solutions of the constraint equations on hyperboloidal initial data surfaces is discussed. Some numerical results are also presented which support a recent argument of Beyer and Ritchie concerning the use of the parabolic-hyperbolic form of the constraints.
 
+
+---
+### Alex Vañó-Viñuales
+*University of Lisbon*
+
+#### Status of 3D free hyperboloidal conformal numerical evolutions
+Gravitational wave radiation is only unambiguously defined at future null infinity. A convenient way to include it in numerical relativity simulations is via hyperboloidal foliations, which can be tackled using conformal compactification. I will describe one such implementation in the BSSN / conformal Z4 formulations. Spherically symmetric numerical simulations evolved with this method and dealing with black hole data will be presented. I will also give an update on ongoing work in 3D evolutions.
 
 ---
 ### Manas Vishal

@@ -145,7 +145,7 @@ design:
       <td><a href=/copenhagen-23-talks#oliver-long>Oliver Long</a></td>
       <td><a href=/copenhagen-23-talks#jörg-frauendiener>Jörg Frauendiener</a></td>
       <td><a href=/copenhagen-23-talks#josé-luis-jaramillo>José Luis Jaramillo</a></td>
-      <td><a href=/copenhagen-23-talks#piotr-bizon>Piotr Bizon</a></td>
+      <td><a href=/copenhagen-23-talks#alex-vañó-viñuales>Alex Vañó-Viñuales</a></td>
     </tr>
     <tr>
       <td>15:30—16:00</td>
