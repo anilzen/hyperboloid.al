@@ -16,11 +16,11 @@
 &lt;p>&lt;em>University of Otago&lt;/em>&lt;/p>
 &lt;h4 id="asymptotically-hyperboloidal-initial-data-sets-from-a-parabolic-hyperbolic-formulation-of-the-einstein-vacuum-constraints">Asymptotically hyperboloidal initial data sets from a parabolic-hyperbolic formulation of the Einstein vacuum constraints&lt;/h4>
 &lt;p>We discuss recent results regarding the asymptotics of solutions of certain evolutionary formulations of the Einstein-vacuum constraint equations based on previous work by Bartnik and Racz.&lt;/p>
-&lt;hr>
-&lt;h3 id="piotr-bizon">Piotr Bizon&lt;/h3>
-&lt;p>&lt;em>Jagiellonian University&lt;/em>&lt;/p>
-&lt;h4 id="hyperboloidal-approach-to-the-soliton-resolution">Hyperboloidal approach to the soliton resolution&lt;/h4>
-&lt;p>I will discuss the advantages of hyperboloidal foliations in the studies of soliton resolution conjecture, using simple semilinear dispersive wave equations for illustration.&lt;/p>
+&lt;!-- ---
+### Piotr Bizon
+*Jagiellonian University*
+#### Hyperboloidal approach to the soliton resolution
+I will discuss the advantages of hyperboloidal foliations in the studies of soliton resolution conjecture, using simple semilinear dispersive wave equations for illustration. -->
 &lt;hr>
 &lt;h3 id="miguel-duarte">Miguel Duarte&lt;/h3>
 &lt;p>&lt;em>Technical University of Lisbon&lt;/em>&lt;/p>
@@ -141,6 +141,11 @@ and Cauchy-characteristic methods.&lt;/p>
 &lt;h4 id="on-the-constructions-of-hyperboloidal-initial-data">On the Constructions of Hyperboloidal Initial Data&lt;/h4>
 &lt;p>The regularity of the solutions of the constraint equations on hyperboloidal initial data surfaces is discussed. Some numerical results are also presented which support a recent argument of Beyer and Ritchie concerning the use of the parabolic-hyperbolic form of the constraints.&lt;/p>
 &lt;hr>
+&lt;h3 id="alex-vañó-viñuales">Alex Vañó-Viñuales&lt;/h3>
+&lt;p>&lt;em>University of Lisbon&lt;/em>&lt;/p>
+&lt;h4 id="status-of-3d-free-hyperboloidal-conformal-numerical-evolutions">Status of 3D free hyperboloidal conformal numerical evolutions&lt;/h4>
+&lt;p>Gravitational wave radiation is only unambiguously defined at future null infinity. A convenient way to include it in numerical relativity simulations is via hyperboloidal foliations, which can be tackled using conformal compactification. I will describe one such implementation in the BSSN / conformal Z4 formulations. Spherically symmetric numerical simulations evolved with this method and dealing with black hole data will be presented. I will also give an update on ongoing work in 3D evolutions.&lt;/p>
+&lt;hr>
 &lt;h3 id="manas-vishal">Manas Vishal&lt;/h3>
 &lt;p>&lt;em>University of Massachusetts Dartmouth&lt;/em>&lt;/p>
 &lt;h4 id="a-discontinuous-galerkin-method-for-the-distributionally-sourced-s0-teukolsky-equation">A discontinuous Galerkin method for the distributionally-sourced s=0 Teukolsky equation&lt;/h4>
@@ -233,7 +238,7 @@ background-color: #e6f7ff;
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#oliver-long>Oliver Long&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#jörg-frauendiener>Jörg Frauendiener&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#josé-luis-jaramillo>José Luis Jaramillo&lt;/a>&lt;/td>
-&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#piotr-bizon>Piotr Bizon&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/copenhagen-23-talks#alex-vañó-viñuales>Alex Vañó-Viñuales&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>15:30—16:00&lt;/td>
