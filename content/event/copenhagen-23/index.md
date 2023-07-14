@@ -160,6 +160,13 @@ design:
     </tr>
   </table>
 
+### Conference Photos
+
+#### Workshop
+
+#### Dinner
+![Workshop Dinner](./WorkshopDinner.webp)
+
 ### Streaming
 Talks will be streamed online. If you are interested in attending online, please register [here](https://umd.zoom.us/meeting/register/tJ0lc-2trzosE9NChGpai9-h_EXjW1xxRvd_).
 
