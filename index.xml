@@ -252,6 +252,15 @@ background-color: #e6f7ff;
 &lt;td>Roundtable&lt;br>Future projects&lt;/td>
 &lt;/tr>
 &lt;/table>
+&lt;h3 id="conference-photos">Conference Photos&lt;/h3>
+&lt;h4 id="workshop">Workshop&lt;/h4>
+&lt;h4 id="dinner">Dinner&lt;/h4>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./WorkshopDinner.webp" alt="Workshop Dinner" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;h3 id="streaming">Streaming&lt;/h3>
 &lt;p>Talks will be streamed online. If you are interested in attending online, please register &lt;a href="https://umd.zoom.us/meeting/register/tJ0lc-2trzosE9NChGpai9-h_EXjW1xxRvd_" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
 &lt;h3 id="activities">Activities&lt;/h3>
