@@ -17,6 +17,8 @@ role: Assistant Professor
 organizations:
 - name: Center for Astrophysics and Gravitation (CENTRA)
   url: https://centra.tecnico.ulisboa.pt/
+- name: University of Lisbon
+  url: https://tecnico.ulisboa.pt/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I work on mathematical topics in numerical relativity. In particular my research has focused on the gauge freedom of general relativity and on the development of formulations suitable for numerical approximation.

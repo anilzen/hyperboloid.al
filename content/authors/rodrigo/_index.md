@@ -15,10 +15,10 @@ role: Postdoctoral Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Southampton Theory Astrophysics and Gravity Research Centre (STAG)
-  url: https://www.southampton.ac.uk/stag
-- name: University of Southampton
-  url: https://www.southampton.ac.uk
+- name: Niels Bohr Institute
+  url: https://nbi.ku.dk/english/
+- name: University of Copenhagen
+  url: https://www.ku.dk/english/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I work in the intersection between mathematical relativity, numerical relativity and astrophysics. In the good days, I provide a link between the three fields. In the bad days, I don't belong anywhere.

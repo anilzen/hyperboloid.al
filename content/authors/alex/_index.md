@@ -17,6 +17,8 @@ role: Post-Doc FCT
 organizations:
 - name: Center for Astrophysics and Gravitation (CENTRA)
   url: https://centra.tecnico.ulisboa.pt/
+- name: IST, University of Lisbon
+  url: https://tecnico.ulisboa.pt/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Numerical relativist at the interface with mathematical General Relativity. 
