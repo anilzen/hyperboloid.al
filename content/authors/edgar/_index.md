@@ -1,17 +1,17 @@
 ---
 # Display name
-title: David Hilditch
+title: Edgar Gasperín
 weight: 10
 
 # Username (this should match the folder name)
 authors:
-- david
+- edgar
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,19 +21,22 @@ organizations:
   url: https://tecnico.ulisboa.pt/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work on mathematical topics in numerical relativity. In particular my research has focused on the gauge freedom of general relativity and on the development of formulations suitable for numerical approximation.
+bio: 
 
 interests:
-- Black Holes
-- Gravitational Waves
-- Hyperboloidal Foliations
-- Partial Differential Equations
+- Cosmological and black hole spacetimes 
+- Conformal geometry 
+- Hidden symmetries (Killing spinors) 
+- Initial value problem in General Relativity 
 
 education:
   courses:
-  - course: PhD in Physics
-    institution: University of Southampton
-    year: 2007
+  - course: PhD in Mathematics
+    institution: Queen Mary University of London, UK
+    year: 2017
+  - course: BSc in Physics
+    institution: National Autonomous University of Mexico, Mexico
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +45,13 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: 'https://centra.tecnico.ulisboa.pt/team/?id=4039'
+  link: 'https://centra.tecnico.ulisboa.pt/network/grit/team/?id=4674'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:david.hilditch@tecnico.ulisboa.pt'
+  link: 'mailto:edgar.gasperin@tecnico.ulisboa.pt'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/citations?user=1v1iA3UAAAAJ
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0001-9960-5293
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dmhilditch
+  link: https://scholar.google.de/citations?user=d9Rpew8AAAAJ&hl=en
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "david.hilditch@tecnico.ulisboa.pt"
+email: "edgar.gasperin@tecnico.ulisboa.pt"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -71,7 +68,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Coordinators
+- Collaborative Researchers
 ---
-
-I work on mathematical topics in numerical relativity. In particular my research has focused on the gauge freedom of general relativity and on the development of formulations suitable for numerical approximation.
