@@ -79,7 +79,4 @@ highlight_name: true
 user_groups:
 - Coordinators
 ---
-
-Postdoctoral Research Assistant at the [Southampton Theory Astrophysics and Gravity Research Centre](https://www.southampton.ac.uk/stag), at the [University of Southampton](https://www.southampton.ac.uk) with broad experience in research and teaching.
-
 I am a specialist in applying conformal methods (geometrical tool) with spectral methods (numerical tool) to obtain highly accurate solutions to Einstein’s equations in the context of black-hole dynamics and gravitational waves (astrophysics). 
