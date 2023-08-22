@@ -79,7 +79,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Kings of Infinite Space
+- Collaborative Researchers
 ---
 
 I am a Postdoctoral Researcher at the [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/) (Albert Einstein Institute) in Potsdam, Germany.

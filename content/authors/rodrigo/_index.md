@@ -77,7 +77,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborative Team
+- Coordinators
 ---
 
 Postdoctoral Research Assistant at the [Southampton Theory Astrophysics and Gravity Research Centre](https://www.southampton.ac.uk/stag), at the [University of Southampton](https://www.southampton.ac.uk) with broad experience in research and teaching.
