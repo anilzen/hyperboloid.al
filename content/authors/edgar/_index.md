@@ -70,3 +70,5 @@ highlight_name: true
 user_groups:
 - Collaborative Researchers
 ---
+
+My research focuses on the study of global properties of spacetime using conformal and hyperboloidal methods. In particular, I’m interested in the mathematical and numerical treatment of null infinity and spatial infinity through initial value problems.
