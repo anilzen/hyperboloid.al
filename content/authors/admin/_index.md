@@ -85,7 +85,7 @@ email: "anil@umd.edu"
 highlight_name: true
 
 user_groups:
-- Coordinators
+- Organizers
 ---
 
 Assistant Research Scientist at the [Institute for Physical Science & Technology](https://ipst.umd.edu), [University of Maryland](https://umd.edu) with broad experience in research, administration, and information technologies.

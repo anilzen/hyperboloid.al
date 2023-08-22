@@ -80,6 +80,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Coordinators
+- Organizers
 ---
 I am a specialist in applying conformal methods (geometrical tool) with spectral methods (numerical tool) to obtain highly accurate solutions to Einstein’s equations in the context of black-hole dynamics and gravitational waves (astrophysics). 

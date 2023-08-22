@@ -77,7 +77,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Coordinators
+- Organizers
 ---
 
 My field of research lies at the interface between numerical and mathematical relativity. Related to the hyperboloidal problem, which I approach with comformal compactification methods, I am interested in hyperbolic gauge conditions for 3+1 formulations of General Relativity and the description of black hole geometries using trumpet slices. 

@@ -71,7 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Coordinators
+- Organizers
 ---
 
 I work on mathematical topics in numerical relativity. In particular my research has focused on the gauge freedom of general relativity and on the development of formulations suitable for numerical approximation.
