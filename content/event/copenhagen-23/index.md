@@ -12,7 +12,7 @@ address:
   # postcode: DK-2100
   # country: 'Denmark'
 
-summary: Hyperboloidal compactification and its applications with a focus on Einstein equations.
+summary: First workshop of the hyperboloidal research network
 abstract: 'In recent years, hyperboloidal methods have emerged as effective tools in the field of black-hole perturbation theory, finding wide-ranging applications in various areas, including the computation of long-time wave equations, quasi-normal modes, effective-one-body formalism, and self-force. Over the past decade, significant advancements have been made in computing generic solutions to nonlinear Einstein equations on hyperboloidal surfaces. These developments have propelled the field forward, enabling researchers to gain deeper insights into the behavior of black holes and paving the way for further breakthroughs in our understanding of gravitational phenomena.
 <h3>Goals</h3>
 This workshop aims to bring together leading experts to review and summarize the progress in hyperboloidal methods. Our primary objectives are to evaluate the current state-of-the-art of these methods across diverse applications and to foster the development of new collaborative efforts. Particular emphasis will be placed on open problems, such as solving the nonlinear Einstein equations in scenarios relevant to astrophysics.'
