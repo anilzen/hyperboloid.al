@@ -25,10 +25,10 @@ image:
   caption: Penrose diagram
   focal_point: center
 
-# url_code: ''
-# url_pdf: ''
-# url_slides: ''
-# url_video: ''
+url_code: ''
+url_pdf: ''
+url_slides: '/uploads/seminar-slides/23-10-13-panosso-macedo.pdf'
+url_video: 'https://www.youtube.com/watch?v=l_IU88GX_ok'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
