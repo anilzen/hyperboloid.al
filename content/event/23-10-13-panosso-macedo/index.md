@@ -8,8 +8,8 @@ event_url: https://hyperboloid.al/event/10-13-23-panosso-macedo/
 
 location: Online
 
-date: '2023-10-13T10:00:00Z'
-date_end: '2023-10-13T11:00:00Z'
+date: '2023-10-13T14:00:00Z'
+date_end: '2023-10-13T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
