@@ -56,6 +56,7 @@ projects:
 design: 
 
 ---
+<meta charset="utf-8">
 
 ## Schedule
 
