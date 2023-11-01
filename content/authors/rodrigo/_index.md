@@ -20,29 +20,6 @@ organizations:
 - name: University of Copenhagen
   url: https://www.ku.dk/english/
 
-# Short bio (displayed in user profile at end of posts)
-bio: I work in the intersection between mathematical relativity, numerical relativity and astrophysics. In the good days, I provide a link between the three fields. In the bad days, I don't belong anywhere.
-
-interests:
-- Black Holes
-- Gravitational Waves
-- Hyperboloidal Foliations
-- Spectral Methods
-
-education:
-  courses:
-  - course: PhD in Physics
-    institution: Universidade de São Paulo, Brazil
-    year: 2011
-  - course: PhD Exchange Programm 
-    institution:  Max Planck Institute for Gravitational Physics, Germany 
-    year: 2010
-  - course: Licentiate in Physics
-    institution: Universidade Federal de São Carlos, Brazil
-    year: 2005
-  - course: BSc in Physics
-    institution: Universidade Federal de São Carlos, Brazil
-    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

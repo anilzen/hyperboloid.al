@@ -16,37 +16,6 @@ organizations:
 - name: University of Maryland
   url: https://umd.edu
 
-# Short bio (displayed in user profile at end of posts)
-bio: Researcher and administrator; exploring spacetime infinity and working toward operational efficiency in academia.
-
-# Interests to show in About widget
-interests:
-- Black Holes
-- Wave Equations
-- Conservation Laws
-- Gravitational Waves
-- Hyperboloidal Foliations
-- Adaptive Kalman Regression
-- Digital Transformation
-- Philosophy
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD (Dr. rer. nat.) in General Relativity
-    institution: Max Planck Institute for Gravitational Physics and University of Potsdam, Germany 
-    year: 2007
-  - course: MSc (Mag. rer. nat.) in Theoretical Physics
-    institution: University of Vienna, Austria
-    year: 2003
-  - course: BSc (1st Diploma) in Physics
-    institution: University of Graz, Austria
-    year: 1999
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: globe
   icon_pack: fas
@@ -87,7 +56,3 @@ highlight_name: true
 user_groups:
 - Organizers
 ---
-
-Assistant Research Scientist at the [Institute for Physical Science & Technology](https://ipst.umd.edu), [University of Maryland](https://umd.edu) with broad experience in research, administration, and information technologies.
-
-As a researcher, I work on wave equations, null infinity, gravitational waves, weather forecasting, and conservation laws. As an administrator, I bring researchers together in thematically focused but geographically distributed networks. As a technologist, I drive digital transformation to increase the efficiency of business processes that support research and education. 

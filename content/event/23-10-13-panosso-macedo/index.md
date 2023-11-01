@@ -14,7 +14,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-09-01T00:00:00Z'
 
-authors: []
+authors: [rodrigo]
 tags: [seminar]
 
 # Is this a featured talk? (true/false)
@@ -45,12 +45,3 @@ projects:
 
 design: 
 ---
-<div class="row">
-  <div class="col-md-1"></div>
-  <div class="col-md-10">
-    <div class="row">
-      <div class="col-12 col-md-3 pub-row-heading">Speaker</div>
-      <div class="col-12 col-md-9">Rodrigo Panosso Macedo</div>
-    </div>
-  </div>
-</div>
