@@ -9,7 +9,7 @@ event_url: https://hyperboloid.al/event/23-11-10-bizon/
 location: Online
 
 date: '2023-11-10T14:00:00Z'
-date_end: '2023-11-10T15:00:00Z'
+# date_end: '2023-11-10T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
