@@ -27,8 +27,8 @@ image:
 
 # url_code: 
 # url_pdf: ''
-# url_slides: 
-# url_video: 
+url_slides: /uploads/seminar-slides/23-11-10-bizon.pdf
+url_video: https://www.youtube.com/watch?v=2OvMnHH1jmg
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
