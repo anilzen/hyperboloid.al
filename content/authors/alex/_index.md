@@ -48,7 +48,7 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://centra.tecnico.ulisboa.pt/team/?id=5432
+  link: https://alexvanov.github.io/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:alex.vano.vinuales@tecnico.ulisboa.pt'
