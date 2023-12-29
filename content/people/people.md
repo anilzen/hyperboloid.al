@@ -9,15 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Researchers
 subtitle:
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Organizers
-    - Collaborative Researchers
+    - Researchers
 design:
   show_interests: false
   show_role: false

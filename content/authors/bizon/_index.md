@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Piotr Bizon
-weight: 100
+weight: 5
 
 # Username (this should match the folder name)
 authors:

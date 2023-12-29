@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-09-01T00:00:00Z'
 
-authors: [david, rodrigo, alex, admin]
+authors: [hilditch, panosso-macedo, vano-vinuales, admin]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -303,7 +303,7 @@ The cost is 200 DKK for postdocs/faculty and 150 DKK for PhD students.
 
 ---
 
-## Organizers
+## Researchers
 
 **Scientific Organizing Committee:** David Hilditch, Rodrigo Panosso Macedo, Alex Vañó-Viñuales, and Anıl Zenginoğlu
 

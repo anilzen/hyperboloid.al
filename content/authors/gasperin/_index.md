@@ -71,7 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborative Researchers
+- Researchers
 ---
 
 My research focuses on the study of global properties of spacetime using conformal and hyperboloidal methods. In particular, I’m interested in the mathematical and numerical treatment of null infinity and spatial infinity through initial value problems.

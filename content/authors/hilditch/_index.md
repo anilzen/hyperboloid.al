@@ -1,11 +1,11 @@
 ---
 # Display name
 title: David Hilditch
-weight: 10
+weight: 20
 
 # Username (this should match the folder name)
 authors:
-- david
+- hilditch
 
 # Is this the primary user of the site?
 superuser: false
@@ -71,7 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Organizers
+- Researchers
 ---
 
 I work on mathematical topics in numerical relativity. In particular my research has focused on the gauge freedom of general relativity and on the development of formulations suitable for numerical approximation.

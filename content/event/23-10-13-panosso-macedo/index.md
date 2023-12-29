@@ -14,7 +14,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-09-01T00:00:00Z'
 
-authors: [rodrigo]
+authors: [panosso-macedo]
 tags: [seminar]
 
 # Is this a featured talk? (true/false)

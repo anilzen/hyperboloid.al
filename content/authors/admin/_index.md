@@ -54,5 +54,5 @@ email: "anil@umd.edu"
 highlight_name: true
 
 user_groups:
-- Organizers
+- Researchers
 ---

@@ -18,7 +18,7 @@ image:
   preview_only: true
 
 authors:
-- rodrigo
+- panosso-macedo
 - admin
 
 tags:

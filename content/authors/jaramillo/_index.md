@@ -1,15 +1,12 @@
 ---
 # Display name
-title: Justin Ripley
-first_name: Justin
-last_name: Ripley
-weight: 40
+title: José Luis Jaramillo
+weight: 25
 
 # Username (this should match the folder name)
 authors:
-- ripley
+- jaramillo
 
-role: Postdoc
 highlight_name: true
 
 # Is this the primary user of the site?
@@ -17,7 +14,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: University of Illinois, Urbana-Champaign
+- name: Université de Bourgogne Franche-Comté
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -26,12 +23,15 @@ organizations:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://jlripley314.github.io/
+  link: https://jaramillo.perso.math.cnrs.fr/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ripley@illinois.edu'
+  link: 'mailto:Jose-Luis.Jaramillo@u-bourgogne.fr'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=a7k5tZ8AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=ykQm1I0AAAAJ&hl=en
+
+user_groups:
+- Researchers
 
 ---

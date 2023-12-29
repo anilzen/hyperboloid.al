@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-12-01T00:00:00Z'
 
-authors: [juan]
+authors: [valiente-kroon]
 tags: [seminar]
 
 # Is this a featured talk? (true/false)
