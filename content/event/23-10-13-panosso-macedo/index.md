@@ -15,7 +15,7 @@ all_day: false
 publishDate: '2023-09-01T00:00:00Z'
 
 authors: [panosso-macedo]
-tags: [seminar]
+tags: [virtual infinity seminar]
 
 # Is this a featured talk? (true/false)
 featured: true

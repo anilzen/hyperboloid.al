@@ -16,7 +16,7 @@ all_day: false
 publishDate: '2023-11-01T00:00:00Z'
 
 authors: [bizon]
-tags: [seminar]
+tags: [virtual infinity seminar]
 
 # Is this a featured talk? (true/false)
 featured: true

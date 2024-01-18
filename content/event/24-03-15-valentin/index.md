@@ -16,7 +16,7 @@ all_day: false
 publishDate: '2024-01-01T00:00:00Z'
 
 authors: [boyanov]
-tags: [seminar]
+tags: [virtual infinity seminar]
 
 # Is this a featured talk? (true/false)
 featured: true
