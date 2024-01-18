@@ -1,7 +1,7 @@
 ---
 title: "Pseudospectrum of black hole quasi-normal modes: results and obstacles"
 abstract: In this talk I will show how the formulation of the quasi-normal mode problem in the hyperboloidal framework is used to calculate not only the spectrum of ringdown frequencies, but also the corresponding pseudospectrum. I will give a brief overview of the technical aspects of the calculation, and the information about the field propagation which can be extracted from the result. I will then present and discuss an open issue regarding the numerical convergence of the pseudospectrum, which is closely related to the regularity class of the functional space in which the problem is considered, focusing on a particular example in an asymptotically AdS setting where we have performed an initial analysis.
-summary: March 2024 Seminar by Valentin Savov (CENTRA)
+summary: March 2024 Virtual Infinity Seminar by Valentin Savov (CENTRA)
 
 event: Zoom link
 event_url: https://umd.zoom.us/j/99403590299?pwd=U1lFYTMrTE9OdXpLU3ZyTmxvd0lWUT09
