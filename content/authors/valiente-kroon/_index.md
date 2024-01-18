@@ -17,7 +17,7 @@ role: Researcher
 organizations:
 - name: School of Mathematical Sciences  
   url: https://www.qmul.ac.uk/maths/
-- name: Queen Mary, University of London
+- name: Queen Mary University of London
   url: https://www.qmul.ac.uk/
   
 # Short bio (displayed in user profile at end of posts)

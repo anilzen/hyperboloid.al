@@ -1,7 +1,7 @@
 ---
 title: Studying black hole ringdown with hyperboloidal methods
 abstract: The quasinormal modes of black holes—which are mode-like solutions to the linearized Einstein equations about a black hole background—are thought to describe the relaxation (the "ringdown") of the remnant black hole formed after the merger of black holes. I discuss how hyperboloidally compactified coordinates are a particularly convenient set of coordinates to study black hole quasinormal modes. I describe several numerical experiments that use hyperboloidally compactified coordinates to study how well the ringdown could be described by a sum of quasinormal modes. Finally, I review several open-source codes developed to conduct those experiments. 
-summary: December Seminar by Justin Ripley
+summary: December 2023 Virtual Infinity Seminar by Justin Ripley (University of Illinois, Urbana-Champaign)
 
 event: Zoom link
 event_url: https://umd.zoom.us/j/99403590299?pwd=U1lFYTMrTE9OdXpLU3ZyTmxvd0lWUT09

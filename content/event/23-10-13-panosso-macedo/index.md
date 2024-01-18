@@ -1,7 +1,7 @@
 ---
 title: 'Hyperboloidal approach on black-hole spacetimes: the minimal gauge'
 abstract: I will review the recent work https://arxiv.org/abs/2307.15735, focusing on constructing hyperboloidal foliations in static, spherically symmetric spacetimes within the so-called minimal gauge. The review will take a historical perspective on the intuitive approach suggested by Marcus Ansorg, its relation with previous works in the literature on quasinormal modes, and its generalization for generic spacetimes. Starting from the tortoise coordinate as a standard textbook notion, the minimal gauge strategy provides a simple and direct algorithm for constructing a hyperboloidal foliation on black hole spacetimes.
-summary: October Seminar by Rodrigo Panosso Macedo
+summary: October 2023 Virtual Infinity Seminar by Rodrigo Panosso Macedo (Niels Bohr Institute)
 
 event_url: https://hyperboloid.al/event/23-10-13-panosso-macedo/
 

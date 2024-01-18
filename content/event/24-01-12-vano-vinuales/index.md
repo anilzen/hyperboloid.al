@@ -1,7 +1,7 @@
 ---
 title: Conformal diagrams for strong-field hyperboloidal slices
 abstract: Conformal Carter-Penrose diagrams are a useful tool to understand the causal properties of spacetimes. Here they will be applied to the the visualization of hyperboloidal slices including a black hole. For time-independent slices of the Schwarzschild geometry, the focus will be on the integration of the height function. Slices can be evolved numerically using the eikonal equation, for which I will show diagrams depicting the relaxation of Schwarzschild trumpet slices and the collapse of a massless scalar field into a black hole. Based on the recent [preprint](https://arxiv.org/abs/2311.04972).
-summary: January Seminar by Alex Vañó-Viñuales
+summary: January 2024 Virtual Infinity Seminar by Alex Vañó-Viñuales (CENTRA)
 
 event: Zoom link
 event_url: https://umd.zoom.us/j/99403590299?pwd=U1lFYTMrTE9OdXpLU3ZyTmxvd0lWUT09

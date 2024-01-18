@@ -1,7 +1,7 @@
 ---
 title: Soliton resolution on a wormhole
 abstract: Soliton resolution conjecture asserts that generic global-in-time solutions of nonlinear dispersive equations asymptotically resolve into a sum of decoupled nonlinear bound states (solitons) and free radiation. In my talk I will discuss this conjecture in the case of equivariant wave maps on wormholes, emphasizing the advantages of hyperboloidal foliations.
-summary: November Seminar by Piotr Bizon
+summary: November 2023 Virtual Infinity Seminar by Piotr Bizon (Jagiellonian University)
 
 #event: Workshop
 event_url: https://hyperboloid.al/event/23-11-10-bizon/
