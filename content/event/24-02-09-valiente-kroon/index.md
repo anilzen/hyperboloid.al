@@ -27,7 +27,7 @@ image:
 
 # url_code: 
 # url_pdf: ''
-url_slides: /uploads/seminar-slides/24-02-09-valiente-kroon
+url_slides: /uploads/seminar-slides/24-02-09-valiente-kroon.pdf
 url_video: https://www.youtube.com/watch?v=xl-glMb_kOo
 
 # Markdown Slides (optional).
