@@ -27,8 +27,8 @@ image:
 
 # url_code: 
 # url_pdf: ''
-url_slides: 
-url_video: 
+url_slides: /uploads/seminar-slides/24-03-15-boyanov.pdf
+url_video: https://www.youtube.com/watch?v=UUTfnUt9pIs
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -46,3 +46,5 @@ projects:
 
 design: 
 ---
+
+
