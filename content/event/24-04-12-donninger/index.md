@@ -4,8 +4,8 @@ abstract: I will present some recent results in the study of stability of self-s
 summary: April 2024 Virtual Infinity Seminar by Roland Donninger (University of Vienna)
 date: '2024-04-12T14:00:00Z'
 authors: [donninger]
-url_slides: 
-url_video:
+# url_slides: /uploads/seminar-slides/24-03-15-boyanov.pdf
+url_video: https://www.youtube.com/watch?v=eszcGqFhMjM
 
 # The rest doesn't change for seminars
 event: Zoom link
