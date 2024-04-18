@@ -25,7 +25,7 @@ all_day: true
 publishDate: '2022-09-01T00:00:00Z'
 
 authors: [hilditch, panosso-macedo, vano-vinuales, admin]
-tags: []
+tags: [workshop]
 
 # Is this a featured talk? (true/false)
 featured: false
