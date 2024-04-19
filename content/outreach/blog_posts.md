@@ -12,8 +12,8 @@ design:
   columns: '2'
 ---
 
-- [How to solve wave equations on unbounded domains](https://anilzen.github.io/post/2023/waves-on-unbounded-domains/), 14 December, 2023.
-- [Excising the universe over the rainbow](https://anilzen.github.io/post/2023/misner-hyperboloidal/), 27 November, 2023 
+- [How to solve wave equations on unbounded domains](https://anilzen.github.io/post/2023/waves-on-unbounded-domains/), 14 December 2023.
+- [Excising the universe over the rainbow](https://anilzen.github.io/post/2023/misner-hyperboloidal/), 27 November 2023 
 - [Splitting Spacetime](https://anilzen.github.io/post/2023/splitting-spacetime/), 20 September 2023.
 - [Minimal Gauge](https://hyperboloid.al/post/minimal-gauge/), 29 September 2022.
 - [How to draw Penrose diagrams](https://anilzen.github.io/post/2022/drawing-penrose-diagrams/), 1 September 2022.
