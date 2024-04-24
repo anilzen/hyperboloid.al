@@ -1,6 +1,6 @@
 ---
-title: "Spacelike regularization of null horizons and hyperboloidal compactification"
-abstract: 
+title: "Spacelike regularization of null horizons"
+abstract: I will talk about this and that.
 summary: May 2024 Virtual Infinity Seminar by Anıl Zenginoğlu (University of Maryland)
 date: '2024-05-10T14:00:00Z'
 authors: [admin]
@@ -19,5 +19,3 @@ image:
   caption:
   focal_point: center
 ---
-
-
