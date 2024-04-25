@@ -25,8 +25,8 @@ tags: [workshop]
 featured: false
 
 image:  
-  caption: 'Image by Anıl Zenginoğlu'
-  focal_point: center
+#   caption: 'Image by Anıl Zenginoğlu'
+#   focal_point: left
 
 url_code: ''
 url_pdf: ''
