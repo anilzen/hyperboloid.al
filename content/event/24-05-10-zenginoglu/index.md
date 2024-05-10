@@ -5,8 +5,8 @@ abstract: The core message of the talk is that a globally regular definition of 
 summary: May 2024 Virtual Infinity Seminar by Anıl Zenginoğlu (University of Maryland)
 date: '2024-05-10T14:00:00Z'
 authors: [admin]
-# url_slides: /uploads/seminar-slides/24-04-12-donninger.pdf
-# url_video: https://www.youtube.com/watch?v=eszcGqFhMjM
+url_slides: /uploads/seminar-slides/24-05-10-zenginoglu.pdf
+url_video: https://www.youtube.com/watch?v=nRDHQm1ATBc
 
 # The rest doesn't change for seminars
 event: Zoom link
