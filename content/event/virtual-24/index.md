@@ -51,16 +51,94 @@ design:
 
 ---
 
+## Schedule
+
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    .break {
+      background-color: #e6f7ff;
+    }
+  </style>
+
+  <table>
+    <tr>
+      <th>Time</th>
+      <th>Mon, 1 Jul</th>
+      <th>Tue, 2 Jul</th>
+    </tr>
+    <tr>
+      <td>8:55—9:00</td>
+      <td class="break">Rodrigo Panosso Macedo</td>
+      <td class="break">David Hilditch</td>
+    </tr>
+    <tr>
+      <td>9:00—9:20</td>
+      <td><a href=/virtual-24-talks#carla-cederbaum>Carla Cederbaum</a></td>
+      <td><a href=/virtual-24-talks#marina-de-amicis>Marina De Amicis</a></td>
+    </tr>
+    <tr>
+      <td>9:20—9:40</td>
+      <td><a href="/virtual-24-talks#anna-sancassani">Anna Sancassani</a></td>
+      <td><a href=/virtual-24-talks#partick-bourg>Patrick Bourg</a></td>
+    </tr>
+    <tr>
+      <td>9:40—10:00</td>
+      <td><a href="/virtual-24-talks#philippe-g-lefloch">Philippe G. LeFloch</a></td>
+      <td><a href=/virtual-24-talks#pedro-baptista>Pedro Baptista</a></td>
+    </tr>
+    <tr>
+      <td>10:00—10:20</td>
+      <td><a href=/virtual-24-talks#michele-lenzi>Michele Lenzi</a></td>
+      <td><a href=/virtual-24-talks#manas-vishal>Manas Vishal</a></td>
+    </tr>
+    <tr>
+      <td>10:20—10:40</td>
+      <td class="break" colspan="4">Coffee and Tea</td>
+    </tr>
+    <tr>
+      <td>10:40—11:00</td>
+      <td><a href=/virtual-24-talks#benjamin-leather>Benjamin Leather</a></td>
+      <td><a href=/virtual-24-talks#alex-vano-vinuales>Alex Vañó Viñuales</a></td>
+    </tr>
+    <tr>
+      <td>11:00—11:20</td>
+      <td><a href=/virtual-24-talks#brad-cownden>Brad Cownden</a></td>
+      <td><a href=/virtual-24-talks#joao-dinis-alvares>João Dinis Álvares</a></td>
+    </tr>
+    <tr>
+      <td>11:20—11:40</td>
+      <td><a href=/virtual-24-talks#subhodeep-sarkar>Subhodeep Sarkar</a></td>
+      <td><a href=/virtual-24-talks#christian-peterson-borquez>Christian Peterson Bórquez</a></td>
+    </tr>
+    <tr>
+      <td>11:40—12:00</td>
+      <td><a href=/virtual-24-talks#network-meeting>Network Meeting</a></td>
+      <td><a href=/virtual-24-talks#shalabh-gautam>Shalabh Gautam</a></td>
+    </tr>
+  </table>
+
 ### Funding
 
 <section class="logo-list">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-sm-12">
-                <img src="/uploads/Copenhagen-23-Logos/nsf_logo.jpg" style="width:auto;height:100px;" alt="UMD Logo">
+                <img src="/uploads/Copenhagen-23-Logos/nsf_logo.jpg" style="width:auto;height:100px;" alt="NSF Logo">
             </div>
         </div>
     </div>
 </section>
-
----
