@@ -73,8 +73,18 @@ Gravitational wave radiation is only unambiguously defined at future null infini
 ### Shalabh Gautam
 *ICTS*
 
-#### TBA
-TBA
+#### Spherical Constraint Equations on Hyperboloidal Slices in Generalized Harmonic Gauge Formulation
+Being a free evolution scheme, the only way to assure that constraints associated
+with the Einstein Field Equations in generalized harmonic gauge (GHG) are satisfied
+for all times is that the former are satisfied in the initial data (ID) up to their
+first-time derivative. This boils down to solving the system of Hamiltonian,
+momentum and GHG constraint equations in the ID. However, spherical polar
+coordinates and compactification make the equations singular at the origin and
+future null infinity. Nonlinearities introduce further complications. In this talk,
+I propose a method to regularize these equations and a choice of variables that make
+these equations linear in spherical symmetry and give the choice of variables a
+physical interpretation. Promising numerical results are obtained, offering a hope
+to extend this method in full 3d.
 
 ---
 
