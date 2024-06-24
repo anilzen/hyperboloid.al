@@ -192,12 +192,22 @@ and Cauchy-characteristic methods.&lt;/p>
 &lt;hr>
 &lt;h3 id="shalabh-gautam">Shalabh Gautam&lt;/h3>
 &lt;p>&lt;em>ICTS&lt;/em>&lt;/p>
-&lt;h4 id="tba">TBA&lt;/h4>
-&lt;p>TBA&lt;/p>
+&lt;h4 id="spherical-constraint-equations-on-hyperboloidal-slices-in-generalized-harmonic-gauge-formulation">Spherical Constraint Equations on Hyperboloidal Slices in Generalized Harmonic Gauge Formulation&lt;/h4>
+&lt;p>Being a free evolution scheme, the only way to assure that constraints associated
+with the Einstein Field Equations in generalized harmonic gauge (GHG) are satisfied
+for all times is that the former are satisfied in the initial data (ID) up to their
+first-time derivative. This boils down to solving the system of Hamiltonian,
+momentum and GHG constraint equations in the ID. However, spherical polar
+coordinates and compactification make the equations singular at the origin and
+future null infinity. Nonlinearities introduce further complications. In this talk,
+I propose a method to regularize these equations and a choice of variables that make
+these equations linear in spherical symmetry and give the choice of variables a
+physical interpretation. Promising numerical results are obtained, offering a hope
+to extend this method in full 3d.&lt;/p>
 &lt;hr>
 &lt;h3 id="benjamin-leather">Benjamin Leather&lt;/h3>
 &lt;p>&lt;em>Max Planck Institute for Gravitational Physics&lt;/em>&lt;/p>
-&lt;h4 id="tba-1">TBA&lt;/h4>
+&lt;h4 id="tba">TBA&lt;/h4>
 &lt;p>TBA&lt;/p>
 &lt;hr>
 &lt;h3 id="philippe-g-lefloch">Philippe G. LeFloch&lt;/h3>
