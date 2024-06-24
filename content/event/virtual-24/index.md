@@ -53,7 +53,7 @@ design:
 
 ## Schedule
 
-All times listed for the conference sessions and events are in [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time). Here is an online tool to convert UTC to your local time zone: [Dateful](https://dateful.com/convert/utc).
+All times listed for the talks are in [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time). Here is an online tool to convert UTC to your local time zone: [Dateful](https://dateful.com/convert/utc).
 
   <style>
     table {
