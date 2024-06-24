@@ -66,7 +66,7 @@ I will prove the tail to be a superposition of many power-laws, with each term's
 *Instituto Superior Técnico Lisbon*
 
 #### Electrically charged numerical simulations on hyperboloidal slices
-TBA
+Gravitational wave radiation is only unambiguously defined at future null infinity: the location in spacetime where light rays arrive and where global properties of spacetimes can be measured. Within the context of numerical relativity we set up simulations reaching future null infinity by using hyperboloidal slices, as opposed to traditional Cauchy slices that reach spacelike infinity. Extending previous work in spherical symmetry, the Einstein-Maxwell-Klein-Gordon system is evolved on hyperboloidal slices, allowing to model gravity coupled to electromagnetism and a complex massless scalar field. This allows us to simulate the evolution of a charged scalar field and/or a Reissner-Nördstrom (electrically charged) black hole, where this last scenario serves as a useful toy model for a rotating (Kerr) black hole. We will report on current progress on these charged evolutions, where we retrieve their emitted signals at future null infinity as they would be seen by detectors on Earth. 
 
 ---
 
@@ -145,3 +145,6 @@ A practical goal of non-linear hyperboloidal evolutions in numerical relativity 
 Laser Interferometer Space Antenna (LISA), a future space-borne gravitational wave detector, is primarily sensitive to Extreme Mass Ratio Inspirals (EMRIs), which are black hole mergers with a mass ratio greater than 100,000. We require an extremely precise template wave bank for the matched filtering procedure. In this talk, I will discuss about a Discontinuous Galerkin (DG) technique for gravitational wave simulations of EMRI systems. The Teukolsky equation, which governs the behavior of EMRIs, is first reduced to a set of coupled 1+1D wave equations with a delta source term that functions as the secondary black hole in an EMRI system. Our DG approach, in contrast to previous numerical schemes, can precisely incorporate the smaller black hole's point particle behavior in the form of a delta function. Compared to previous methods, our efficient method produces very accurate waveform due to the scheme's spectral (super)convergence property and exact treatment of the Dirac delta function that models the smaller black hole. Our time domain solver now includes hyperboloidal layers, which allow us to retrieve the solution at null infinity. We verify our computation by calculating Kerr and Schwarzschild energy fluxes from circular orbits at null infinity and Price tail power laws.
 
 ---
+### Network Meeting
+
+TBA
