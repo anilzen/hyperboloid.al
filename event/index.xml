@@ -1,14 +1,87 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events | Hyperboloidal</title><link>https://hyperboloid.al/event/</link><atom:link href="https://hyperboloid.al/event/index.xml" rel="self" type="application/rss+xml"/><description>Events</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 09:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/media/logo_huf69f2836c22b29aa35185875c8fa4dc2_118860_300x300_fit_lanczos_3.png</url><title>Events</title><link>https://hyperboloid.al/event/</link></image><item><title>Virtual Infinity Workshop 2024</title><link>https://hyperboloid.al/event/virtual-24/</link><pubDate>Mon, 01 Jul 2024 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/virtual-24/</guid><description>&lt;h3 id="funding">Funding&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events | Hyperboloidal</title><link>https://hyperboloid.al/event/</link><atom:link href="https://hyperboloid.al/event/index.xml" rel="self" type="application/rss+xml"/><description>Events</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 09:00:00 +0000</lastBuildDate><image><url>https://hyperboloid.al/media/logo_huf69f2836c22b29aa35185875c8fa4dc2_118860_300x300_fit_lanczos_3.png</url><title>Events</title><link>https://hyperboloid.al/event/</link></image><item><title>Virtual Infinity Workshop 2024</title><link>https://hyperboloid.al/event/virtual-24/</link><pubDate>Mon, 01 Jul 2024 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/virtual-24/</guid><description>&lt;h2 id="schedule">Schedule&lt;/h2>
+&lt;style>
+table {
+width: 100%;
+border-collapse: collapse;
+}
+th, td {
+border: 1px solid black;
+padding: 8px;
+text-align: left;
+}
+th {
+background-color: #f2f2f2;
+}
+.break {
+background-color: #e6f7ff;
+}
+&lt;/style>
+&lt;table>
+&lt;tr>
+&lt;th>Time&lt;/th>
+&lt;th>Mon, 1 Jul&lt;/th>
+&lt;th>Tue, 2 Jul&lt;/th>
+&lt;/tr>
+&lt;tr>
+&lt;td>8:55—9:00&lt;/td>
+&lt;td class="break">Rodrigo Panosso Macedo&lt;/td>
+&lt;td class="break">David Hilditch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9:00—9:20&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#carla-cederbaum>Carla Cederbaum&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#marina-de-amicis>Marina De Amicis&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9:20—9:40&lt;/td>
+&lt;td>&lt;a href="https://hyperboloid.al/virtual-24-talks#anna-sancassani">Anna Sancassani&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#partick-bourg>Patrick Bourg&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9:40—10:00&lt;/td>
+&lt;td>&lt;a href="https://hyperboloid.al/virtual-24-talks#philippe-g-lefloch">Philippe G. LeFloch&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#pedro-baptista>Pedro Baptista&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:00—10:20&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#michele-lenzi>Michele Lenzi&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#manas-vishal>Manas Vishal&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:20—10:40&lt;/td>
+&lt;td class="break" colspan="4">Coffee and Tea&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:40—11:00&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#benjamin-leather>Benjamin Leather&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#alex-vano-vinuales>Alex Vañó Viñuales&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:00—11:20&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#brad-cownden>Brad Cownden&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#joao-dinis-alvares>João Dinis Álvares&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:20—11:40&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#subhodeep-sarkar>Subhodeep Sarkar&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#christian-peterson-borquez>Christian Peterson Bórquez&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:40—12:00&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#network-meeting>Network Meeting&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#shalabh-gautam>Shalabh Gautam&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;h3 id="funding">Funding&lt;/h3>
 &lt;section class="logo-list">
 &lt;div class="container">
 &lt;div class="row">
 &lt;div class="col-lg-4 col-sm-12">
-&lt;img src="https://hyperboloid.al/uploads/Copenhagen-23-Logos/nsf_logo.jpg" style="width:auto;height:100px;" alt="UMD Logo">
+&lt;img src="https://hyperboloid.al/uploads/Copenhagen-23-Logos/nsf_logo.jpg" style="width:auto;height:100px;" alt="NSF Logo">
 &lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;/section>
-&lt;hr></description></item><item><title>Time across null horizons</title><link>https://hyperboloid.al/event/24-05-10-zenginoglu/</link><pubDate>Fri, 10 May 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-05-10-zenginoglu/</guid><description/></item><item><title>Hyperboloidal coordinates and blowup for wave equations</title><link>https://hyperboloid.al/event/24-04-12-donninger/</link><pubDate>Fri, 12 Apr 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-04-12-donninger/</guid><description/></item><item><title>Pseudospectrum of black hole quasi-normal modes: results and obstacles</title><link>https://hyperboloid.al/event/24-03-15-valentin/</link><pubDate>Fri, 15 Mar 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-03-15-valentin/</guid><description/></item><item><title>Asymptotics in General Relativity: the role of spatial infinity</title><link>https://hyperboloid.al/event/24-02-09-valiente-kroon/</link><pubDate>Fri, 09 Feb 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-02-09-valiente-kroon/</guid><description/></item><item><title>Conformal diagrams for strong-field hyperboloidal slices</title><link>https://hyperboloid.al/event/24-01-12-vano-vinuales/</link><pubDate>Fri, 12 Jan 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-01-12-vano-vinuales/</guid><description/></item><item><title>Studying black hole ringdown with hyperboloidal methods</title><link>https://hyperboloid.al/event/23-12-15-ripley/</link><pubDate>Fri, 15 Dec 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-12-15-ripley/</guid><description/></item><item><title>Soliton resolution on a wormhole</title><link>https://hyperboloid.al/event/23-11-10-bizon/</link><pubDate>Fri, 10 Nov 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-11-10-bizon/</guid><description/></item><item><title>Hyperboloidal approach on black-hole spacetimes: the minimal gauge</title><link>https://hyperboloid.al/event/23-10-13-panosso-macedo/</link><pubDate>Fri, 13 Oct 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-10-13-panosso-macedo/</guid><description/></item><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;meta charset="utf-8">
+&lt;/section></description></item><item><title>Time across null horizons</title><link>https://hyperboloid.al/event/24-05-10-zenginoglu/</link><pubDate>Fri, 10 May 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-05-10-zenginoglu/</guid><description/></item><item><title>Hyperboloidal coordinates and blowup for wave equations</title><link>https://hyperboloid.al/event/24-04-12-donninger/</link><pubDate>Fri, 12 Apr 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-04-12-donninger/</guid><description/></item><item><title>Pseudospectrum of black hole quasi-normal modes: results and obstacles</title><link>https://hyperboloid.al/event/24-03-15-valentin/</link><pubDate>Fri, 15 Mar 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-03-15-valentin/</guid><description/></item><item><title>Asymptotics in General Relativity: the role of spatial infinity</title><link>https://hyperboloid.al/event/24-02-09-valiente-kroon/</link><pubDate>Fri, 09 Feb 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-02-09-valiente-kroon/</guid><description/></item><item><title>Conformal diagrams for strong-field hyperboloidal slices</title><link>https://hyperboloid.al/event/24-01-12-vano-vinuales/</link><pubDate>Fri, 12 Jan 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-01-12-vano-vinuales/</guid><description/></item><item><title>Studying black hole ringdown with hyperboloidal methods</title><link>https://hyperboloid.al/event/23-12-15-ripley/</link><pubDate>Fri, 15 Dec 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-12-15-ripley/</guid><description/></item><item><title>Soliton resolution on a wormhole</title><link>https://hyperboloid.al/event/23-11-10-bizon/</link><pubDate>Fri, 10 Nov 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-11-10-bizon/</guid><description/></item><item><title>Hyperboloidal approach on black-hole spacetimes: the minimal gauge</title><link>https://hyperboloid.al/event/23-10-13-panosso-macedo/</link><pubDate>Fri, 13 Oct 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-10-13-panosso-macedo/</guid><description/></item><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;meta charset="utf-8">
 &lt;h2 id="schedule">Schedule&lt;/h2>
 &lt;style>
 table {

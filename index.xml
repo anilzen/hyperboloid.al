@@ -155,17 +155,171 @@ and Cauchy-characteristic methods.&lt;/p>
 &lt;p>&lt;em>University College Dublin&lt;/em>&lt;/p>
 &lt;h4 id="metric-perturbations-of-kerr-spacetime-in-lorenz-gauge">Metric perturbations of Kerr spacetime in Lorenz gauge&lt;/h4>
 &lt;p>Perturbations of Kerr spacetime are typically studied with the Teukolsky formalism, in which a pair of gauge invariant components of the perturbed Weyl tensor are expressed in terms of separable modes that satisfy ordinary differential equations. However, for certain applications it is desirable to construct the full metric perturbation in the Lorenz gauge, in which the linearized Einstein field equations take a manifestly hyperbolic form. Directly solving the Lorenz gauge equations in Kerr spacetime is challenging for two reasons: (i) unlike the Teukolsky equation, the Lorenz gauge equations are not known to admit separable solutions; (ii) the equations for the ten components of the metric perturbation are coupled. In this talk, I will present a formalism in which the Lorenz gauge metric perturbation is obtained from a set of six decoupled and separable solutions to the spin-2, spin-1 and spin-0 Teukolsky equations. The formalism is ideally suited to hyperboloidal methods, which have been shown to provide a highly-efficient approach to solving Teukolsky equations. As a demonstration of the approach, I will give results for the Lorenz-gauge gravitational self-force problem in Kerr spacetime. This talk is based on work with Sam Dolan, Chris Kavanagh and Leanne Durkan.&lt;/p>
-&lt;hr></description></item><item><title>Virtual Infinity Workshop 2024</title><link>https://hyperboloid.al/event/virtual-24/</link><pubDate>Mon, 01 Jul 2024 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/virtual-24/</guid><description>&lt;h3 id="funding">Funding&lt;/h3>
+&lt;hr></description></item><item><title>Titles and Abstracts for Virtual Infinity Workshop 2024</title><link>https://hyperboloid.al/virtual-24-talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hyperboloid.al/virtual-24-talks/</guid><description>&lt;p>Titles and abstracts complementing the &lt;a href="https://hyperboloid.al/event/virtual-24#schedule">schedule&lt;/a> of the &lt;a href="https://hyperboloid.al/event/virtual-24/">Virtual Infinity Workshop 2024&lt;/a> workshop that takes place online, July 1—2, 2024.&lt;/p>
+&lt;hr>
+&lt;h3 id="pedro-baptista">Pedro Baptista&lt;/h3>
+&lt;p>&lt;em>Instituto Superior Técnico Lisbon&lt;/em>&lt;/p>
+&lt;h4 id="particle-creation-with-numerical-hyperboloidal-evolution">Particle creation with numerical hyperboloidal evolution&lt;/h4>
+&lt;p>In quantum field theory particle pairs can be spontaneously excited out of the quantum vacuum by a dynamical spacetime or background. Well-known examples include Hawking radiation by collapsing stars, or particle creation by accelerated mirrors. Although this topic is well-understood from a theoretical viewpoint, only few explicit examples can be calculated in full closed form using analytical methods. In this work we explore this phenomenon using numerical techniques instead, and simulate the scattering of a massless scalar field from past null infinity to future null infinity with a set of effective potentials. As radiation (revealing the creation of particles) is only unambiguously defined at null infinity, this evolution naturally resorts to ingoing and outgoing hyperboloidal slices – spacelike slices that reach past and future null infinity, respectively. By comparing the field’s spectra there, we aim to ascertain the appearance of new frequency modes, which indicates the creation of particles. These numerical experiments are executed in spherical symmetry on a Minkowski spacetime background with a stationary, radially-dependent potential, as well as with a time-dependent potential that serves as a toy model and mimics the dynamics of the non-stationary regime of gravitational collapse. This presentation will report on the progress achieved so far.&lt;/p>
+&lt;hr>
+&lt;h3 id="patrick-bourg">Patrick Bourg&lt;/h3>
+&lt;p>&lt;em>Radboud University&lt;/em>&lt;/p>
+&lt;h4 id="quadratic-quasi-normal-mode-dependence-on-linear-mode-parity">Quadratic quasi-normal mode dependence on linear mode parity&lt;/h4>
+&lt;p>Quasi-normal modes (QNMs) uniquely describe the gravitational-wave ringdown of post-merger black holes. While the linear QNM regime has been extensively studied, recent work has highlighted the importance of second-perturbative-order, quadratic QNMs (QQNMs) arising from the nonlinear coupling of linear QNMs. Previous attempts to quantify the magnitude of these QQNMs have shown discrepant results. Using a new hyperboloidal framework, we show how the discrepancy can be resolved by showing that the QQNM/QNM ratio is a function not only of the black hole parameters, but also of the ratio between even- and odd-parity linear QNMs. In other words, the ratio QQNM/QNM depends on what created the ringing black hole, but the ratio of even to odd parity is the only dependence on the black hole pregenitor.&lt;/p>
+&lt;hr>
+&lt;h3 id="carla-cederbaum">Carla Cederbaum&lt;/h3>
+&lt;p>&lt;em>University of Tübingen&lt;/em>&lt;/p>
+&lt;h4 id="geometric-asymptotic-foliations-in-initial-data-sets">Geometric asymptotic foliations in initial data sets&lt;/h4>
+&lt;p>Using asymptotic foliations as a tool to gain insights into the asymptotic behavior of initial data sets and in particular their charges has a long history in GR. The most well-known such foliations arise as coordinate spheres in suitable asymptotic coordinate charts. From a geometric and from a physical perspective, it is preferable to use asymptotic foliations of initial data sets which are themselves determined geometrically, e.g. as coordinate spheres in geometrically defined coordinate charts such as (spatially) harmonic coordinates or directly determined by a geometric condition such as Huisken—Yau’s constant mean curvature (CMC) foliations and the spacetime constant mean curvature (STCMC) foliation introduced by Sakovich and the speaker. The STCMC foliation is closely related to the center of mass charge of asymptotically Euclidean initial data sets.&lt;/p>
+&lt;p>In this talk, we will briefly present the state of the art of the STCMC foliation in asymptotically Euclidean initial data sets, in particular its relation to the center of mass, and then sketch open questions about the existence, uniqueness, and relevance of STCMC foliations in asymptotically hyperboloidal initial data sets.&lt;/p>
+&lt;hr>
+&lt;h3 id="brad-cownden">Brad Cownden&lt;/h3>
+&lt;p>&lt;em>University College Dublin&lt;/em>&lt;/p>
+&lt;h4 id="the-pseudospectrum-of-black-holes-in-ads">The Pseudospectrum of Black Holes in AdS&lt;/h4>
+&lt;p>In this talk, based on the work in JHEP 05 (2024) 202, we explore the stability of the spectrum of black hole quasinormal modes (QNMs) in the context of planar Reissner-Nordström black holes in 5-dimensional Anti-de Sitter (AdS) spacetime. Our analysis encompasses the entire spectrum of gravitoelectric perturbations, employing ingoing Eddington-Finkelstein coordinates to derive a generalized eigenvalue system for these QNMs. While this approach produces a numerically convergent pseudospectrum, there are lingering issues regarding the invariance of the pseudospectrum under an overall rescaling of the eigenvalue problem. We will discuss how this issue poses challenges for the robustness of spectral stability analysis in physically relevant systems and how the requirement of invariance of the eigenvalue problem can limit the definition of the pseudospectrum.&lt;/p>
+&lt;hr>
+&lt;h3 id="marina-de-amicis">Marina De Amicis&lt;/h3>
+&lt;p>&lt;em>Niels Bohr Institute&lt;/em>&lt;/p>
+&lt;h4 id="inspiral-inherited-ringdown-tails">Inspiral-inherited ringdown tails&lt;/h4>
+&lt;p>Recently, studies on numerical evolutions of eccentric binary inspirals found a several orders of magnitude enhancement of the post-ringdown tail amplitude. This characteristic might render the tail a phenomenon of observational interest, opening the way to experimental verification of this general relativistic prediction in the near future.&lt;/p>
+&lt;p>Considering a source term describing an infalling test-particle in generic non-circular orbits, driven by post-Newtonian radiation reaction, I derive an integral expression over the system&amp;rsquo;s entire history, showing how the post-ringdown tail is inherited from the non-circular inspiral in a non-local fashion. Beyond its excellent agreement with numerical evolutions, the model explains the tail amplification with the progenitors&amp;rsquo; binary eccentricity.&lt;/p>
+&lt;p>I will prove the tail to be a superposition of many power-laws, with each term&amp;rsquo;s excitation coefficient depending on the specific inspiral history. A single power law is recovered only in the limit of asymptotically late times, consistent with Price&amp;rsquo;s results and the classical soft-graviton theorem. I will conclude by discussing future directions, including the non-linear extension to comparable masses.&lt;/p>
+&lt;hr>
+&lt;h3 id="joão-dinis-álvares">João Dinis Álvares&lt;/h3>
+&lt;p>&lt;em>Instituto Superior Técnico Lisbon&lt;/em>&lt;/p>
+&lt;h4 id="electrically-charged-numerical-simulations-on-hyperboloidal-slices">Electrically charged numerical simulations on hyperboloidal slices&lt;/h4>
+&lt;p>TBA&lt;/p>
+&lt;hr>
+&lt;h3 id="shalabh-gautam">Shalabh Gautam&lt;/h3>
+&lt;p>&lt;em>ICTS&lt;/em>&lt;/p>
+&lt;h4 id="tba">TBA&lt;/h4>
+&lt;p>TBA&lt;/p>
+&lt;hr>
+&lt;h3 id="benjamin-leather">Benjamin Leather&lt;/h3>
+&lt;p>&lt;em>Max Planck Institute for Gravitational Physics&lt;/em>&lt;/p>
+&lt;h4 id="tba-1">TBA&lt;/h4>
+&lt;p>TBA&lt;/p>
+&lt;hr>
+&lt;h3 id="philippe-g-lefloch">Philippe G. LeFloch&lt;/h3>
+&lt;p>&lt;em>Sorbonne University&lt;/em>&lt;/p>
+&lt;h4 id="optimal-shielding-for-einstein-gravity">Optimal shielding for Einstein gravity&lt;/h4>
+&lt;p>I will review recent advances about the construction of asymptotically Euclidean initial data sets for Einstein’s field equations. In collaboration with Bruno Le Floch (Sorbonne), I proved that solutions to the Einstein constraints can be glued together along conical domains. The solutions may have arbitrarily low decay at infinity, while enjoying (super-)harmonic estimates within possibly narrow (and nested) cones at infinity. Our results generalize earlier work by Alessandro Carlotto and Rick Schoen (sub-harmonic localization) and P. LeFloch and Nguyen (super-harmonic asymptotic localization). This presentation will be based on &lt;a href="https://arxiv.org/abs/2312.17706" target="_blank" rel="noopener">https://arxiv.org/abs/2312.17706&lt;/a> and &lt;a href="https://arxiv.org/abs/2402.17598" target="_blank" rel="noopener">https://arxiv.org/abs/2402.17598&lt;/a> Blog: philippelefloch.org&lt;/p>
+&lt;hr>
+&lt;h3 id="michele-lenzi">Michele Lenzi&lt;/h3>
+&lt;p>&lt;em>Institute of Space Sciences (ICE-CSIC)&lt;/em>&lt;/p>
+&lt;h4 id="integrable-hidden-structures-in-black-hole-perturbation-theory">Integrable (hidden) structures in black hole perturbation theory&lt;/h4>
+&lt;p>Perturbation theory of vacuum spherically symmetric spacetimes is a crucial tool for understanding the dynamics of black hole (BH) perturbations as well as BH scattering phenomena and the ringdown signal of binary BHs. Since the pioneering work of Regge and Wheeler it is known that the equations for the perturbations can be decoupled in terms of (gauge-invariant) master functions that satisfy 1 + 1 wave equations. However, the full landscape of master equations was recently found, clarifying that Einstein equations actually allows for an infinite set of them. These findings paved the way to the introduction of some new hidden symmetries governing the dynamics of perturbed non-rotating BHs: Darboux covariance and the infinite hierarchy of Korteweg-de Vries (KdV) deformations of the master equation. This generates a novel connection with integrable systems that relates the physical description of the perturbed BH, such as the greybody factors, to the KdV conserved quantities. The hyperboloidal approach gives a different point of view on these symmetries, promoting them to “bulk symmetries”. We explore this interplay between BH perturbation theory, integrable structures and hyperboloidal approach.&lt;/p>
+&lt;hr>
+&lt;h3 id="christian-peterson-bórquez">Christian Peterson Bórquez&lt;/h3>
+&lt;p>&lt;em>CENTRA, Instituto Superior Técnico&lt;/em>&lt;/p>
+&lt;h4 id="hyperboloidal-evolution-in-spherical-symmetry-using-the-generalized-harmonic-formulation">Hyperboloidal evolution in spherical symmetry using the generalized harmonic formulation&lt;/h4>
+&lt;p>In this talk I will discuss the use of the dual-foliation formalism to numerically evolve Einstein equations in the generalized harmonic formulation minimally coupled to a massless scalar field, restricted to spherical symmetry. I will show results for different types of initial data, with or without a black hole, all of which converge at the expected rate with increasing resolution. I will end by mentioning some undergoing ideas on how to deal with formally singular terms appearing when one wants to get O(1) variables all the way to future null infinity.&lt;/p>
+&lt;hr>
+&lt;h3 id="anna-sancassani">Anna Sancassani&lt;/h3>
+&lt;p>&lt;em>University of Tübingen&lt;/em>&lt;/p>
+&lt;h4 id="asymptotically-corresponding-initial-data-sets-and-associated-geometric-invariants">Asymptotically corresponding initial data sets and associated geometric invariants&lt;/h4>
+&lt;p>Motivated by the work of Marcus Khuri and Ye Sle Cha [1], we study the correspondence between geometric invariants of asymptotically AdS- hyperbolic and asymptotically hyperboloidal initial data sets. This is obtained from a detailed investigation of a correspondence first high- lighted by Piotr Chruściel and Paul Tod [2], which expresses the relationship between CMC initial data sets for the Einstein Equation under varying cosmological constants. This work is part of my ongoing PhD project and allows us to generalize the results cited above.&lt;/p>
+&lt;p>[1] Cha, Y.S., Khuri, M. Transformations of asymptotically AdS hyperbolic initial data and associated geometric inequalities. Gen Relativ Gravit 50, 3 (2018).&lt;/p>
+&lt;p>[2] Chruściel, Piotr T., and Paul Tod. ”An angular momentum bound at null infinity.” Advances in Theoretical and Mathematical Physics 13.5 (2009): 1317-1334.&lt;/p>
+&lt;hr>
+&lt;h3 id="subhodeep-sarkar">Subhodeep Sarkar&lt;/h3>
+&lt;p>&lt;em>Indian Institute of Technology Madras&lt;/em>&lt;/p>
+&lt;h4 id="the-pseudospectrum-of-asymptotically-de-sitter-black-holes">The pseudospectrum of asymptotically de Sitter black holes&lt;/h4>
+&lt;p>We will discuss the stability of the quasinormal mode spectrum of asymptotically de Sitter black holes. To capture the notion of spectral instability, we shall introduce and explain the idea behind the pseudospectrum of non-self-adjoint operators. Our findings will be based on a study of the spectrum and the pseudospectrum of asymptotically de Sitter black holes carried out numerically using spectral methods in a hyperboloidal foliation. Our analysis demonstrates how small deformations or perturbations to the scattering potential may cause the quasinormal modes to deviate from their unperturbed values. We shall compare our results with those obtained for asymptotically flat and anti-de Sitter black holes. We shall also briefly highlight recent results and open questions regarding the pseudospectrum of black holes.&lt;/p>
+&lt;hr>
+&lt;h3 id="alex-vañó-viñuales">Alex Vañó Viñuales&lt;/h3>
+&lt;p>&lt;em>Instituto Superior Técnico Lisbon&lt;/em>&lt;/p>
+&lt;h4 id="towards-relating-cauchy-and-hyperboloidal-initial-data">Towards relating Cauchy and hyperboloidal initial data&lt;/h4>
+&lt;p>A practical goal of non-linear hyperboloidal evolutions in numerical relativity is to extract (gravitational wave) signals at future null infinity. Assessment of the results will include comparisons with state-of-the-art methods to obtain signals there, currently Cauchy-characteristic evolution. The natural requirement is that the physical system under consideration be the same in both approaches. However, there is no direct way to relate initial data on a hyperboloidal slice to that on a Cauchy one, or vice versa, other than (numerical) evolution including future null infinity. I will illustrate the problem and sketch possible ways to overcome it.&lt;/p>
+&lt;hr>
+&lt;h3 id="manas-vishal">Manas Vishal&lt;/h3>
+&lt;p>&lt;em>UMass Dartmouth&lt;/em>&lt;/p>
+&lt;h4 id="towards-exponentially-convergent-simulations-of-extreme-mass-ratio-inspirals-a-time-domain-solver-for-the-teukolsky-equation-with-singular-source-terms">Towards exponentially-convergent simulations of extreme-mass-ratio inspirals: A time-domain solver for the Teukolsky equation with singular source terms&lt;/h4>
+&lt;p>Laser Interferometer Space Antenna (LISA), a future space-borne gravitational wave detector, is primarily sensitive to Extreme Mass Ratio Inspirals (EMRIs), which are black hole mergers with a mass ratio greater than 100,000. We require an extremely precise template wave bank for the matched filtering procedure. In this talk, I will discuss about a Discontinuous Galerkin (DG) technique for gravitational wave simulations of EMRI systems. The Teukolsky equation, which governs the behavior of EMRIs, is first reduced to a set of coupled 1+1D wave equations with a delta source term that functions as the secondary black hole in an EMRI system. Our DG approach, in contrast to previous numerical schemes, can precisely incorporate the smaller black hole&amp;rsquo;s point particle behavior in the form of a delta function. Compared to previous methods, our efficient method produces very accurate waveform due to the scheme&amp;rsquo;s spectral (super)convergence property and exact treatment of the Dirac delta function that models the smaller black hole. Our time domain solver now includes hyperboloidal layers, which allow us to retrieve the solution at null infinity. We verify our computation by calculating Kerr and Schwarzschild energy fluxes from circular orbits at null infinity and Price tail power laws.&lt;/p>
+&lt;hr></description></item><item><title>Virtual Infinity Workshop 2024</title><link>https://hyperboloid.al/event/virtual-24/</link><pubDate>Mon, 01 Jul 2024 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/virtual-24/</guid><description>&lt;h2 id="schedule">Schedule&lt;/h2>
+&lt;style>
+table {
+width: 100%;
+border-collapse: collapse;
+}
+th, td {
+border: 1px solid black;
+padding: 8px;
+text-align: left;
+}
+th {
+background-color: #f2f2f2;
+}
+.break {
+background-color: #e6f7ff;
+}
+&lt;/style>
+&lt;table>
+&lt;tr>
+&lt;th>Time&lt;/th>
+&lt;th>Mon, 1 Jul&lt;/th>
+&lt;th>Tue, 2 Jul&lt;/th>
+&lt;/tr>
+&lt;tr>
+&lt;td>8:55—9:00&lt;/td>
+&lt;td class="break">Rodrigo Panosso Macedo&lt;/td>
+&lt;td class="break">David Hilditch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9:00—9:20&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#carla-cederbaum>Carla Cederbaum&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#marina-de-amicis>Marina De Amicis&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9:20—9:40&lt;/td>
+&lt;td>&lt;a href="https://hyperboloid.al/virtual-24-talks#anna-sancassani">Anna Sancassani&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#partick-bourg>Patrick Bourg&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9:40—10:00&lt;/td>
+&lt;td>&lt;a href="https://hyperboloid.al/virtual-24-talks#philippe-g-lefloch">Philippe G. LeFloch&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#pedro-baptista>Pedro Baptista&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:00—10:20&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#michele-lenzi>Michele Lenzi&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#manas-vishal>Manas Vishal&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:20—10:40&lt;/td>
+&lt;td class="break" colspan="4">Coffee and Tea&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10:40—11:00&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#benjamin-leather>Benjamin Leather&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#alex-vano-vinuales>Alex Vañó Viñuales&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:00—11:20&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#brad-cownden>Brad Cownden&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#joao-dinis-alvares>João Dinis Álvares&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:20—11:40&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#subhodeep-sarkar>Subhodeep Sarkar&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#christian-peterson-borquez>Christian Peterson Bórquez&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11:40—12:00&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#network-meeting>Network Meeting&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#shalabh-gautam>Shalabh Gautam&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;h3 id="funding">Funding&lt;/h3>
 &lt;section class="logo-list">
 &lt;div class="container">
 &lt;div class="row">
 &lt;div class="col-lg-4 col-sm-12">
-&lt;img src="https://hyperboloid.al/uploads/Copenhagen-23-Logos/nsf_logo.jpg" style="width:auto;height:100px;" alt="UMD Logo">
+&lt;img src="https://hyperboloid.al/uploads/Copenhagen-23-Logos/nsf_logo.jpg" style="width:auto;height:100px;" alt="NSF Logo">
 &lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;/section>
-&lt;hr></description></item><item><title>Time across null horizons</title><link>https://hyperboloid.al/event/24-05-10-zenginoglu/</link><pubDate>Fri, 10 May 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-05-10-zenginoglu/</guid><description/></item><item><title>Hyperboloidal coordinates and blowup for wave equations</title><link>https://hyperboloid.al/event/24-04-12-donninger/</link><pubDate>Fri, 12 Apr 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-04-12-donninger/</guid><description/></item><item><title>Pseudospectrum of black hole quasi-normal modes: results and obstacles</title><link>https://hyperboloid.al/event/24-03-15-valentin/</link><pubDate>Fri, 15 Mar 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-03-15-valentin/</guid><description/></item><item><title>Asymptotics in General Relativity: the role of spatial infinity</title><link>https://hyperboloid.al/event/24-02-09-valiente-kroon/</link><pubDate>Fri, 09 Feb 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-02-09-valiente-kroon/</guid><description/></item><item><title>Conformal diagrams for strong-field hyperboloidal slices</title><link>https://hyperboloid.al/event/24-01-12-vano-vinuales/</link><pubDate>Fri, 12 Jan 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-01-12-vano-vinuales/</guid><description/></item><item><title>Studying black hole ringdown with hyperboloidal methods</title><link>https://hyperboloid.al/event/23-12-15-ripley/</link><pubDate>Fri, 15 Dec 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-12-15-ripley/</guid><description/></item><item><title>Soliton resolution on a wormhole</title><link>https://hyperboloid.al/event/23-11-10-bizon/</link><pubDate>Fri, 10 Nov 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-11-10-bizon/</guid><description/></item><item><title>Hyperboloidal approach on black-hole spacetimes: the minimal gauge</title><link>https://hyperboloid.al/event/23-10-13-panosso-macedo/</link><pubDate>Fri, 13 Oct 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-10-13-panosso-macedo/</guid><description/></item><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;meta charset="utf-8">
+&lt;/section></description></item><item><title>Time across null horizons</title><link>https://hyperboloid.al/event/24-05-10-zenginoglu/</link><pubDate>Fri, 10 May 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-05-10-zenginoglu/</guid><description/></item><item><title>Hyperboloidal coordinates and blowup for wave equations</title><link>https://hyperboloid.al/event/24-04-12-donninger/</link><pubDate>Fri, 12 Apr 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-04-12-donninger/</guid><description/></item><item><title>Pseudospectrum of black hole quasi-normal modes: results and obstacles</title><link>https://hyperboloid.al/event/24-03-15-valentin/</link><pubDate>Fri, 15 Mar 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-03-15-valentin/</guid><description/></item><item><title>Asymptotics in General Relativity: the role of spatial infinity</title><link>https://hyperboloid.al/event/24-02-09-valiente-kroon/</link><pubDate>Fri, 09 Feb 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-02-09-valiente-kroon/</guid><description/></item><item><title>Conformal diagrams for strong-field hyperboloidal slices</title><link>https://hyperboloid.al/event/24-01-12-vano-vinuales/</link><pubDate>Fri, 12 Jan 2024 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/24-01-12-vano-vinuales/</guid><description/></item><item><title>Studying black hole ringdown with hyperboloidal methods</title><link>https://hyperboloid.al/event/23-12-15-ripley/</link><pubDate>Fri, 15 Dec 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-12-15-ripley/</guid><description/></item><item><title>Soliton resolution on a wormhole</title><link>https://hyperboloid.al/event/23-11-10-bizon/</link><pubDate>Fri, 10 Nov 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-11-10-bizon/</guid><description/></item><item><title>Hyperboloidal approach on black-hole spacetimes: the minimal gauge</title><link>https://hyperboloid.al/event/23-10-13-panosso-macedo/</link><pubDate>Fri, 13 Oct 2023 14:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/23-10-13-panosso-macedo/</guid><description/></item><item><title>Infinity on a Gridshell</title><link>https://hyperboloid.al/event/copenhagen-23/</link><pubDate>Mon, 10 Jul 2023 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/copenhagen-23/</guid><description>&lt;meta charset="utf-8">
 &lt;h2 id="schedule">Schedule&lt;/h2>
 &lt;style>
 table {
