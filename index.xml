@@ -188,7 +188,7 @@ and Cauchy-characteristic methods.&lt;/p>
 &lt;h3 id="joão-dinis-álvares">João Dinis Álvares&lt;/h3>
 &lt;p>&lt;em>Instituto Superior Técnico Lisbon&lt;/em>&lt;/p>
 &lt;h4 id="electrically-charged-numerical-simulations-on-hyperboloidal-slices">Electrically charged numerical simulations on hyperboloidal slices&lt;/h4>
-&lt;p>TBA&lt;/p>
+&lt;p>Gravitational wave radiation is only unambiguously defined at future null infinity: the location in spacetime where light rays arrive and where global properties of spacetimes can be measured. Within the context of numerical relativity we set up simulations reaching future null infinity by using hyperboloidal slices, as opposed to traditional Cauchy slices that reach spacelike infinity. Extending previous work in spherical symmetry, the Einstein-Maxwell-Klein-Gordon system is evolved on hyperboloidal slices, allowing to model gravity coupled to electromagnetism and a complex massless scalar field. This allows us to simulate the evolution of a charged scalar field and/or a Reissner-Nördstrom (electrically charged) black hole, where this last scenario serves as a useful toy model for a rotating (Kerr) black hole. We will report on current progress on these charged evolutions, where we retrieve their emitted signals at future null infinity as they would be seen by detectors on Earth.&lt;/p>
 &lt;hr>
 &lt;h3 id="shalabh-gautam">Shalabh Gautam&lt;/h3>
 &lt;p>&lt;em>ICTS&lt;/em>&lt;/p>
@@ -236,7 +236,9 @@ and Cauchy-characteristic methods.&lt;/p>
 &lt;p>&lt;em>UMass Dartmouth&lt;/em>&lt;/p>
 &lt;h4 id="towards-exponentially-convergent-simulations-of-extreme-mass-ratio-inspirals-a-time-domain-solver-for-the-teukolsky-equation-with-singular-source-terms">Towards exponentially-convergent simulations of extreme-mass-ratio inspirals: A time-domain solver for the Teukolsky equation with singular source terms&lt;/h4>
 &lt;p>Laser Interferometer Space Antenna (LISA), a future space-borne gravitational wave detector, is primarily sensitive to Extreme Mass Ratio Inspirals (EMRIs), which are black hole mergers with a mass ratio greater than 100,000. We require an extremely precise template wave bank for the matched filtering procedure. In this talk, I will discuss about a Discontinuous Galerkin (DG) technique for gravitational wave simulations of EMRI systems. The Teukolsky equation, which governs the behavior of EMRIs, is first reduced to a set of coupled 1+1D wave equations with a delta source term that functions as the secondary black hole in an EMRI system. Our DG approach, in contrast to previous numerical schemes, can precisely incorporate the smaller black hole&amp;rsquo;s point particle behavior in the form of a delta function. Compared to previous methods, our efficient method produces very accurate waveform due to the scheme&amp;rsquo;s spectral (super)convergence property and exact treatment of the Dirac delta function that models the smaller black hole. Our time domain solver now includes hyperboloidal layers, which allow us to retrieve the solution at null infinity. We verify our computation by calculating Kerr and Schwarzschild energy fluxes from circular orbits at null infinity and Price tail power laws.&lt;/p>
-&lt;hr></description></item><item><title>Virtual Infinity Workshop 2024</title><link>https://hyperboloid.al/event/virtual-24/</link><pubDate>Mon, 01 Jul 2024 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/virtual-24/</guid><description>&lt;h2 id="schedule">Schedule&lt;/h2>
+&lt;hr>
+&lt;h3 id="network-meeting">Network Meeting&lt;/h3>
+&lt;p>TBA&lt;/p></description></item><item><title>Virtual Infinity Workshop 2024</title><link>https://hyperboloid.al/event/virtual-24/</link><pubDate>Mon, 01 Jul 2024 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/virtual-24/</guid><description>&lt;h2 id="schedule">Schedule&lt;/h2>
 &lt;style>
 table {
 width: 100%;
@@ -261,51 +263,52 @@ background-color: #e6f7ff;
 &lt;th>Tue, 2 Jul&lt;/th>
 &lt;/tr>
 &lt;tr>
-&lt;td>8:55—9:00&lt;/td>
+&lt;td>9:55—10:00 UTC&lt;/td>
 &lt;td class="break">Rodrigo Panosso Macedo&lt;/td>
 &lt;td class="break">David Hilditch&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>9:00—9:20&lt;/td>
+&lt;td>10:00—10:20 UTC&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#carla-cederbaum>Carla Cederbaum&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#marina-de-amicis>Marina De Amicis&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>9:20—9:40&lt;/td>
+&lt;td>10:20—10:40 UTC&lt;/td>
 &lt;td>&lt;a href="https://hyperboloid.al/virtual-24-talks#anna-sancassani">Anna Sancassani&lt;/a>&lt;/td>
-&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#partick-bourg>Patrick Bourg&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#patrick-bourg>Patrick Bourg&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>9:40—10:00&lt;/td>
+&lt;td>10:40—11:00 UTC&lt;/td>
 &lt;td>&lt;a href="https://hyperboloid.al/virtual-24-talks#philippe-g-lefloch">Philippe G. LeFloch&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#pedro-baptista>Pedro Baptista&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>10:00—10:20&lt;/td>
+&lt;td>11:00—11:20 UTC&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#michele-lenzi>Michele Lenzi&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#manas-vishal>Manas Vishal&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>10:20—10:40&lt;/td>
-&lt;td class="break" colspan="4">Coffee and Tea&lt;/td>
+&lt;td>11:20—11:40 UTC&lt;/td>
+&lt;td class="break">Break&lt;/td>
+&lt;td class="break">Break&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>10:40—11:00&lt;/td>
+&lt;td>11:40—12:00 UTC&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#benjamin-leather>Benjamin Leather&lt;/a>&lt;/td>
-&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#alex-vano-vinuales>Alex Vañó Viñuales&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#alex-vañó-viñuales>Alex Vañó Viñuales&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>11:00—11:20&lt;/td>
+&lt;td>12:00—12:20 UTC&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#brad-cownden>Brad Cownden&lt;/a>&lt;/td>
-&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#joao-dinis-alvares>João Dinis Álvares&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#joão-dinis-álvares>João Dinis Álvares&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>11:20—11:40&lt;/td>
+&lt;td>12:20—12:40 UTC&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#subhodeep-sarkar>Subhodeep Sarkar&lt;/a>&lt;/td>
-&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#christian-peterson-borquez>Christian Peterson Bórquez&lt;/a>&lt;/td>
+&lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#christian-peterson-bórquez>Christian Peterson Bórquez&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>11:40—12:00&lt;/td>
+&lt;td>12:40—13:00 UTC&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#network-meeting>Network Meeting&lt;/a>&lt;/td>
 &lt;td>&lt;a href=https://hyperboloid.al/virtual-24-talks#shalabh-gautam>Shalabh Gautam&lt;/a>&lt;/td>
 &lt;/tr>
