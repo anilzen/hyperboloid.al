@@ -91,8 +91,8 @@ to extend this method in full 3d.
 ### Benjamin Leather
 *Max Planck Institute for Gravitational Physics*
 
-#### TBA
-TBA
+#### Lorenz-Gauge Metric Perturbations with hyperboloidal slicing and spectral methods
+Gravitational self-force theory is the leading approach for modelling gravitational wave emission from small mass-ratio compact binaries. This method perturbatively expands the metric of the binary in powers of the mass ratio.  Traditional frequency domain approaches employ the variation of parameters method and compute the perturbation on constant time slices of the spacetime with numerical boundary conditions supplied at finite radius from series expansions of the asymptotic behaviour. This approach has been very successful but the boundary conditions calculations are tedious and the approach is not well suited to non-compact sources where homogeneous solutions must be computed at all radii.  The latter, in particular, is important for emerging second-order in the mass ratio calculations.  More recently, a new methodology has emerged based on approach where the spacetime is foliated by horizon-penetrating hyperboloidal slices - see Phys. Rev. D 105, 104033.  Further compactifying the coordinates along these slices allows for simple treatment of the boundary conditions.  In this talk, I shall present one of the first applications of these methods to gravitational perturbations in the Lorenz gauge.  We find this method works efficiently for self-force calculations at first-order in the mass ratio and has some distinct advantages over the traditional approach.  Finally, I shall discuss the importance of these methods for emerging second-order in the mass ratio calculations.
 
 ---
 
