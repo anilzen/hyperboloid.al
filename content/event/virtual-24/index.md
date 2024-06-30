@@ -7,10 +7,7 @@ event_url: https://hyperboloid.al/event/virtual-24
 location: Online via Zoom
 
 summary: Second workshop on hyperboloidal methods to be held virtually.
-abstract: 'This is the second workshop on hyperboloidal methods. In this workshop, we will focus on forming new research ideas and collaborations among participants. Sharing of ideas will be facilitated by short, 20-minute talks on recent developments in hyperboloidal methods followed by unconference breakout rooms. The workshop will be held virtually.
-
-To register, please fill out the [Google form](https://forms.gle/ksULRbBH6fW4VkNh9).'
-
+abstract: 'This is the second workshop on hyperboloidal methods. In this workshop, we will focus on forming new research ideas and collaborations among participants. Sharing of ideas will be facilitated by short, 20-minute talks on recent developments in hyperboloidal methods followed by unconference breakout rooms. The workshop will be held virtually.'
 date: '2024-07-01T09:00:00Z'
 date_end: '2024-07-02T15:00:00Z'
 all_day: true
