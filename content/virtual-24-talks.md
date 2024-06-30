@@ -156,5 +156,5 @@ Laser Interferometer Space Antenna (LISA), a future space-borne gravitational wa
 ---
 ### Network Meeting
 
-The [Infinity on a Gridshell](/content/event/copenhagen-23/) 2023 meeting at the Niels Bohr Institute in Copenhagen marked the foundation of our Hyperboloidal Research Network. In this talk, we will present a brief update on our activities and achievements over this first year (monthly Virtual Infinity Seminars, Hyperbolic Times newsletter, Youtube Channel, topical collection). We plan to discuss networking options and strategic developments for the future, mainly focusing on fund applications for staff mobility for the network.
+The [Infinity on a Gridshell](/event/copenhagen-23/) 2023 meeting at the Niels Bohr Institute in Copenhagen marked the foundation of our Hyperboloidal Research Network. In this talk, we will present a brief update on our activities and achievements over this first year (monthly Virtual Infinity Seminars, Hyperbolic Times newsletter, YouTube channel, and topical collection). We plan to discuss networking options and strategic developments for the future, mainly focusing on fund applications for staff mobility for the network.
 
