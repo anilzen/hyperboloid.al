@@ -13,7 +13,7 @@ event: Zoom link
 event_url: https://umd.zoom.us/j/99403590299?pwd=U1lFYTMrTE9OdXpLU3ZyTmxvd0lWUT09
 location: Online
 all_day: false
-publishDate: '2024-07-01T00:00:00Z'
+publishDate: '2024-07-17T06:00:00Z'
 tags: [virtual infinity seminar]
 featured: true
 image:  
