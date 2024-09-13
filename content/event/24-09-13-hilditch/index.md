@@ -5,8 +5,8 @@ abstract: I will give an update on our progress toward numerical treatment of th
 summary: September 2024 Virtual Infinity Seminar by David Hilditch (University of Lisbon)
 date: '2024-09-13T14:00:00Z'
 authors: [hilditch]
-# url_slides: /uploads/seminar-slides/24-05-10-zenginoglu.pdf
-# url_video: https://www.youtube.com/watch?v=nRDHQm1ATBc
+url_slides: /uploads/seminar-slides/24-09-13-hilditch.pdf
+url_video: https://www.youtube.com/watch?v=kVaq5mCfvAs
 
 # The rest doesn't change for seminars
 event: Zoom link
