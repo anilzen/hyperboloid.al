@@ -4,8 +4,8 @@ abstract: Quasinormal modes (QNMs) of black holes are governed by a non-normal H
 summary: October 2024 Virtual Infinity Seminar by Javier Carballo (University of Southampton)
 date: '2024-10-25T14:00:00Z'
 authors: [carballo]
-# url_slides: /uploads/seminar-slides/24-09-13-hilditch.pdf
-# url_video: https://www.youtube.com/watch?v=kVaq5mCfvAs
+url_slides: /uploads/seminar-slides/24-10-25-carballo.pdf
+url_video: https://youtu.be/ys2Ocb6JrMU
 
 # The rest doesn't change for seminars
 event: Zoom link
