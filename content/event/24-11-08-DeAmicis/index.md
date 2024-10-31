@@ -5,7 +5,7 @@ abstract: "<p>Recently, studies on numerical evolutions of eccentric binary insp
 <p>Considering a source term describing an infalling test-particle in generic non-circular orbits, driven by post-Newtonian radiation reaction, I derive an integral expression over the system's entire history, showing how the post-ringdown tail is inherited from the non-circular inspiral in a non-local fashion. Beyond its excellent agreement with numerical evolutions, the model explains the tail amplification with the progenitors' binary eccentricity. </p>
 
 <p>I will prove the tail to be a superposition of many power-laws, with each term's excitation coefficient depending on the specific inspiral history. A single power law is recovered only in the limit of asymptotically late times, consistent with Price's results and the classical soft-graviton theorem. I will conclude by discussing future directions, including new results for the non-linear extension to equal masses.</p>"
-summary: November 2024 Virtual Infinity Seminar by Marina de Amicis (Niels Bohr Institute)
+summary: November 2024 Virtual Infinity Seminar by Marina De Amicis (Niels Bohr Institute)
 date: '2024-11-08T14:00:00Z'
 authors: [deamicis]
 # url_slides: /uploads/seminar-slides/24-10-25-carballo.pdf
