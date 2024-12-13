@@ -4,8 +4,8 @@ abstract: "We study asymptotic quasi-normal mode expansions of linear fields pro
 summary: December 2024 Virtual Infinity Seminar by Jérémy Besson (Université de Bourgogne and MPI for Gravitational Physics)
 date: '2024-12-13T14:00:00Z'
 authors: [besson]
-# url_slides: /uploads/seminar-slides/24-11-08-deamicis.pdf
-# url_video: https://youtu.be/oeoIZvllpxM
+url_slides: /uploads/seminar-slides/24-12-13-besson.pdf
+url_video: https://youtu.be/nR7DZOr8T84
 
 # The rest doesn't change for seminars
 event: Zoom link
