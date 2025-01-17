@@ -5,8 +5,8 @@ summary: January 2025 Virtual Infinity Seminar by Christopher Burgess (Universit
 date: '2025-01-17T14:00:00Z'
 authors: [burgess]
 publishDate: '2024-12-18T06:00:00Z'
-# url_slides: /uploads/seminar-slides/24-12-13-besson.pdf
-# url_video: https://youtu.be/nR7DZOr8T84
+url_slides: /uploads/seminar-slides/25-01-17-burgess.pdf
+url_video: https://youtu.be/wxlGC_fEAUc
 
 # The rest doesn't change for seminars
 event: Zoom link
