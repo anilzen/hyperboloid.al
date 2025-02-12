@@ -10,7 +10,7 @@ publishDate: '2025-01-24T06:00:00Z'
 
 # The rest doesn't change for seminars
 event: Zoom link
-event_url: https://videoconf-colibri.zoom.us/j/2553839891?omn=93239654566
+event_url: https://videoconf-colibri.zoom.us/j/96884014185?pwd=Pd1cEnBbUzaIZ0AiuboFuIEbxxlI6g.1
 location: Online
 all_day: false
 tags: [virtual infinity seminar]
