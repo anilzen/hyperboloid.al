@@ -5,8 +5,8 @@ summary: March 2025 Virtual Infinity Seminar by Marica Minucci (Niels Bohr Insti
 date: '2025-03-14T14:00:00Z'
 authors: [minucci]
 publishDate: '2025-01-20T06:00:00Z'
-# url_slides: /uploads/seminar-slides/25-01-17-burgess.pdf
-# url_video: https://youtu.be/wxlGC_fEAUc
+url_slides: /uploads/seminar-slides/25-03-14-minucci.pdf
+url_video: https://www.youtube.com/watch?v=UTjS4nBJpdQ
 
 # The rest doesn't change for seminars
 event: Zoom link
