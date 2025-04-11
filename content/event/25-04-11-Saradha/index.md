@@ -7,8 +7,8 @@ summary: April 2025 Virtual Infinity Seminar by Saradha Senthil-Velu (University
 date: '2025-04-11T14:00:00Z'
 authors: [saradha]
 publishDate: '2025-03-10T06:00:00Z'
-# url_slides: /uploads/seminar-slides/25-01-17-burgess.pdf
-# url_video: https://youtu.be/wxlGC_fEAUc
+url_slides: /uploads/seminar-slides/25-04-11-senthil-velu.pdf
+url_video: https://www.youtube.com/watch?v=tLq3WvvOh5o
 
 # The rest doesn't change for seminars
 event: Zoom link
