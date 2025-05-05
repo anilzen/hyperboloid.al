@@ -15,7 +15,7 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: International Centre for Theoretical Sciences (ICTS), Bengaluru
+- name: Beijing Institute for Mathematical Sciences and Applications (BIMSA)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -24,16 +24,22 @@ organizations:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.icts.res.in/people/shalabh-gautam
+  link: https://www.bimsa.cn/detail/sgautam.html
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:shalabh.gautam@icts.res.in'
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: 
-# - icon: orcid
-#   icon_pack: fab
-#   link: https://orcid.org/0000-0003-1170-5121
+  link: 'mailto:shalabhgautam@bimsa.cn'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=wP_1c08AAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://in.linkedin.com/in/shalabh-gautam
+- icon: inspire
+  icon_pack: ai
+  link: https://inspirehep.net/authors/2656474
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-2230-3988
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
