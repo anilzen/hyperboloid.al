@@ -5,8 +5,8 @@ summary: May 2025 Virtual Infinity Seminar by Alex Vañó-Viñuales (University 
 date: '2025-05-16T14:00:00Z'
 authors: [vano-vinuales]
 publishDate: '2025-04-10T06:00:00Z'
-# url_slides: /uploads/seminar-slides/25-04-11-senthil-velu.pdf
-# url_video: https://www.youtube.com/watch?v=tLq3WvvOh5o
+url_slides: /uploads/seminar-slides/25-05-16-vano-vinuales.pdf
+url_video: https://youtu.be/BYd9oQ7TQi8
 
 # The rest doesn't change for seminars
 event: Zoom link
