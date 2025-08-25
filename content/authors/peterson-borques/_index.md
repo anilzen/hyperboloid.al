@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Christian Peterson Borquez
-weight: 40
+weight: 35
 
 # Username (this should match the folder name)
 authors:
