@@ -16,6 +16,6 @@ all_day: false
 tags: [virtual infinity seminar]
 featured: true
 image:  
-  caption:
+  caption: image credit to H. Friedrich
   focal_point: center
 ---
