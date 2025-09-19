@@ -6,7 +6,7 @@ date: '2025-09-19T14:00:00Z'
 publishDate: '2025-08-24T00:00:00Z'
 authors: [rinne]
 url_slides: #/uploads/seminar-slides/24-05-10-zenginoglu.pdf
-url_video: #https://www.youtube.com/watch?v=nRDHQm1ATBc
+url_video: https://youtu.be/jqCBysKFTsY
 
 # The rest doesn't change for seminars
 event: Zoom link
