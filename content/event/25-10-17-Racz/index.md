@@ -5,8 +5,8 @@ summary: October 2025 Virtual Infinity Seminar by István Rácz (Wigner Research
 date: '2025-10-17T14:00:00Z'
 publishDate: '2025-09-02T00:00:00Z'
 authors: [racz]
-url_slides: #/uploads/seminar-slides/24-05-10-zenginoglu.pdf
-url_video: #https://www.youtube.com/watch?v=nRDHQm1ATBc
+url_slides: /uploads/seminar-slides/25-10-17-racz.pdf
+url_video: https://youtu.be/V8bmdgidY0c
 
 # The rest doesn't change for seminars
 event: Zoom link
