@@ -11,14 +11,14 @@ authors:
 superuser: false
 
 # Role/position
-role: Post-Doc FCT
+role: Vicenç Mut senior postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Astrophysics and Gravitation (CENTRA)
-  url: https://centra.tecnico.ulisboa.pt/
-- name: IST, University of Lisbon
-  url: https://tecnico.ulisboa.pt/en/
+- name: Gravity group, IAC3
+  url: https://iac3.uib.es/
+- name: University of the Balearic Islands
+  url: https://www.uib.cat/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Numerical relativist at the interface with mathematical General Relativity. 
