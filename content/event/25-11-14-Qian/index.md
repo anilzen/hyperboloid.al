@@ -5,8 +5,8 @@ summary: November 2025 Virtual Infinity Seminar by Wei-Liang Qian (University of
 date: '2025-11-14T14:00:00Z'
 publishDate: '2025-09-02T00:00:00Z'
 authors: [qian]
-url_slides: #/uploads/seminar-slides/24-05-10-zenginoglu.pdf
-url_video: #https://www.youtube.com/watch?v=nRDHQm1ATBc
+url_slides: /uploads/seminar-slides/25-11-14-qian.pdf
+url_video: https://youtu.be/bftJ1B2PzZU
 
 # The rest doesn't change for seminars
 event: Zoom link
