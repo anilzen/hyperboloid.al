@@ -1,12 +1,12 @@
 ---
-title: "Why greybody factors remain insensitive to metric perturbations despite the spectral instability of Regge poles"
-abstract: We examine the stability of black hole observables in the ringdown regime through an analysis of Regge poles and greybody factors. Recent studies by Rosato et al. and Oshita et al. proposed greybody factorsas more robust descriptors of black hole spectra than quasinormal modes, whose spectral instability is highly sensitive to ultraviolet perturbations of the metric. Motivated by this perspective, we investigate how Regge poles, central to the analytic structure of the scattering matrix in the complex angular momentum plane, characterize scattering and absorption phenomena for black holes with metric discontinuities. We extend the matrix method implemented in hyperboloidal coordinates to compute Regge poles under such discontinuities and validate the results by comparing them with a modified continued fraction approach. Using the resulting Regge pole spectrum, we evaluate the associated scattering amplitudes and total absorption cross sections. Our findings demonstrate that the stability of these observables across frequencies can be traced to the low-lying modes, while spectral bifurcations at higher frequencies signal the onset of instability induced by distant ultraviolet perturbations. Nevertheless, under the WKB approximation, these high-frequency deformations are shown to have limited observable impact, supporting the robustness of greybody factors as reliable signatures of black hole dynamics.
-summary: November 2025 Virtual Infinity Seminar by Wei-Liang Qian (University of Sao Paulo)
-date: '2025-11-14T14:00:00Z'
-publishDate: '2025-09-02T00:00:00Z'
-authors: [qian]
-url_slides: /uploads/seminar-slides/25-11-14-qian.pdf
-url_video: https://youtu.be/bftJ1B2PzZU
+title: "Controlled regularity at future null infinity from past asymptotic initial data: the wave equation"
+abstract: We study the relationship between asymptotic characteristic initial data for the wave equation at past null infinity and the regularity of the solution at future null infinity on the Minkowski spacetime. By constructing estimates on a causal rectangle reaching the conformal boundary, we prove that the solution admits an asymptotic expansion near null and spatial infinity whose regularity is controlled quantitatively in terms of the regularity of the data at past null infinity. In particular, our method gives rise to solutions to the wave equation in a neighbourhood of spatial infinity satisfying the peeling behaviour, for data on past null infinity with non-compact support. Our approach makes use of Friedrich's conformal representation of spatial infinity in which we prove delicate non-degenerate Grönwall estimates. We describe the relationship between the solution and the data both in terms of Friedrich's conformal coordinates and the usual physical coordinates on Minkowski space. This is joint work with Grigalius Taujanskas and Juan Valiente Kroon. The paper of the same title is available to read at [arXiv:2508.04690](https://arxiv.org/abs/2508.04690).
+summary: December 2025 Virtual Infinity Seminar by Jordan Marajh (Queen Mary University of London)
+date: '2025-12-12T14:00:00Z'
+publishDate: '2025-11-30T00:00:00Z'
+authors: [marajh]
+# url_slides: /uploads/seminar-slides/25-11-14-qian.pdf
+# url_video: https://youtu.be/bftJ1B2PzZU
 
 # The rest doesn't change for seminars
 event: Zoom link
