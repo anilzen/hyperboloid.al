@@ -5,8 +5,8 @@ summary: December 2025 Virtual Infinity Seminar by Jordan Marajh (Queen Mary Uni
 date: '2025-12-12T14:00:00Z'
 publishDate: '2025-11-30T00:00:00Z'
 authors: [marajh]
-# url_slides: /uploads/seminar-slides/25-11-14-qian.pdf
-# url_video: https://youtu.be/bftJ1B2PzZU
+url_slides: /uploads/seminar-slides/25-12-12-marajh.pdf
+url_video: https://youtu.be/ka4wJHvueJQ
 
 # The rest doesn't change for seminars
 event: Zoom link
