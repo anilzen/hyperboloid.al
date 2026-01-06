@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andrea Nutzi
+title: Andrea Nützi
 weight: 32
 
 # Username (this should match the folder name)
