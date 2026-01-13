@@ -1,5 +1,5 @@
 ---
-title: Hyperboloidal Foliations and Scri-fixing
+title: Hyperboloidal Foliations
 subtitle:
 widget: blank
 headless: false
