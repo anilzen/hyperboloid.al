@@ -16,6 +16,9 @@ main:
   - name: Events
     url: event
     weight: 20
+  - name: Resources
+    url: resources
+    weight: 25
   - name: Blog
     url: post
     weight: 30
