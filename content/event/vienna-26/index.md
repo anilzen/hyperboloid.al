@@ -74,6 +74,8 @@ design:
 ---
 
 
-## Group Photo
+## Photos
+
+![Ice Skating](ice_skating.png)
 
 ![Group Photo](DSC02647.JPG)
