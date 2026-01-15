@@ -163,8 +163,6 @@ design:
 
 ### Conference Photos
 
-#### Workshop
-
 #### Dinner
 ![Workshop Dinner](./WorkshopDinner.webp)
 

@@ -72,3 +72,8 @@ projects:
 design: 
 
 ---
+
+
+## Group Photo
+
+![Group Photo](DSC02647.JPG)
