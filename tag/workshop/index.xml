@@ -2,6 +2,19 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Group Photo" srcset="
+/event/vienna-26/DSC02647_hu0f0ed32d11622f56b6c64682c39512a0_7701309_880721dbeb11919bfd9e7963bdd93cdc.webp 400w,
+/event/vienna-26/DSC02647_hu0f0ed32d11622f56b6c64682c39512a0_7701309_907f4feda7e562d94f4082f9a8396245.webp 760w,
+/event/vienna-26/DSC02647_hu0f0ed32d11622f56b6c64682c39512a0_7701309_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://hyperboloid.al/event/vienna-26/DSC02647_hu0f0ed32d11622f56b6c64682c39512a0_7701309_880721dbeb11919bfd9e7963bdd93cdc.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Ice Skating" srcset="
 /event/vienna-26/ice_skating_hu8839f273baf8fb0e34decfe65a22f5f9_16301369_97a785b2eb98fed507d32f36bad065b0.webp 400w,
 /event/vienna-26/ice_skating_hu8839f273baf8fb0e34decfe65a22f5f9_16301369_8c23b728926cbabf917cdd0cb479029a.webp 760w,
@@ -15,13 +28,13 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Group Photo" srcset="
-/event/vienna-26/DSC02647_hu0f0ed32d11622f56b6c64682c39512a0_7701309_880721dbeb11919bfd9e7963bdd93cdc.webp 400w,
-/event/vienna-26/DSC02647_hu0f0ed32d11622f56b6c64682c39512a0_7701309_907f4feda7e562d94f4082f9a8396245.webp 760w,
-/event/vienna-26/DSC02647_hu0f0ed32d11622f56b6c64682c39512a0_7701309_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://hyperboloid.al/event/vienna-26/DSC02647_hu0f0ed32d11622f56b6c64682c39512a0_7701309_880721dbeb11919bfd9e7963bdd93cdc.webp"
+&lt;div class="w-100" >&lt;img alt="Dinner" srcset="
+/event/vienna-26/dinner_hu4f8711be0adbf09199df530414451038_3997503_18764a66e380febd5dac7ad4fd7c5ce8.webp 400w,
+/event/vienna-26/dinner_hu4f8711be0adbf09199df530414451038_3997503_d8ea8d813818c3f2f785bbfcf75fe866.webp 760w,
+/event/vienna-26/dinner_hu4f8711be0adbf09199df530414451038_3997503_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://hyperboloid.al/event/vienna-26/dinner_hu4f8711be0adbf09199df530414451038_3997503_18764a66e380febd5dac7ad4fd7c5ce8.webp"
 width="760"
-height="507"
+height="570"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Virtual Infinity Workshop 2024</title><link>https://hyperboloid.al/event/virtual-24/</link><pubDate>Mon, 01 Jul 2024 09:00:00 +0000</pubDate><guid>https://hyperboloid.al/event/virtual-24/</guid><description>&lt;h2 id="schedule">Schedule&lt;/h2>
