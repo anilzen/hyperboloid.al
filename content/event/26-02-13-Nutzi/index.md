@@ -1,8 +1,8 @@
 ---
 title: "Perturbations of Minkowski spacetime with regular conformal compactification"
 abstract: >
-  Using Friedrich's work on the conformal vacuum field equations, one can construct a class of spacetimes with the following properties: They are globally close to Minkowski, identical to a Kerr black hole spacetime near spacelike infinity, and admit a smooth conformal compactification at null infinity. In this talk we construct (assuming appropriate solutions of the constraints) a more general class of spacetimes, that only asymptote to Kerr towards spacelike infinity, but still admit a smooth conformal compactification at null infinity. This is based on a new
-summary: February 2026 Virtual Infinity Seminar by Andrea Nutzi (Stockholm University)
+  Using Friedrich's work on the conformal vacuum field equations, one can construct a class of spacetimes with the following properties: They are globally close to Minkowski, identical to a Kerr black hole spacetime near spacelike infinity, and admit a smooth conformal compactification at null infinity. In this talk we construct (assuming appropriate solutions of the constraints) a more general class of spacetimes, that only asymptote to Kerr towards spacelike infinity, but still admit a smooth conformal compactification at null infinity. This is based on a new formulation of the dynamic problem as a hyperbolic PDE that is regular at null infinity, and with null infinity being at a fixed locus. It is not regular at spacelike infinity due to the asymptotics of the Kerr spacetime, which requires tailored energy estimates.
+summary: February 2026 Virtual Infinity Seminar by Andrea Nützi (Stockholm University)
 date: '2026-02-13T14:00:00Z'
 publishDate: '2026-01-06T00:00:00Z'
 authors: [nutzi]
