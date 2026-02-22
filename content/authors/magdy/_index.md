@@ -20,7 +20,7 @@ social:
   link: https://www.mariem-magdy.com/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mmagdy@perimeterinstitute.ca
+  link: 'mailto:mmagdy@perimeterinstitute.ca'
 
 
 highlight_name: true
