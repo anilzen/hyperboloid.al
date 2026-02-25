@@ -7,7 +7,7 @@ date: '2026-02-13T14:00:00Z'
 publishDate: '2026-01-06T00:00:00Z'
 authors: [nutzi]
 # url_slides: /uploads/seminar-slides/25-12-12-marajh.pdf
-# url_video: https://youtu.be/ka4wJHvueJQ
+url_video: https://youtu.be/bTPX9wi5re8
 
 # The rest doesn't change for seminars
 event: Zoom link
