@@ -15,3 +15,4 @@ design:
 ### Frequency domain
 
 ### Time domain
+[Blog post](https://anilzen.github.io/post/2026/black-hole-gravitational-waves/) with [code](https://colab.research.google.com/drive/1ii9zyHE9MlaOW4e9K1IBGPSPQzxltO7c) implementing a 1D solver to compute gravitational waves from a Schwarzschild black hole using the RWZ formalism.
