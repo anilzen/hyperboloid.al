@@ -6,8 +6,8 @@ summary: March 2026 Virtual Infinity Seminar by Mariem Magdy (Perimeter Institut
 date: '2026-03-13T14:00:00Z'
 publishDate: '2026-02-21T00:00:00Z'
 authors: [magdy]
-# url_slides: /uploads/seminar-slides/25-12-12-marajh.pdf
-# url_video: https://youtu.be/ka4wJHvueJQ
+url_slides: /uploads/seminar-slides/26-03-13-magdy.pdf
+url_video: https://youtu.be/uvadA5DmkZA
 
 # The rest doesn't change for seminars
 event: Zoom link
