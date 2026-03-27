@@ -11,14 +11,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Astrophysics and Gravitation (CENTRA)
-  url: https://centra.tecnico.ulisboa.pt/
-- name: University of Lisbon
-  url: https://tecnico.ulisboa.pt/en/
+- name: Institute of Nuclear Sciences at UNAM
+  url: https://www.nucleares.unam.mx/index.php
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
