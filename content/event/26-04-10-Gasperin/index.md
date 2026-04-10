@@ -6,8 +6,8 @@ summary: April 2026 Virtual Infinity Seminar by Edgar Gasperín (Institute of Nu
 date: '2026-04-10T14:00:00Z'
 publishDate: '2026-03-21T00:00:00Z'
 authors: [gasperin]
-# url_slides: /uploads/seminar-slides/26-03-13-magdy.pdf
-# url_video: https://youtu.be/uvadA5DmkZA
+url_slides: /uploads/seminar-slides/26-04-10-gasperin.pdf
+url_video: https://youtu.be/m5YhjAcAlmE
 
 # The rest doesn't change for seminars
 event: Zoom link
