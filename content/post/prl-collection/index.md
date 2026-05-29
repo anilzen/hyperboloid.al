@@ -1,7 +1,7 @@
 ---
 title: PRL Collection Award 2025
-subtitle: PRL Collection Recognition for Fully Nonlinear Gravitational Wave Simulations from Past to Future Null Infinity – Jörg Frauendiener, Chris Stevens and Sebenele Thwala
-summary: The minimal gauge is a hyperboloidal compactification promoted by Ansorg and Macedo. We demonstrate its various properties and explain its connection to Leaver's continued fraction method for the computation of quasinormal modes of black holes.
+subtitle: awarded to Jörg Frauendiener, Chris Stevens and Sebenele Thwala
+summary: PRL Collection Recognition for *Fully Nonlinear Gravitational Wave Simulations from Past to Future Null Infinity*, by Jörg Frauendiener, Chris Stevens and Sebenele Thwala
 
 projects: []
 date: "2026-05-29T00:01:00Z"
