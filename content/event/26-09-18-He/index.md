@@ -12,6 +12,9 @@ summary: September 2026 Virtual Infinity Seminar by Zhen-Tao He (University of C
 date: '2026-09-18T14:00:00Z'
 publishDate: '2026-08-25T00:00:00Z'
 authors: [he]
+url_slides: /uploads/seminar-slides/26-09-18-he.pdf
+url_video: https://youtu.be/1LhTTIlQhKQ
+
 
 # The rest doesn't change for seminars
 event: Zoom link
