@@ -15,6 +15,6 @@ all_day: false
 tags: [virtual infinity seminar]
 featured: true
 image:
-  caption: "Cauchy–hyperboloidal evolution of a perturbed black hole. Gold marks the matching interface; outer boundary is at null infinity."
+  caption: "Cauchy–hyperboloidal evolution of a perturbed black hole. Gold is the interface; outer boundary is at null infinity."
   focal_point: center
 ---
