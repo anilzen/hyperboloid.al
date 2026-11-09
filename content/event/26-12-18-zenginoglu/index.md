@@ -20,6 +20,6 @@ all_day: false
 tags: [virtual infinity seminar]
 featured: true
 image:
-  caption: "Radiative curvature in a nonlinear Cauchy–hyperboloidal evolution of a perturbed black hole. Gold marks the matching interface; the outer boundary is future null infinity."
+  caption: "Nonlinear Cauchy–hyperboloidal evolution of a perturbed black hole. Gold marks the matching interface; the outer boundary is future null infinity."
   focal_point: center
 ---
