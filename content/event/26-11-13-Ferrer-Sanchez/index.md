@@ -11,6 +11,8 @@ summary: November 2026 Virtual Infinity Seminar by Antonio Ferrer-Sánchez (Univ
 date: '2026-11-13T14:00:00Z'
 publishDate: '2026-09-09T00:00:00Z'
 authors: [ferrer-sanchez]
+url_slides: /uploads/seminar-slides/26-11-13-ferrer-sanchez.pdf
+url_video: https://www.youtube.com/watch?v=RGeOFSXXcxk
 
 # The rest doesn't change for seminars
 event: Zoom link
